@@ -9,12 +9,13 @@
 
 class SemanticExtractor
 
+	# Load Input Text
 	def load(text)
 		@input_text = text
 	end
 
+	# Semantic Extractor
 	def extract
-
 		# Extract Syntax
 		syntactic_extractor = SyntacticExtractor.new
 		syntactic_extractor.load(@input_text)

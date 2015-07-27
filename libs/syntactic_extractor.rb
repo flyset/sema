@@ -29,7 +29,14 @@ class SyntacticExtractor
 	def extract_words
 		@words = Array.new
 		for sentence in @sentences
-			@words<< { @sentences.index(sentence) => sentence.split(" ") }
+			words = sentence.split(" ")
+			for word in words
+				#word = Word.new
+				@words<< { :text => word, 
+						   :sentence => @sentences.index(sentence),
+						   :position => words.index(word),
+						   :type => nil }
+			end
 		end
 	end
 
