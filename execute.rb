@@ -1,5 +1,5 @@
 #
-# This file is part of the "nunguku" framework.
+# This file is part of "sema".
 #
 # (c) Konstantinos Gerodimos <kosta@gerodimos.com>
 #
