@@ -15,17 +15,14 @@ class SemanticExtractor
 
 	def extract
 
-		normalized_text = @input_text
+		# Extract Syntax
+		syntactic_extractor = SyntacticExtractor.new
+		syntactic_extractor.load(@input_text)
+		syntactic_extractor.extract
 
-		# Extract sentences segments
-		@sentences = normalized_text.split(".")
-
-		# Extract words segments
-		@words = Array.new
-		for sentence in @sentences
-			@words<< { @sentences.index(sentence) => sentence.split(" ") }
-		end
-
+		# assign
+		@sentences = syntactic_extractor.sentences
+		@words = syntactic_extractor.words
 	end
 
 end

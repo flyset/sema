@@ -8,4 +8,29 @@
 #
 
 class SyntacticExtractor
+
+	attr_accessor :sentences, :words
+
+	def load(text)
+		@input_text = text
+	end
+
+	def extract
+		extract_sentences
+		extract_words
+	end
+
+	# Extract sentences segments
+	def extract_sentences
+		@sentences = @input_text.split(".")
+	end
+
+	# Extract words segments
+	def extract_words
+		@words = Array.new
+		for sentence in @sentences
+			@words<< { @sentences.index(sentence) => sentence.split(" ") }
+		end
+	end
+
 end
