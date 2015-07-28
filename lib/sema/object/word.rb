@@ -8,6 +8,10 @@
 #
 
 class Word
-	attr_accessor :text, :sentence_position, :position, :type, :punctuation
+	attr_accessor :text, :sentence_position, :position, :class, :punctuation
 
+	def classify
+		classifier = SyntacticClassifier.new
+		self.class = classifier.classify(@text)
+	end
 end

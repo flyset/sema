@@ -22,6 +22,7 @@ class SemanticExtractor
 		@syntax.extract(@raw_text)
 	end
 
+	# Interface methods for commandline (execute)
 	def sentences
 		@syntax.sentences
 	end
@@ -31,7 +32,7 @@ class SemanticExtractor
 	end
 
 	def sentence(position)
-		
+		@syntax.get_sentence(position)
 	end
 
 end

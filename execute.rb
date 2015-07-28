@@ -10,26 +10,37 @@
 require 'pp'
 
 # Load bootstrap
-require "#{Dir.pwd}/libs/bootstrap"
+require "#{Dir.pwd}/lib/sema"
 
 # TEXT
-input_text = "The Boeing B-17 Flying Fortress is a four-engine heavy bomber aircraft developed in the 1930s for the United States Army Air Corps (USAAC). Competing against Douglas and Martin for a contract to build 200 bombers, the Boeing entry outperformed both competitors and exceeded the air corps' expectations. Although Boeing lost the contract because the prototype crashed, the air corps was so impressed with Boeing's design that they ordered 13 more B-17s for further evaluation. From its introduction in 1938, the B-17 Flying Fortress evolved through numerous design advances.[5][6]"
+input_text = "My boat is red."
 
 # Instatiate Semantic Extractor
 sema = SemanticExtractor.new
 sema.extract(input_text)
 
 # Debugging
+
+puts
 puts "Sentences: " + sema.sentences.count.to_s
 puts "Words: " + sema.words.count.to_s
 
 puts "======================="
+puts
 
-for word in sema.words
-	if word.punctuation.nil?
-		print word.text + " "
-	else
-		print word.text + "[#{word.punctuation}] "
+for sentence in sema.sentences
+	
+	for word in sema.sentence(sentence.position)
+
+		t = 'unknown' if word.class.nil?
+		t = word.class if word.class
+
+		if word.punctuation.nil?
+			print t + " "
+		else
+			print t + "[#{word.punctuation}] "
+		end
 	end
+	print "\n"
+	puts
 end
-print "\n"
