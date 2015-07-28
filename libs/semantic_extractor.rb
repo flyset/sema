@@ -9,21 +9,16 @@
 
 class SemanticExtractor
 
-	# Load Input Text
-	def load(text)
+	# Semantic Extractor
+	def extract(text)
 		@input_text = text
+		extract_syntax
 	end
 
-	# Semantic Extractor
-	def extract
-		# Extract Syntax
-		syntactic_extractor = SyntacticExtractor.new
-		syntactic_extractor.load(@input_text)
-		syntactic_extractor.extract
-
-		# assign
-		@sentences = syntactic_extractor.sentences
-		@words = syntactic_extractor.words
+	# Extract Syntax
+	def extract_syntax
+		@syntax = SyntacticExtractor.new
+		@syntax.extract(@input_text)
 	end
 
 end

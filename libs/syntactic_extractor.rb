@@ -11,31 +11,37 @@ class SyntacticExtractor
 
 	attr_accessor :sentences, :words
 
-	def load(text)
+	def extract(text)
 		@input_text = text
-	end
-
-	def extract
 		extract_sentences
 		extract_words
 	end
 
 	# Extract sentences segments
 	def extract_sentences
-		@sentences = @input_text.split(".")
+		@sentences = Array.new
+		sentences = @input_text.split(".")
+		for sentence_text in sentences
+			sentence = Sentence.new
+			sentence.text = sentence_text
+			sentence.position = sentences.index(sentence_text)
+			sentence.type = nil
+			@sentences << sentence
+		end
 	end
 
 	# Extract words segments
 	def extract_words
 		@words = Array.new
 		for sentence in @sentences
-			words = sentence.split(" ")
-			for word in words
-				#word = Word.new
-				@words<< { :text => word, 
-						   :sentence => @sentences.index(sentence),
-						   :position => words.index(word),
-						   :type => nil }
+			words = sentence.text.split(" ")
+			for word_text in words
+				word = Word.new
+				word.text = word_text
+				word.sentence = @sentences.index(sentence)
+				word.position = words.index(word_text)
+				word.type = nil
+				@words << word
 			end
 		end
 	end

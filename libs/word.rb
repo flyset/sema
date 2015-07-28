@@ -8,4 +8,6 @@
 #
 
 class Word
+	attr_accessor :text, :sentence, :position, :type
+
 end
