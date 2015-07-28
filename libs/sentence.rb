@@ -8,5 +8,5 @@
 #
 
 class Sentence
-	attr_accessor :text, :position, :type
+	attr_accessor :position, :type
 end

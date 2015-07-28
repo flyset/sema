@@ -9,5 +9,6 @@
 
 require "#{Dir.pwd}/libs/semantic_extractor"
 require "#{Dir.pwd}/libs/syntactic_extractor"
+#require "#{Dir.pwd}/libs/structural_extractor"
 require "#{Dir.pwd}/libs/sentence"
 require "#{Dir.pwd}/libs/word"

@@ -9,16 +9,29 @@
 
 class SemanticExtractor
 
+	attr_accessor :raw_text
+
 	# Semantic Extractor
 	def extract(text)
-		@input_text = text
-		extract_syntax
+
+		# Set default raw text
+		@raw_text = text
+		
+		# Extract syntax
+		@syntax = SyntacticExtractor.new
+		@syntax.extract(@raw_text)
 	end
 
-	# Extract Syntax
-	def extract_syntax
-		@syntax = SyntacticExtractor.new
-		@syntax.extract(@input_text)
+	def sentences
+		@syntax.sentences
+	end
+
+	def words
+		@syntax.words
+	end
+
+	def sentence(position)
+		
 	end
 
 end

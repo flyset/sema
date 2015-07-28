@@ -8,6 +8,6 @@
 #
 
 class Word
-	attr_accessor :text, :sentence, :position, :type
+	attr_accessor :text, :sentence_position, :position, :type, :punctuation
 
 end

@@ -11,39 +11,73 @@ class SyntacticExtractor
 
 	attr_accessor :sentences, :words
 
-	def extract(text)
-		@input_text = text
-		extract_sentences
-		extract_words
-	end
-
 	# Extract sentences segments
-	def extract_sentences
-		@sentences = Array.new
-		sentences = @input_text.split(".")
-		for sentence_text in sentences
-			sentence = Sentence.new
-			sentence.text = sentence_text
-			sentence.position = sentences.index(sentence_text)
-			sentence.type = nil
-			@sentences << sentence
-		end
-	end
-
-	# Extract words segments
-	def extract_words
+	# Heuristic Method
+	def extract(text)
+		
+		parts = text.split(" ")
+		sentence_position = 0
 		@words = Array.new
-		for sentence in @sentences
-			words = sentence.text.split(" ")
-			for word_text in words
-				word = Word.new
-				word.text = word_text
-				word.sentence = @sentences.index(sentence)
-				word.position = words.index(word_text)
-				word.type = nil
-				@words << word
+		@sentences = Array.new
+
+		for part in parts
+
+			# Conditions
+			if part.reverse[0] == '.' or part.reverse[0] == '?' or part.reverse[0] == '!'
+
+				# Process punctuation marks
+				case part.reverse[0]
+				when '.'
+					punctuation = '.'
+				when '?'
+					punctuation = '?'
+				when '!'
+					punctuation = '!'
+				end
+
+				# Process and create last word
+				formatted_part = part[0...-1]
+				@words << create_word(formatted_part, sentence_position, parts.index(part), nil, punctuation)
+
+				# Create sentence
+				@sentences << create_sentence(sentence_position, punctuation)
+				sentence_position = sentence_position + 1
+			else
+				# Process punctuation marks
+				case part.reverse[0]
+				when ','
+					punctuation = ','
+					formatted_part = part[0...-1]
+				else
+					punctuation = nil
+					formatted_part = part
+				end
+
+				# Create word
+				@words << create_word(formatted_part, sentence_position, parts.index(part), nil, punctuation)
 			end
 		end
+	end
+
+	private
+
+	# Create word
+	def create_word(text, sentence_position, position, type, punctuation)
+		word = Word.new
+		word.text = text
+		word.sentence_position = sentence_position
+		word.position = position
+		word.type = type
+		word.punctuation = punctuation
+		word
+	end
+
+	# Create sentence
+	def create_sentence(sentence_position, type)
+		sentence = Sentence.new
+		sentence.position = sentence_position
+		sentence.type = type
+		sentence
 	end
 
 end
