@@ -20,10 +20,8 @@ class SyntacticClassifier
 		formatted_word = word.downcase
 
 		# Identify word classification
-		test = Noun.find("55b79f2b49978b1972103b72")
-
-		puts test.formatted_word
-		exit
+		classified_word = Classification.where(formatted_word: formatted_word).first
+		classified_word.classification unless classified_word.nil?
 	end
 
 end

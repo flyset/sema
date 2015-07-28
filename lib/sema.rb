@@ -25,4 +25,4 @@ require "#{Dir.pwd}/lib/sema/object/word"
 Mongoid.load!("#{Dir.pwd}/config/mongoid.yml", :production)
 
 # Models
-require "#{Dir.pwd}/lib/sema/model/noun"
+require "#{Dir.pwd}/lib/sema/model/classification"

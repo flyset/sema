@@ -7,9 +7,10 @@
 # with this source code in the file LICENSE.
 #
 
-class Noun
+class Classification
   include Mongoid::Document
   field :formatted_word
+  field :classification
 end
 
 ## DEMO

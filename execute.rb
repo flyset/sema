@@ -13,7 +13,7 @@ require 'pp'
 require "#{Dir.pwd}/lib/sema"
 
 # TEXT
-input_text = "My boat is red."
+input_text = "All cars are red."
 
 # Instatiate Semantic Extractor
 sema = SemanticExtractor.new
@@ -36,9 +36,9 @@ for sentence in sema.sentences
 		t = word.class if word.class
 
 		if word.punctuation.nil?
-			print t + " "
+			print "[#{t} => #{word.text}]" + " "
 		else
-			print t + "[#{word.punctuation}] "
+			print "[#{t} => #{word.text}]" + "[#{word.punctuation}] "
 		end
 	end
 	print "\n"
