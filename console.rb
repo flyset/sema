@@ -17,29 +17,49 @@ def extract(input_text)
 	@sema = SemanticExtractor.new
 	@sema.extract(input_text)
 
-	puts
-	puts "======================="
-	puts "Sentences: " + @sema.sentences.count.to_s
-	puts "Words: " + @sema.words.count.to_s
-	puts "======================="
-	puts
+	show
+end
 
-	for sentence in @sema.sentences
-		
-		for word in @sema.sentence(sentence.position)
+def show
+  puts
+  puts "======================="
+  puts "Sentences: " + @sema.sentences.count.to_s
+  puts "Words: " + @sema.words.count.to_s
+  puts "======================="
+  puts
 
-			t = 'unknown' if word.class.nil?
-			t = word.class if word.class
+  for sentence in @sema.sentences
+    
+    for word in @sema.sentence(sentence.position)
 
-			if word.punctuation.nil?
-				print "[#{t} => #{word.text}]" + " "
-			else
-				print "[#{t} => #{word.text}]" + "[#{word.punctuation}] "
-			end
-		end
-		print "\n"
-		puts
-	end
+      t = 'unknown' if word.class.nil?
+      t = word.class if word.class
+
+      if word.punctuation.nil?
+        print "[#{t} => #{word.text}]" + " "
+      else
+        print "[#{t} => #{word.text}]" + "[#{word.punctuation}] "
+      end
+    end
+    print "\n"
+    puts
+  end
+end
+
+def list_words
+
+  for word in @sema.words
+    puts "#{word.position} [#{word.text}], [#{word.class}]"
+  end
+
+end
+
+def list_learn
+
+  for word in @sema.words
+    puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class.nil?
+  end
+
 end
 
 def version
@@ -57,7 +77,7 @@ loop do
   case command
     when 'help'
 
-      	puts "Commands: help, exit, version, read, load, stem, plural, find"
+      	puts "Commands: help, exit, version, read, load, show, stem, plural, find, list, learn"
 
     when 'exit'
 
@@ -71,12 +91,16 @@ loop do
 
     	('input text : ').display
     	input_text = gets.chomp
-      	extract(input_text)
+      extract(input_text)
 
     when 'load'
 
-      	input_text = File.open("#{Dir.pwd}/input.txt").read
-      	extract(input_text)
+      input_text = File.open("#{Dir.pwd}/input.txt").read
+      extract(input_text)
+
+    when 'show'
+
+      show
 
     when 'stem'
 
@@ -97,7 +121,11 @@ loop do
 
     when 'list'
 
-    	pp @sema.words
+      list_words
+
+    when 'learn'
+
+      list_learn
 
     else
       	

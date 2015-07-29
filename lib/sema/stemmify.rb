@@ -77,15 +77,15 @@ module Stemmify
                       ize)$/x
 
 
-  C = "[^aeiou]"         # consonant
-  V = "[aeiouy]"         # vowel
-  CC = "#{C}(?>[^aeiouy]*)"  # consonant sequence
-  VV = "#{V}(?>[aeiou]*)"    # vowel sequence
+  C = "[^aeiou]"                               # consonant
+  V = "[aeiouy]"                               # vowel
+  CC = "#{C}(?>[^aeiouy]*)"                    # consonant sequence
+  VV = "#{V}(?>[aeiou]*)"                      # vowel sequence
 
   MGR0 = /^(#{CC})?#{VV}#{CC}/o                # [cc]vvcc... is m>0
   MEQ1 = /^(#{CC})?#{VV}#{CC}(#{VV})?$/o       # [cc]vvcc[vv] is m=1
   MGR1 = /^(#{CC})?#{VV}#{CC}#{VV}#{CC}/o      # [cc]vvccvvcc... is m>1
-  VOWEL_IN_STEM   = /^(#{CC})?#{V}/o                      # vowel in stem
+  VOWEL_IN_STEM = /^(#{CC})?#{V}/o             # vowel in stem
   
   def stem_porter
 
@@ -121,14 +121,13 @@ module Stemmify
 
     if w =~ /y$/ 
       stem = $`
-      w = stem + "i" if stem =~ VOWEL_IN_STEM 
+      w = stem + "i" if stem =~ VOWEL_IN_STEM
     end
 
     # Step 2
     if w =~ SUFFIX_1_REGEXP
       stem = $`
       suffix = $1
-      # print "stem= " + stem + "\n" + "suffix=" + suffix + "\n"
       if stem =~ MGR0
         w = stem + STEP_2_LIST[suffix]
       end
