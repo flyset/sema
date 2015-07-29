@@ -13,7 +13,7 @@ require 'pp'
 require "#{Dir.pwd}/lib/sema"
 
 # TEXT
-input_text = "Eusèbe Jaojoby (born 29 July 1955), commonly known by his surname Jaojoby, is a composer and singer of salegy, a musical style of northwestern Madagascar. Critics consider him to be one of the originators of the modern salegy style that emerged in the 1970s, and credit him with transforming the genre from an obscure regional musical tradition into one of national and international popularity. Jaojoby also contributed to the creation of two salegy subgenres, malessa and baoenjy. Jaojoby has been called the most popular singer in Madagascar and the Indian Ocean islands, and is widely referred to as the \"King of Salegy\". His success has earned him such honors as Artist of the Year in Madagascar for two consecutive years (1998–1999) and the role of Goodwill Ambassador for the United Nations Population Fund in 1999."
+input_text = "I have a blue car."
 
 # Instatiate Semantic Extractor
 sema = SemanticExtractor.new
