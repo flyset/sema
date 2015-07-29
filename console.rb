@@ -86,6 +86,10 @@ loop do
 
     	puts params.first.pluralize
 
+    when 'singular'
+
+    	puts params.first.singularize
+
     when 'find'
 
     	word = Classification.where(formatted_word: params.first).first
