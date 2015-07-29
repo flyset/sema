@@ -1,0 +1,51 @@
+{ formatted_word: "after", classification: "conjunction" }
+{ formatted_word: "although", classification: "conjunction" }
+{ formatted_word: "and", classification: "conjunction" }
+{ formatted_word: "as", classification: "conjunction" }
+{ formatted_word: "as far as", classification: "conjunction" }
+{ formatted_word: "as if", classification: "conjunction" }
+{ formatted_word: "as long as", classification: "conjunction" }
+{ formatted_word: "as soon as", classification: "conjunction" }
+{ formatted_word: "as though", classification: "conjunction" }
+{ formatted_word: "as well as", classification: "conjunction" }
+{ formatted_word: "because", classification: "conjunction" }
+{ formatted_word: "before", classification: "conjunction" }
+{ formatted_word: "but", classification: "conjunction" }
+{ formatted_word: "by the time", classification: "conjunction" }
+{ formatted_word: "even if", classification: "conjunction" }
+{ formatted_word: "even though", classification: "conjunction" }
+{ formatted_word: "for", classification: "conjunction" }
+{ formatted_word: "how", classification: "conjunction" }
+{ formatted_word: "if", classification: "conjunction" }
+{ formatted_word: "in as much as", classification: "conjunction" }
+{ formatted_word: "in case", classification: "conjunction" }
+{ formatted_word: "if only", classification: "conjunction" }
+{ formatted_word: "in addition to", classification: "conjunction" }
+{ formatted_word: "in order that", classification: "conjunction" }
+{ formatted_word: "just as", classification: "conjunction" }
+{ formatted_word: "lest", classification: "conjunction" }
+{ formatted_word: "no matter how", classification: "conjunction" }
+{ formatted_word: "nor", classification: "conjunction" }
+{ formatted_word: "now that", classification: "conjunction" }
+{ formatted_word: "once", classification: "conjunction" }
+{ formatted_word: "only if", classification: "conjunction" }
+{ formatted_word: "or", classification: "conjunction" }
+{ formatted_word: "provided that", classification: "conjunction" }
+{ formatted_word: "since", classification: "conjunction" }
+{ formatted_word: "so", classification: "conjunction" }
+{ formatted_word: "so that", classification: "conjunction" }
+{ formatted_word: "supposing that", classification: "conjunction" }
+{ formatted_word: "than", classification: "conjunction" }
+{ formatted_word: "that", classification: "conjunction" }
+{ formatted_word: "though", classification: "conjunction" }
+{ formatted_word: "till", classification: "conjunction" }
+{ formatted_word: "unless", classification: "conjunction" }
+{ formatted_word: "until", classification: "conjunction" }
+{ formatted_word: "when", classification: "conjunction" }
+{ formatted_word: "whenever", classification: "conjunction" }
+{ formatted_word: "where", classification: "conjunction" }
+{ formatted_word: "whereas", classification: "conjunction" }
+{ formatted_word: "wherever", classification: "conjunction" }
+{ formatted_word: "whether", classification: "conjunction" }
+{ formatted_word: "while", classification: "conjunction" }
+{ formatted_word: "yet", classification: "conjunction" }

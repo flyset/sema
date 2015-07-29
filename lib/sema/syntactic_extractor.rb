@@ -22,13 +22,13 @@ class SyntacticExtractor
 
 		for part in parts
 
-			# Pre-process none words
+			# Pre-process none word parts
 
 			# Process structure
 			if part.reverse[0] == '.' or part.reverse[0] == '?' or part.reverse[0] == '!'
 
 				# Process sentence punctuation marks
-				# at the end of a word
+				# at the end of a part
 				case part.reverse[0]
 				when '.'
 					punctuation = '.'
@@ -38,7 +38,7 @@ class SyntacticExtractor
 					punctuation = '!'
 				end
 
-				# Process and create last word
+				# Process and create last part
 				formatted_part = part[0...-1]
 				@words << create_word(formatted_part, sentence_position, parts.index(part), punctuation)
 
