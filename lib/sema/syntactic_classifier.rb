@@ -16,11 +16,20 @@ class SyntacticClassifier
 	
 	def classify(word)
 
-		# Format and stemm word
-		formatted_word = word.downcase
+		# Format
+		downcase_word = word.downcase
+
+		# Stemm
+		formatted_word = downcase_word.stem
 
 		# Identify word classification
 		classified_word = Classification.where(formatted_word: formatted_word).first
+
+		# DEBUG
+		#if not classified_word.nil?
+		#	print "[ original = #{downcase_word} ] => [ stem = #{formatted_word} ] => [ #{classified_word.classification} ]\n"
+		#end
+
 		classified_word.classification unless classified_word.nil?
 	end
 

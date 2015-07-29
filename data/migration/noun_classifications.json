@@ -1,3 +1,4 @@
+{ formatted_word: "name", classification: "noun" }
 { formatted_word: "man", classification: "noun" }
 { formatted_word: "world", classification: "noun" }
 { formatted_word: "hand", classification: "noun" }

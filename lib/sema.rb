@@ -10,7 +10,11 @@
 # 3rd Party
 require 'mongoid'
 require 'action_view'
+require 'active_support'
 require 'yaml'
+
+# 3rd Party
+require "#{Dir.pwd}/lib/sema/stemmify"
 
 # Libraries
 require "#{Dir.pwd}/lib/sema/semantic_extractor"

@@ -6,3 +6,4 @@ mongoimport --db sema --collection classifications --file conjunction_classifica
 mongoimport --db sema --collection classifications --file preposition_classifications.json
 mongoimport --db sema --collection classifications --file verb_classifications.json
 mongoimport --db sema --collection classifications --file article_classifications.json
+mongoimport --db sema --collection classifications --file interjection_classifications.json

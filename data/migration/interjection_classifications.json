@@ -1,0 +1,219 @@
+{ formatted_word: "hello", classification: "interjection" }
+{ formatted_word: "aah", classification: "interjection" }
+{ formatted_word: "ack", classification: "interjection" }
+{ formatted_word: "agreed", classification: "interjection" }
+{ formatted_word: "ah", classification: "interjection" }
+{ formatted_word: "aha", classification: "interjection" }
+{ formatted_word: "ahem", classification: "interjection" }
+{ formatted_word: "alas", classification: "interjection" }
+{ formatted_word: "all right", classification: "interjection" }
+{ formatted_word: "amen", classification: "interjection" }
+{ formatted_word: "argh", classification: "interjection" }
+{ formatted_word: "as if", classification: "interjection" }
+{ formatted_word: "aw", classification: "interjection" }
+{ formatted_word: "ay", classification: "interjection" }
+{ formatted_word: "aye", classification: "interjection" }
+{ formatted_word: "bah", classification: "interjection" }
+{ formatted_word: "blast", classification: "interjection" }
+{ formatted_word: "boo hoo", classification: "interjection" }
+{ formatted_word: "bother", classification: "interjection" }
+{ formatted_word: "boy", classification: "interjection" }
+{ formatted_word: "brr", classification: "interjection" }
+{ formatted_word: "by golly", classification: "interjection" }
+{ formatted_word: "bye", classification: "interjection" }
+{ formatted_word: "cheerio", classification: "interjection" }
+{ formatted_word: "cheers", classification: "interjection" }
+{ formatted_word: "chin up", classification: "interjection" }
+{ formatted_word: "come on", classification: "interjection" }
+{ formatted_word: "crikey", classification: "interjection" }
+{ formatted_word: "curses", classification: "interjection" }
+{ formatted_word: "dear me", classification: "interjection" }
+{ formatted_word: "doggone", classification: "interjection" }
+{ formatted_word: "drat", classification: "interjection" }
+{ formatted_word: "duh", classification: "interjection" }
+{ formatted_word: "easy does it", classification: "interjection" }
+{ formatted_word: "eek", classification: "interjection" }
+{ formatted_word: "egads", classification: "interjection" }
+{ formatted_word: "er", classification: "interjection" }
+{ formatted_word: "exactly", classification: "interjection" }
+{ formatted_word: "fair enough", classification: "interjection" }
+{ formatted_word: "fiddle-dee-dee", classification: "interjection" }
+{ formatted_word: "fiddlesticks", classification: "interjection" }
+{ formatted_word: "fie", classification: "interjection" }
+{ formatted_word: "foo", classification: "interjection" }
+{ formatted_word: "fooey", classification: "interjection" }
+{ formatted_word: "gadzooks", classification: "interjection" }
+{ formatted_word: "gah", classification: "interjection" }
+{ formatted_word: "gangway", classification: "interjection" }
+{ formatted_word: "g'day", classification: "interjection" }
+{ formatted_word: "gee", classification: "interjection" }
+{ formatted_word: "gee whiz", classification: "interjection" }
+{ formatted_word: "geez", classification: "interjection" }
+{ formatted_word: "gesundheit", classification: "interjection" }
+{ formatted_word: "get lost", classification: "interjection" }
+{ formatted_word: "get outta here", classification: "interjection" }
+{ formatted_word: "go on", classification: "interjection" }
+{ formatted_word: "good", classification: "interjection" }
+{ formatted_word: "good golly", classification: "interjection" }
+{ formatted_word: "good job", classification: "interjection" }
+{ formatted_word: "gosh", classification: "interjection" }
+{ formatted_word: "gracious", classification: "interjection" }
+{ formatted_word: "great", classification: "interjection" }
+{ formatted_word: "grr", classification: "interjection" }
+{ formatted_word: "gulp", classification: "interjection" }
+{ formatted_word: "ha", classification: "interjection" }
+{ formatted_word: "ha-ha", classification: "interjection" }
+{ formatted_word: "hah", classification: "interjection" }
+{ formatted_word: "hallelujah", classification: "interjection" }
+{ formatted_word: "harrumph", classification: "interjection" }
+{ formatted_word: "haw", classification: "interjection" }
+{ formatted_word: "hee", classification: "interjection" }
+{ formatted_word: "here", classification: "interjection" }
+{ formatted_word: "hey", classification: "interjection" }
+{ formatted_word: "hmm", classification: "interjection" }
+{ formatted_word: "ho hum", classification: "interjection" }
+{ formatted_word: "hoo", classification: "interjection" }
+{ formatted_word: "hooray", classification: "interjection" }
+{ formatted_word: "hot dog", classification: "interjection" }
+{ formatted_word: "how", classification: "interjection" }
+{ formatted_word: "huh", classification: "interjection" }
+{ formatted_word: "hum", classification: "interjection" }
+{ formatted_word: "humbug", classification: "interjection" }
+{ formatted_word: "hurray", classification: "interjection" }
+{ formatted_word: "huzza", classification: "interjection" }
+{ formatted_word: "I say", classification: "interjection" }
+{ formatted_word: "ick", classification: "interjection" }
+{ formatted_word: "is it", classification: "interjection" }
+{ formatted_word: "ixnay", classification: "interjection" }
+{ formatted_word: "jeez", classification: "interjection" }
+{ formatted_word: "just kidding", classification: "interjection" }
+{ formatted_word: "just a sec", classification: "interjection" }
+{ formatted_word: "just wondering", classification: "interjection" }
+{ formatted_word: "kapish", classification: "interjection" }
+{ formatted_word: "la", classification: "interjection" }
+{ formatted_word: "la-di-dah", classification: "interjection" }
+{ formatted_word: "lo", classification: "interjection" }
+{ formatted_word: "look", classification: "interjection" }
+{ formatted_word: "look here", classification: "interjection" }
+{ formatted_word: "long time", classification: "interjection" }
+{ formatted_word: "lordy", classification: "interjection" }
+{ formatted_word: "man", classification: "interjection" }
+{ formatted_word: "meh", classification: "interjection" }
+{ formatted_word: "mmm", classification: "interjection" }
+{ formatted_word: "most certainly", classification: "interjection" }
+{ formatted_word: "my", classification: "interjection" }
+{ formatted_word: "my my", classification: "interjection" }
+{ formatted_word: "my word", classification: "interjection" }
+{ formatted_word: "nah", classification: "interjection" }
+{ formatted_word: "naw", classification: "interjection" }
+{ formatted_word: "never", classification: "interjection" }
+{ formatted_word: "no", classification: "interjection" }
+{ formatted_word: "no can do", classification: "interjection" }
+{ formatted_word: "nooo", classification: "interjection" }
+{ formatted_word: "not", classification: "interjection" }
+{ formatted_word: "no thanks", classification: "interjection" }
+{ formatted_word: "no way", classification: "interjection" }
+{ formatted_word: "nuts", classification: "interjection" }
+{ formatted_word: "oh", classification: "interjection" }
+{ formatted_word: "oho", classification: "interjection" }
+{ formatted_word: "oh-oh", classification: "interjection" }
+{ formatted_word: "oh no", classification: "interjection" }
+{ formatted_word: "okay", classification: "interjection" }
+{ formatted_word: "okey-dokey", classification: "interjection" }
+{ formatted_word: "om", classification: "interjection" }
+{ formatted_word: "oof", classification: "interjection" }
+{ formatted_word: "ooh", classification: "interjection" }
+{ formatted_word: "oopsey", classification: "interjection" }
+{ formatted_word: "over", classification: "interjection" }
+{ formatted_word: "oy", classification: "interjection" }
+{ formatted_word: "oyez", classification: "interjection" }
+{ formatted_word: "peace", classification: "interjection" }
+{ formatted_word: "pff", classification: "interjection" }
+{ formatted_word: "pew", classification: "interjection" }
+{ formatted_word: "phew", classification: "interjection" }
+{ formatted_word: "pish posh", classification: "interjection" }
+{ formatted_word: "psst", classification: "interjection" }
+{ formatted_word: "ptui", classification: "interjection" }
+{ formatted_word: "quite", classification: "interjection" }
+{ formatted_word: "rah", classification: "interjection" }
+{ formatted_word: "rats", classification: "interjection" }
+{ formatted_word: "ready", classification: "interjection" }
+{ formatted_word: "right", classification: "interjection" }
+{ formatted_word: "right on", classification: "interjection" }
+{ formatted_word: "roger", classification: "interjection" }
+{ formatted_word: "roger that", classification: "interjection" }
+{ formatted_word: "rumble", classification: "interjection" }
+{ formatted_word: "say", classification: "interjection" }
+{ formatted_word: "see ya", classification: "interjection" }
+{ formatted_word: "shame", classification: "interjection" }
+{ formatted_word: "shh", classification: "interjection" }
+{ formatted_word: "shoo", classification: "interjection" }
+{ formatted_word: "shucks", classification: "interjection" }
+{ formatted_word: "sigh", classification: "interjection" }
+{ formatted_word: "sleep tight", classification: "interjection" }
+{ formatted_word: "snap", classification: "interjection" }
+{ formatted_word: "sorry", classification: "interjection" }
+{ formatted_word: "sssh", classification: "interjection" }
+{ formatted_word: "sup", classification: "interjection" }
+{ formatted_word: "ta", classification: "interjection" }
+{ formatted_word: "ta-da", classification: "interjection" }
+{ formatted_word: "ta ta", classification: "interjection" }
+{ formatted_word: "take that", classification: "interjection" }
+{ formatted_word: "tally ho", classification: "interjection" }
+{ formatted_word: "tch", classification: "interjection" }
+{ formatted_word: "thanks", classification: "interjection" }
+{ formatted_word: "there", classification: "interjection" }
+{ formatted_word: "there there", classification: "interjection" }
+{ formatted_word: "time out", classification: "interjection" }
+{ formatted_word: "toodles", classification: "interjection" }
+{ formatted_word: "touche", classification: "interjection" }
+{ formatted_word: "tsk", classification: "interjection" }
+{ formatted_word: "tsk-tsk", classification: "interjection" }
+{ formatted_word: "tut", classification: "interjection" }
+{ formatted_word: "tut-tut", classification: "interjection" }
+{ formatted_word: "ugh", classification: "interjection" }
+{ formatted_word: "uh", classification: "interjection" }
+{ formatted_word: "uh-oh", classification: "interjection" }
+{ formatted_word: "um", classification: "interjection" }
+{ formatted_word: "ur", classification: "interjection" }
+{ formatted_word: "urgh", classification: "interjection" }
+{ formatted_word: "very nice", classification: "interjection" }
+{ formatted_word: "very well", classification: "interjection" }
+{ formatted_word: "voila", classification: "interjection" }
+{ formatted_word: "vroom", classification: "interjection" }
+{ formatted_word: "wah", classification: "interjection" }
+{ formatted_word: "well", classification: "interjection" }
+{ formatted_word: "well done", classification: "interjection" }
+{ formatted_word: "well, well", classification: "interjection" }
+{ formatted_word: "what", classification: "interjection" }
+{ formatted_word: "whatever", classification: "interjection" }
+{ formatted_word: "whee", classification: "interjection" }
+{ formatted_word: "when", classification: "interjection" }
+{ formatted_word: "whoa", classification: "interjection" }
+{ formatted_word: "whoo", classification: "interjection" }
+{ formatted_word: "whoopee", classification: "interjection" }
+{ formatted_word: "whoops", classification: "interjection" }
+{ formatted_word: "whoopsey", classification: "interjection" }
+{ formatted_word: "whew", classification: "interjection" }
+{ formatted_word: "why", classification: "interjection" }
+{ formatted_word: "word", classification: "interjection" }
+{ formatted_word: "wow", classification: "interjection" }
+{ formatted_word: "wuzzup", classification: "interjection" }
+{ formatted_word: "ya", classification: "interjection" }
+{ formatted_word: "yea", classification: "interjection" }
+{ formatted_word: "yeah", classification: "interjection" }
+{ formatted_word: "yech", classification: "interjection" }
+{ formatted_word: "yikes", classification: "interjection" }
+{ formatted_word: "yippee", classification: "interjection" }
+{ formatted_word: "yo", classification: "interjection" }
+{ formatted_word: "yoo-hoo", classification: "interjection" }
+{ formatted_word: "you bet", classification: "interjection" }
+{ formatted_word: "you don't say", classification: "interjection" }
+{ formatted_word: "you know", classification: "interjection" }
+{ formatted_word: "yow", classification: "interjection" }
+{ formatted_word: "yum", classification: "interjection" }
+{ formatted_word: "yummy", classification: "interjection" }
+{ formatted_word: "zap", classification: "interjection" }
+{ formatted_word: "zounds", classification: "interjection" }
+{ formatted_word: "zowie", classification: "interjection" }
+{ formatted_word: "zzz", classification: "interjection" }
