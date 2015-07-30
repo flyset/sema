@@ -25,7 +25,7 @@ class SyntacticExtractor
 			# Pre-process none word parts
 
 			# Process structure
-			if part.reverse[0] == '.' or part.reverse[0] == '?' or part.reverse[0] == '!'
+			if part.reverse[0] == '.' or part.reverse[0] == '?' or part.reverse[0] == '!' or part.reverse[0] == ';'
 
 				# Process sentence punctuation marks
 				# at the end of a part
@@ -36,6 +36,8 @@ class SyntacticExtractor
 					punctuation = '?'
 				when '!'
 					punctuation = '!'
+				when ';'
+					punctuation = ';'
 				end
 
 				# Process and create last part

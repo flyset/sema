@@ -20,7 +20,9 @@ class SyntacticClassifier
 		downcase_word = word.downcase
 
 		# Stemm
-		formatted_word = downcase_word.stem
+		stemmer= Lingua::Stemmer.new(:language => "en")
+		formatted_word = stemmer.stem(downcase_word)
+		#formatted_word = downcase_word.stem 
 
 		# Identify word classification
 		classified_word = Classification.where(formatted_word: formatted_word).first

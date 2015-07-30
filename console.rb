@@ -150,7 +150,14 @@ loop do
     when 'stem'
 
       puts
-    	puts params.first.stem
+      stemmer= Lingua::Stemmer.new(:language => "en")
+      puts stemmer.stem(params.first)
+      puts
+
+    when 'stemmer'
+
+      puts
+      puts params.first.stem
       puts
 
     when 'plural'

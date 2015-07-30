@@ -12,6 +12,7 @@ require 'mongoid'
 require 'action_view'
 require 'active_support'
 require 'yaml'
+require 'lingua/stemmer'
 
 # 3rd Party
 require "#{Dir.pwd}/lib/sema/stemmify"
