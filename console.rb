@@ -12,15 +12,15 @@ require 'pp'
 # Load bootstrap
 require "#{Dir.pwd}/lib/sema"
 
+VERSION = "v1.0 pre-alpha"
+
 def extract(input_text)
 	# Instatiate Semantic Extractor
 	@sema = SemanticExtractor.new
 	@sema.extract(input_text)
-
-	show
 end
 
-def show
+def show_analysis
   puts
   puts "======================="
   puts "Sentences: " + @sema.sentences.count.to_s
@@ -46,25 +46,56 @@ def show
   end
 end
 
+def show_text
+
+  puts
+  for sentence in @sema.sentences
+    
+    for word in @sema.sentence(sentence.position)
+
+      t = 'unknown' if word.class.nil?
+      t = word.class if word.class
+
+      if word.punctuation.nil?
+        print "#{word.text}" + " "
+      else
+        print "#{word.text}" + "[#{word.punctuation}] "
+      end
+    end
+    print "\n"
+    puts
+  end
+end
+
+def show_input
+  puts
+  puts @input_text
+  puts
+end
+
 def list_words
 
+  puts
   for word in @sema.words
     puts "#{word.position} [#{word.text}], [#{word.class}]"
   end
+  puts
 
 end
 
 def list_learn
 
+  puts
   for word in @sema.words
     puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class.nil?
   end
+  puts
 
 end
 
 def version
 	puts
-	puts "SEMA v1.0 pre-alpha"
+	puts "SEMA #{VERSION}"
 	puts
 end
 
@@ -77,7 +108,9 @@ loop do
   case command
     when 'help'
 
-      	puts "Commands: help, exit, version, read, load, show, stem, plural, find, list, learn"
+      puts
+      puts "Commands: help, exit, version, read, load, show, stem, plural, find, list, learn, extract"
+      puts
 
     when 'exit'
 
@@ -89,35 +122,55 @@ loop do
 
     when 'read'
 
+      puts
     	('input text : ').display
-    	input_text = gets.chomp
-      extract(input_text)
+    	@input_text = gets.chomp
+      puts
 
     when 'load'
 
-      input_text = File.open("#{Dir.pwd}/input.txt").read
-      extract(input_text)
+      @input_text = File.open("#{Dir.pwd}/input.txt").read
+      show_input
+
+    when 'extract'
+
+      extract(@input_text)
 
     when 'show'
 
-      show
+      case params.first
+      when 'text'
+        show_text
+      when 'input'
+        show_input
+      else
+        show_analysis
+      end
 
     when 'stem'
 
+      puts
     	puts params.first.stem
+      puts
 
     when 'plural'
 
+      puts
     	puts params.first.pluralize
+      puts
 
     when 'singular'
 
+      puts
     	puts params.first.singularize
+      puts
 
     when 'find'
 
+      puts
     	word = Classification.where(formatted_word: params.first).first
     	pp word unless word.nil?
+      puts
 
     when 'list'
 
@@ -128,8 +181,10 @@ loop do
       list_learn
 
     else
-      	
-      	puts 'Invalid command'
+      
+      puts
+      puts 'Invalid command'
+      puts
 
   end
 end

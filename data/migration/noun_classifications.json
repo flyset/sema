@@ -226,7 +226,6 @@
 { formatted_word: "agreement", classification: "noun" }
 { formatted_word: "speech", classification: "noun" }
 { formatted_word: "skin", classification: "noun" }
-{ formatted_word: "will", classification: "noun" }
 { formatted_word: "amount", classification: "noun" }
 { formatted_word: "plane", classification: "noun" }
 { formatted_word: "practice", classification: "noun" }
@@ -10513,7 +10512,6 @@
 { formatted_word: "militiaman", classification: "noun" }
 { formatted_word: "lobsterman", classification: "noun" }
 { formatted_word: "earthling", classification: "noun" }
-{ formatted_word: "clean", classification: "noun" }
 { formatted_word: "swindler", classification: "noun" }
 { formatted_word: "scree", classification: "noun" }
 { formatted_word: "begat", classification: "noun" }

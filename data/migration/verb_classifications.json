@@ -990,6 +990,7 @@
 { formatted_word: "whistle", classification: "verb" }
 { formatted_word: "win", classification: "verb" }
 { formatted_word: "wink", classification: "verb" }
+{ formatted_word: "will", classification: "verb" }
 { formatted_word: "wipe", classification: "verb" }
 { formatted_word: "wish", classification: "verb" }
 { formatted_word: "wobble", classification: "verb" }
