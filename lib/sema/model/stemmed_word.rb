@@ -17,4 +17,5 @@ class Classification
 	include Mongoid::Document
   	field :formatted_word
   	field :classification
+  	embedded_in :stemmed_words
 end

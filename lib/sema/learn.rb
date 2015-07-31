@@ -26,16 +26,20 @@ class Learn
 		@learned_word.save!
 	end
 
-	def new_classification(stem_word, formatted_word, classification)
+	def new_classification(stem_word, raw_word, classification)
 
 		# Get stem word
 		@learned_word = StemmedWord.where(stemmed_word: stem_word).first
 
+		# Format
+		downcase_word = raw_word.downcase
+
 		# Create a new classification
-		new_classification = @learned_word.classifications.push(Classification.new).first
-		new_classification.formatted_word = formatted_word
+		new_classification = Classification.new
+		new_classification.formatted_word = downcase_word
 		new_classification.classification = classification
-		@learned_word.update!
+		@learned_word.classifications << new_classification
+		@learned_word
 	end
 
 end

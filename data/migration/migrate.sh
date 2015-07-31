@@ -17,3 +17,6 @@ mongoimport --db sema --collection stemmed_words --file verb_classifications.jso
 mongoimport --db sema --collection stemmed_words --file adjective_classifications.json
 mongoimport --db sema --collection stemmed_words --file adverb_classifications.json
 mongoimport --db sema --collection stemmed_words --file noun_classifications.json
+
+# Connect stem words together
+ruby connect_stemmed_words.rb
