@@ -94,6 +94,16 @@ def list_learn
 
 end
 
+def list_class(classification)
+
+  puts
+  for word in @sema.words
+    puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class == classification
+  end
+  puts
+
+end
+
 def version
 	puts
 	puts "SEMA #{VERSION}"
@@ -110,7 +120,7 @@ loop do
     when 'help'
 
       puts
-      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, save, add, extract"
+      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, add, unlearn, extract"
       puts
 
     when 'exit'
@@ -185,8 +195,11 @@ loop do
     when 'sfind'
 
       puts
-      words = StemmedWord.where(stemmed_word: params.first).to_a
+      found = StemmedWord.where(stemmed_word: params.first)
 
+      pp found.first
+
+      words = found.to_a
       if words.count != 0
         for word in words
           pp word.classifications.to_a
@@ -194,7 +207,7 @@ loop do
       end
       puts
 
-    when 'save'
+    when 'learn'
 
       learn = Learn.new
       learn.new_word(params.first)
@@ -208,13 +221,21 @@ loop do
 
       pp learn.learned_word
 
+    when 'unlearn'
+
+      learn = Learn.new
+      learn.remove_by_id(params[0])
+
     when 'list'
 
-      list_words
-
-    when 'learn'
-
-      list_learn
+      case params.first
+      when 'words'
+        list_words
+      when 'learn'
+        list_learn
+      when 'class'
+        list_class params[1]
+      end
 
     else
       

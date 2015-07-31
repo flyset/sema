@@ -42,4 +42,9 @@ class Learn
 		@learned_word
 	end
 
+	def remove_by_id(id)
+		found = StemmedWord.where( _id: id )
+		found.first.remove unless found.first.nil?
+	end
+
 end
