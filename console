@@ -110,7 +110,7 @@ loop do
     when 'help'
 
       puts
-      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, extract"
+      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, save, add, extract"
       puts
 
     when 'exit'
@@ -193,6 +193,20 @@ loop do
         end
       end
       puts
+
+    when 'save'
+
+      learn = Learn.new
+      learn.new_word(params.first)
+
+      pp learn.learned_word
+
+    when 'add'
+
+      learn = Learn.new
+      learn.new_classification(params[0], params[1], params[2])
+
+      pp learn.learned_word
 
     when 'list'
 

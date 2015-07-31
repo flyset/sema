@@ -23,6 +23,7 @@ require 'benchmark'
 require "#{Dir.pwd}/lib/sema/semantic_extractor"
 require "#{Dir.pwd}/lib/sema/syntactic_extractor"
 require "#{Dir.pwd}/lib/sema/syntactic_classifier"
+require "#{Dir.pwd}/lib/sema/learn"
 
 # Objects
 require "#{Dir.pwd}/lib/sema/object/sentence"
