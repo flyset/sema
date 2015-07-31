@@ -1,669 +1,668 @@
-{ formatted_word: "aboard", classification: "adverb" }
-{ formatted_word: "abnormally", classification: "adverb" }
-{ formatted_word: "about", classification: "adverb" }
-{ formatted_word: "abroad", classification: "adverb" }
-{ formatted_word: "absentmindedly", classification: "adverb" }
-{ formatted_word: "absolutely", classification: "adverb" }
-{ formatted_word: "abundantly", classification: "adverb" }
-{ formatted_word: "accidentally", classification: "adverb" }
-{ formatted_word: "accordingly", classification: "adverb" }
-{ formatted_word: "actively", classification: "adverb" }
-{ formatted_word: "actually", classification: "adverb" }
-{ formatted_word: "acutely", classification: "adverb" }
-{ formatted_word: "admiringly", classification: "adverb" }
-{ formatted_word: "affectionately", classification: "adverb" }
-{ formatted_word: "affirmatively", classification: "adverb" }
-{ formatted_word: "after", classification: "adverb" }
-{ formatted_word: "afterwards", classification: "adverb" }
-{ formatted_word: "agreeably", classification: "adverb" }
-{ formatted_word: "almost", classification: "adverb" }
-{ formatted_word: "already", classification: "adverb" }
-{ formatted_word: "always", classification: "adverb" }
-{ formatted_word: "amazingly", classification: "adverb" }
-{ formatted_word: "angrily", classification: "adverb" }
-{ formatted_word: "annoyingly", classification: "adverb" }
-{ formatted_word: "annually", classification: "adverb" }
-{ formatted_word: "anxiously", classification: "adverb" }
-{ formatted_word: "anyhow", classification: "adverb" }
-{ formatted_word: "anyplace", classification: "adverb" }
-{ formatted_word: "anyway", classification: "adverb" }
-{ formatted_word: "anywhere", classification: "adverb" }
-{ formatted_word: "appreciably", classification: "adverb" }
-{ formatted_word: "appropriately", classification: "adverb" }
-{ formatted_word: "around", classification: "adverb" }
-{ formatted_word: "arrogantly", classification: "adverb" }
-{ formatted_word: "aside", classification: "adverb" }
-{ formatted_word: "assuredly", classification: "adverb" }
-{ formatted_word: "astonishingly", classification: "adverb" }
-{ formatted_word: "away", classification: "adverb" }
-{ formatted_word: "awfully", classification: "adverb" }
-{ formatted_word: "awkwardly", classification: "adverb" }
-{ formatted_word: "badly", classification: "adverb" }
-{ formatted_word: "barely", classification: "adverb" }
-{ formatted_word: "bashfully", classification: "adverb" }
-{ formatted_word: "beautifully", classification: "adverb" }
-{ formatted_word: "before", classification: "adverb" }
-{ formatted_word: "begrudgingly", classification: "adverb" }
-{ formatted_word: "believably", classification: "adverb" }
-{ formatted_word: "bewilderedly", classification: "adverb" }
-{ formatted_word: "bewilderingly", classification: "adverb" }
-{ formatted_word: "bitterly", classification: "adverb" }
-{ formatted_word: "bleakly", classification: "adverb" }
-{ formatted_word: "blindly", classification: "adverb" }
-{ formatted_word: "blissfully", classification: "adverb" }
-{ formatted_word: "boldly", classification: "adverb" }
-{ formatted_word: "boastfully", classification: "adverb" }
-{ formatted_word: "boldly", classification: "adverb" }
-{ formatted_word: "boyishly", classification: "adverb" }
-{ formatted_word: "bravely", classification: "adverb" }
-{ formatted_word: "briefly", classification: "adverb" }
-{ formatted_word: "brightly", classification: "adverb" }
-{ formatted_word: "brilliantly", classification: "adverb" }
-{ formatted_word: "briskly", classification: "adverb" }
-{ formatted_word: "brutally", classification: "adverb" }
-{ formatted_word: "busily", classification: "adverb" }
-{ formatted_word: "calmly", classification: "adverb" }
-{ formatted_word: "candidly", classification: "adverb" }
-{ formatted_word: "carefully", classification: "adverb" }
-{ formatted_word: "carelessly", classification: "adverb" }
-{ formatted_word: "casually", classification: "adverb" }
-{ formatted_word: "cautiously", classification: "adverb" }
-{ formatted_word: "certainly", classification: "adverb" }
-{ formatted_word: "charmingly", classification: "adverb" }
-{ formatted_word: "cheerfully", classification: "adverb" }
-{ formatted_word: "chiefly", classification: "adverb" }
-{ formatted_word: "childishly", classification: "adverb" }
-{ formatted_word: "cleanly", classification: "adverb" }
-{ formatted_word: "clearly", classification: "adverb" }
-{ formatted_word: "cleverly", classification: "adverb" }
-{ formatted_word: "closely", classification: "adverb" }
-{ formatted_word: "cloudily", classification: "adverb" }
-{ formatted_word: "clumsily", classification: "adverb" }
-{ formatted_word: "coaxingly", classification: "adverb" }
-{ formatted_word: "coincidentally", classification: "adverb" }
-{ formatted_word: "coldly", classification: "adverb" }
-{ formatted_word: "colorfully", classification: "adverb" }
-{ formatted_word: "commonly", classification: "adverb" }
-{ formatted_word: "comfortably", classification: "adverb" }
-{ formatted_word: "compactly", classification: "adverb" }
-{ formatted_word: "compassionately", classification: "adverb" }
-{ formatted_word: "completely", classification: "adverb" }
-{ formatted_word: "confusedly", classification: "adverb" }
-{ formatted_word: "consequently", classification: "adverb" }
-{ formatted_word: "considerably", classification: "adverb" }
-{ formatted_word: "considerately", classification: "adverb" }
-{ formatted_word: "consistently", classification: "adverb" }
-{ formatted_word: "constantly", classification: "adverb" }
-{ formatted_word: "continually", classification: "adverb" }
-{ formatted_word: "continuously", classification: "adverb" }
-{ formatted_word: "coolly", classification: "adverb" }
-{ formatted_word: "correctly", classification: "adverb" }
-{ formatted_word: "courageously", classification: "adverb" }
-{ formatted_word: "covertly", classification: "adverb" }
-{ formatted_word: "cowardly", classification: "adverb" }
-{ formatted_word: "crazily", classification: "adverb" }
-{ formatted_word: "crossly", classification: "adverb" }
-{ formatted_word: "cruelly", classification: "adverb" }
-{ formatted_word: "cunningly", classification: "adverb" }
-{ formatted_word: "curiously", classification: "adverb" }
-{ formatted_word: "currently", classification: "adverb" }
-{ formatted_word: "customarily", classification: "adverb" }
-{ formatted_word: "cutely", classification: "adverb" }
-{ formatted_word: "daily", classification: "adverb" }
-{ formatted_word: "daintily", classification: "adverb" }
-{ formatted_word: "dangerously", classification: "adverb" }
-{ formatted_word: "daringly", classification: "adverb" }
-{ formatted_word: "darkly", classification: "adverb" }
-{ formatted_word: "dastardly", classification: "adverb" }
-{ formatted_word: "dearly", classification: "adverb" }
-{ formatted_word: "decently", classification: "adverb" }
-{ formatted_word: "deeply", classification: "adverb" }
-{ formatted_word: "defiantly", classification: "adverb" }
-{ formatted_word: "deftly", classification: "adverb" }
-{ formatted_word: "deliberately", classification: "adverb" }
-{ formatted_word: "delicately", classification: "adverb" }
-{ formatted_word: "delightfully", classification: "adverb" }
-{ formatted_word: "densely", classification: "adverb" }
-{ formatted_word: "diagonally", classification: "adverb" }
-{ formatted_word: "differently", classification: "adverb" }
-{ formatted_word: "diligently", classification: "adverb" }
-{ formatted_word: "dimly", classification: "adverb" }
-{ formatted_word: "directly", classification: "adverb" }
-{ formatted_word: "disorderly", classification: "adverb" }
-{ formatted_word: "divisively", classification: "adverb" }
-{ formatted_word: "docilely", classification: "adverb" }
-{ formatted_word: "dopily", classification: "adverb" }
-{ formatted_word: "doubtfully", classification: "adverb" }
-{ formatted_word: "down", classification: "adverb" }
-{ formatted_word: "dramatically", classification: "adverb" }
-{ formatted_word: "dreamily", classification: "adverb" }
-{ formatted_word: "during", classification: "adverb" }
-{ formatted_word: "eagerly", classification: "adverb" }
-{ formatted_word: "early", classification: "adverb" }
-{ formatted_word: "earnestly", classification: "adverb" }
-{ formatted_word: "easily", classification: "adverb" }
-{ formatted_word: "efficiently", classification: "adverb" }
-{ formatted_word: "effortlessly", classification: "adverb" }
-{ formatted_word: "elaborately", classification: "adverb" }
-{ formatted_word: "eloquently", classification: "adverb" }
-{ formatted_word: "elegantly", classification: "adverb" }
-{ formatted_word: "elsewhere", classification: "adverb" }
-{ formatted_word: "emotionally", classification: "adverb" }
-{ formatted_word: "endlessly", classification: "adverb" }
-{ formatted_word: "energetically", classification: "adverb" }
-{ formatted_word: "enjoyably", classification: "adverb" }
-{ formatted_word: "enormously", classification: "adverb" }
-{ formatted_word: "enough", classification: "adverb" }
-{ formatted_word: "enthusiastically", classification: "adverb" }
-{ formatted_word: "entirely", classification: "adverb" }
-{ formatted_word: "equally", classification: "adverb" }
-{ formatted_word: "especially", classification: "adverb" }
-{ formatted_word: "essentially", classification: "adverb" }
-{ formatted_word: "eternally", classification: "adverb" }
-{ formatted_word: "ethically", classification: "adverb" }
-{ formatted_word: "even", classification: "adverb" }
-{ formatted_word: "evenly", classification: "adverb" }
-{ formatted_word: "eventually", classification: "adverb" }
-{ formatted_word: "evermore", classification: "adverb" }
-{ formatted_word: "every", classification: "adverb" }
-{ formatted_word: "everywhere", classification: "adverb" }
-{ formatted_word: "evidently", classification: "adverb" }
-{ formatted_word: "evocatively", classification: "adverb" }
-{ formatted_word: "exactly", classification: "adverb" }
-{ formatted_word: "exceedingly", classification: "adverb" }
-{ formatted_word: "exceptionally", classification: "adverb" }
-{ formatted_word: "excitedly", classification: "adverb" }
-{ formatted_word: "exclusively", classification: "adverb" }
-{ formatted_word: "explicitly", classification: "adverb" }
-{ formatted_word: "expressly", classification: "adverb" }
-{ formatted_word: "extensively", classification: "adverb" }
-{ formatted_word: "externally", classification: "adverb" }
-{ formatted_word: "extra", classification: "adverb" }
-{ formatted_word: "extraordinarily", classification: "adverb" }
-{ formatted_word: "extremely", classification: "adverb" }
-{ formatted_word: "fairly", classification: "adverb" }
-{ formatted_word: "faithfully", classification: "adverb" }
-{ formatted_word: "famously", classification: "adverb" }
-{ formatted_word: "far", classification: "adverb" }
-{ formatted_word: "fashionably", classification: "adverb" }
-{ formatted_word: "fast", classification: "adverb" }
-{ formatted_word: "fatally", classification: "adverb" }
-{ formatted_word: "favorably", classification: "adverb" }
-{ formatted_word: "ferociously", classification: "adverb" }
-{ formatted_word: "fervently", classification: "adverb" }
-{ formatted_word: "fiercely", classification: "adverb" }
-{ formatted_word: "fiery", classification: "adverb" }
-{ formatted_word: "finally", classification: "adverb" }
-{ formatted_word: "financially", classification: "adverb" }
-{ formatted_word: "finitely", classification: "adverb" }
-{ formatted_word: "fluently", classification: "adverb" }
-{ formatted_word: "fondly", classification: "adverb" }
-{ formatted_word: "foolishly", classification: "adverb" }
-{ formatted_word: "forever", classification: "adverb" }
-{ formatted_word: "formally", classification: "adverb" }
-{ formatted_word: "formerly", classification: "adverb" }
-{ formatted_word: "fortunately", classification: "adverb" }
-{ formatted_word: "forward", classification: "adverb" }
-{ formatted_word: "frankly", classification: "adverb" }
-{ formatted_word: "frantically", classification: "adverb" }
-{ formatted_word: "freely", classification: "adverb" }
-{ formatted_word: "frequently", classification: "adverb" }
-{ formatted_word: "frenetically", classification: "adverb" }
-{ formatted_word: "fully", classification: "adverb" }
-{ formatted_word: "furiously", classification: "adverb" }
-{ formatted_word: "furthermore", classification: "adverb" }
-{ formatted_word: "generally", classification: "adverb" }
-{ formatted_word: "generously", classification: "adverb" }
-{ formatted_word: "genuinely", classification: "adverb" }
-{ formatted_word: "gently", classification: "adverb" }
-{ formatted_word: "genuinely", classification: "adverb" }
-{ formatted_word: "girlishly", classification: "adverb" }
-{ formatted_word: "gladly", classification: "adverb" }
-{ formatted_word: "gleefully", classification: "adverb" }
-{ formatted_word: "gracefully", classification: "adverb" }
-{ formatted_word: "graciously", classification: "adverb" }
-{ formatted_word: "gradually", classification: "adverb" }
-{ formatted_word: "gratefully", classification: "adverb" }
-{ formatted_word: "greatly", classification: "adverb" }
-{ formatted_word: "greedily", classification: "adverb" }
-{ formatted_word: "grimly", classification: "adverb" }
-{ formatted_word: "grudgingly", classification: "adverb" }
-{ formatted_word: "habitually", classification: "adverb" }
-{ formatted_word: "half-heartedly", classification: "adverb" }
-{ formatted_word: "handily", classification: "adverb" }
-{ formatted_word: "handsomely", classification: "adverb" }
-{ formatted_word: "haphazardly", classification: "adverb" }
-{ formatted_word: "happily", classification: "adverb" }
-{ formatted_word: "hastily", classification: "adverb" }
-{ formatted_word: "harmoniously", classification: "adverb" }
-{ formatted_word: "harshly", classification: "adverb" }
-{ formatted_word: "hastily", classification: "adverb" }
-{ formatted_word: "hatefully", classification: "adverb" }
-{ formatted_word: "hauntingly", classification: "adverb" }
-{ formatted_word: "healthily", classification: "adverb" }
-{ formatted_word: "heartily", classification: "adverb" }
-{ formatted_word: "heavily", classification: "adverb" }
-{ formatted_word: "helpfully", classification: "adverb" }
-{ formatted_word: "hence", classification: "adverb" }
-{ formatted_word: "highly", classification: "adverb" }
-{ formatted_word: "hitherto", classification: "adverb" }
-{ formatted_word: "honestly", classification: "adverb" }
-{ formatted_word: "hopelessly", classification: "adverb" }
-{ formatted_word: "horizontally", classification: "adverb" }
-{ formatted_word: "hourly", classification: "adverb" }
-{ formatted_word: "how", classification: "adverb" }
-{ formatted_word: "however", classification: "adverb" }
-{ formatted_word: "hugely", classification: "adverb" }
-{ formatted_word: "humorously", classification: "adverb" }
-{ formatted_word: "hungrily", classification: "adverb" }
-{ formatted_word: "hurriedly", classification: "adverb" }
-{ formatted_word: "hysterically", classification: "adverb" }
-{ formatted_word: "icily", classification: "adverb" }
-{ formatted_word: "identifiably", classification: "adverb" }
-{ formatted_word: "idiotically", classification: "adverb" }
-{ formatted_word: "imaginatively", classification: "adverb" }
-{ formatted_word: "immeasurably", classification: "adverb" }
-{ formatted_word: "immediately", classification: "adverb" }
-{ formatted_word: "immensely", classification: "adverb" }
-{ formatted_word: "impatiently", classification: "adverb" }
-{ formatted_word: "impressively", classification: "adverb" }
-{ formatted_word: "inappropriately", classification: "adverb" }
-{ formatted_word: "incessantly", classification: "adverb" }
-{ formatted_word: "incorrectly", classification: "adverb" }
-{ formatted_word: "indeed", classification: "adverb" }
-{ formatted_word: "independently", classification: "adverb" }
-{ formatted_word: "indoors", classification: "adverb" }
-{ formatted_word: "indubitably", classification: "adverb" }
-{ formatted_word: "inevitably", classification: "adverb" }
-{ formatted_word: "infinitely", classification: "adverb" }
-{ formatted_word: "informally", classification: "adverb" }
-{ formatted_word: "infrequently", classification: "adverb" }
-{ formatted_word: "innocently", classification: "adverb" }
-{ formatted_word: "inquisitively", classification: "adverb" }
-{ formatted_word: "instantly", classification: "adverb" }
-{ formatted_word: "intelligently", classification: "adverb" }
-{ formatted_word: "intensely", classification: "adverb" }
-{ formatted_word: "intently", classification: "adverb" }
-{ formatted_word: "interestingly", classification: "adverb" }
-{ formatted_word: "intermittently", classification: "adverb" }
-{ formatted_word: "internally", classification: "adverb" }
-{ formatted_word: "invariably", classification: "adverb" }
-{ formatted_word: "invisibly", classification: "adverb" }
-{ formatted_word: "inwardly", classification: "adverb" }
-{ formatted_word: "ironically", classification: "adverb" }
-{ formatted_word: "irrefutably", classification: "adverb" }
-{ formatted_word: "irritably", classification: "adverb" }
-{ formatted_word: "jaggedly", classification: "adverb" }
-{ formatted_word: "jauntily", classification: "adverb" }
-{ formatted_word: "jealously", classification: "adverb" }
-{ formatted_word: "jovially", classification: "adverb" }
-{ formatted_word: "joyfully", classification: "adverb" }
-{ formatted_word: "joylessly", classification: "adverb" }
-{ formatted_word: "joyously", classification: "adverb" }
-{ formatted_word: "jubilantly", classification: "adverb" }
-{ formatted_word: "judgmentally", classification: "adverb" }
-{ formatted_word: "just", classification: "adverb" }
-{ formatted_word: "justly", classification: "adverb" }
-{ formatted_word: "keenly", classification: "adverb" }
-{ formatted_word: "kiddingly", classification: "adverb" }
-{ formatted_word: "kindheartedly", classification: "adverb" }
-{ formatted_word: "kindly", classification: "adverb" }
-{ formatted_word: "knavishly", classification: "adverb" }
-{ formatted_word: "knottily", classification: "adverb" }
-{ formatted_word: "knowingly", classification: "adverb" }
-{ formatted_word: "knowledgeably", classification: "adverb" }
-{ formatted_word: "kookily", classification: "adverb" }
-{ formatted_word: "lastly", classification: "adverb" }
-{ formatted_word: "late", classification: "adverb" }
-{ formatted_word: "lately", classification: "adverb" }
-{ formatted_word: "later", classification: "adverb" }
-{ formatted_word: "lazily", classification: "adverb" }
-{ formatted_word: "less", classification: "adverb" }
-{ formatted_word: "lightly", classification: "adverb" }
-{ formatted_word: "likely", classification: "adverb" }
-{ formatted_word: "limply", classification: "adverb" }
-{ formatted_word: "lithely", classification: "adverb" }
-{ formatted_word: "lively", classification: "adverb" }
-{ formatted_word: "loftily", classification: "adverb" }
-{ formatted_word: "longingly", classification: "adverb" }
-{ formatted_word: "loosely", classification: "adverb" }
-{ formatted_word: "loudly", classification: "adverb" }
-{ formatted_word: "lovingly", classification: "adverb" }
-{ formatted_word: "loyally", classification: "adverb" }
-{ formatted_word: "luckily", classification: "adverb" }
-{ formatted_word: "luxuriously", classification: "adverb" }
-{ formatted_word: "madly", classification: "adverb" }
-{ formatted_word: "magically", classification: "adverb" }
-{ formatted_word: "mainly", classification: "adverb" }
-{ formatted_word: "majestically", classification: "adverb" }
-{ formatted_word: "markedly", classification: "adverb" }
-{ formatted_word: "materially", classification: "adverb" }
-{ formatted_word: "meaningfully", classification: "adverb" }
-{ formatted_word: "meanly", classification: "adverb" }
-{ formatted_word: "meantime", classification: "adverb" }
-{ formatted_word: "meanwhile", classification: "adverb" }
-{ formatted_word: "measurably", classification: "adverb" }
-{ formatted_word: "mechanically", classification: "adverb" }
-{ formatted_word: "medically", classification: "adverb" }
-{ formatted_word: "menacingly", classification: "adverb" }
-{ formatted_word: "merely", classification: "adverb" }
-{ formatted_word: "merrily", classification: "adverb" }
-{ formatted_word: "methodically", classification: "adverb" }
-{ formatted_word: "mightily", classification: "adverb" }
-{ formatted_word: "miserably", classification: "adverb" }
-{ formatted_word: "mockingly", classification: "adverb" }
-{ formatted_word: "monthly", classification: "adverb" }
-{ formatted_word: "morally", classification: "adverb" }
-{ formatted_word: "more", classification: "adverb" }
-{ formatted_word: "moreover", classification: "adverb" }
-{ formatted_word: "mortally", classification: "adverb" }
-{ formatted_word: "mostly", classification: "adverb" }
-{ formatted_word: "much", classification: "adverb" }
-{ formatted_word: "mysteriously", classification: "adverb" }
-{ formatted_word: "nastily", classification: "adverb" }
-{ formatted_word: "naturally", classification: "adverb" }
-{ formatted_word: "naughtily", classification: "adverb" }
-{ formatted_word: "nearby", classification: "adverb" }
-{ formatted_word: "nearly", classification: "adverb" }
-{ formatted_word: "neatly", classification: "adverb" }
-{ formatted_word: "needily", classification: "adverb" }
-{ formatted_word: "negatively", classification: "adverb" }
-{ formatted_word: "nervously", classification: "adverb" }
-{ formatted_word: "never", classification: "adverb" }
-{ formatted_word: "nevertheless", classification: "adverb" }
-{ formatted_word: "next", classification: "adverb" }
-{ formatted_word: "nicely", classification: "adverb" }
-{ formatted_word: "nightly", classification: "adverb" }
-{ formatted_word: "noisily", classification: "adverb" }
-{ formatted_word: "normally", classification: "adverb" }
-{ formatted_word: "nosily", classification: "adverb" }
-{ formatted_word: "not", classification: "adverb" }
-{ formatted_word: "now", classification: "adverb" }
-{ formatted_word: "nowadays", classification: "adverb" }
-{ formatted_word: "numbly", classification: "adverb" }
-{ formatted_word: "obediently", classification: "adverb" }
-{ formatted_word: "obligingly", classification: "adverb" }
-{ formatted_word: "obnoxiously", classification: "adverb" }
-{ formatted_word: "obviously", classification: "adverb" }
-{ formatted_word: "occasionally", classification: "adverb" }
-{ formatted_word: "oddly", classification: "adverb" }
-{ formatted_word: "offensively", classification: "adverb" }
-{ formatted_word: "officially", classification: "adverb" }
-{ formatted_word: "often", classification: "adverb" }
-{ formatted_word: "ominously", classification: "adverb" }
-{ formatted_word: "once", classification: "adverb" }
-{ formatted_word: "only", classification: "adverb" }
-{ formatted_word: "openly", classification: "adverb" }
-{ formatted_word: "optimistically", classification: "adverb" }
-{ formatted_word: "orderly", classification: "adverb" }
-{ formatted_word: "ordinarily", classification: "adverb" }
-{ formatted_word: "outdoors", classification: "adverb" }
-{ formatted_word: "outrageously", classification: "adverb" }
-{ formatted_word: "outwardly", classification: "adverb" }
-{ formatted_word: "outwards", classification: "adverb" }
-{ formatted_word: "overconfidently", classification: "adverb" }
-{ formatted_word: "overseas", classification: "adverb" }
-{ formatted_word: "painfully", classification: "adverb" }
-{ formatted_word: "painlessly", classification: "adverb" }
-{ formatted_word: "paradoxically", classification: "adverb" }
-{ formatted_word: "partially", classification: "adverb" }
-{ formatted_word: "particularly", classification: "adverb" }
-{ formatted_word: "passionately", classification: "adverb" }
-{ formatted_word: "patiently", classification: "adverb" }
-{ formatted_word: "perfectly", classification: "adverb" }
-{ formatted_word: "periodically", classification: "adverb" }
-{ formatted_word: "perpetually", classification: "adverb" }
-{ formatted_word: "persistently", classification: "adverb" }
-{ formatted_word: "personally", classification: "adverb" }
-{ formatted_word: "persuasively", classification: "adverb" }
-{ formatted_word: "physically", classification: "adverb" }
-{ formatted_word: "plainly", classification: "adverb" }
-{ formatted_word: "playfully", classification: "adverb" }
-{ formatted_word: "poetically", classification: "adverb" }
-{ formatted_word: "poignantly", classification: "adverb" }
-{ formatted_word: "politely", classification: "adverb" }
-{ formatted_word: "poorly", classification: "adverb" }
-{ formatted_word: "positively", classification: "adverb" }
-{ formatted_word: "possibly", classification: "adverb" }
-{ formatted_word: "potentially", classification: "adverb" }
-{ formatted_word: "powerfully", classification: "adverb" }
-{ formatted_word: "presently", classification: "adverb" }
-{ formatted_word: "presumably", classification: "adverb" }
-{ formatted_word: "prettily", classification: "adverb" }
-{ formatted_word: "previously", classification: "adverb" }
-{ formatted_word: "primly", classification: "adverb" }
-{ formatted_word: "principally", classification: "adverb" }
-{ formatted_word: "probably", classification: "adverb" }
-{ formatted_word: "promptly", classification: "adverb" }
-{ formatted_word: "properly", classification: "adverb" }
-{ formatted_word: "proudly", classification: "adverb" }
-{ formatted_word: "punctually", classification: "adverb" }
-{ formatted_word: "puzzlingly", classification: "adverb" }
-{ formatted_word: "quaintly", classification: "adverb" }
-{ formatted_word: "queasily", classification: "adverb" }
-{ formatted_word: "questionably", classification: "adverb" }
-{ formatted_word: "questioningly", classification: "adverb" }
-{ formatted_word: "quicker", classification: "adverb" }
-{ formatted_word: "quickly", classification: "adverb" }
-{ formatted_word: "quietly", classification: "adverb" }
-{ formatted_word: "quirkily", classification: "adverb" }
-{ formatted_word: "quite", classification: "adverb" }
-{ formatted_word: "quizzically", classification: "adverb" }
-{ formatted_word: "randomly", classification: "adverb" }
-{ formatted_word: "rapidly", classification: "adverb" }
-{ formatted_word: "rarely", classification: "adverb" }
-{ formatted_word: "readily", classification: "adverb" }
-{ formatted_word: "really", classification: "adverb" }
-{ formatted_word: "reasonably", classification: "adverb" }
-{ formatted_word: "reassuringly", classification: "adverb" }
-{ formatted_word: "recently", classification: "adverb" }
-{ formatted_word: "recklessly", classification: "adverb" }
-{ formatted_word: "regularly", classification: "adverb" }
-{ formatted_word: "reliably", classification: "adverb" }
-{ formatted_word: "reluctantly", classification: "adverb" }
-{ formatted_word: "remarkably", classification: "adverb" }
-{ formatted_word: "repeatedly", classification: "adverb" }
-{ formatted_word: "reproachfully", classification: "adverb" }
-{ formatted_word: "reponsibly", classification: "adverb" }
-{ formatted_word: "resentfully", classification: "adverb" }
-{ formatted_word: "respectably", classification: "adverb" }
-{ formatted_word: "respectfully", classification: "adverb" }
-{ formatted_word: "restfully", classification: "adverb" }
-{ formatted_word: "richly", classification: "adverb" }
-{ formatted_word: "ridiculously", classification: "adverb" }
-{ formatted_word: "righteously", classification: "adverb" }
-{ formatted_word: "rightfully", classification: "adverb" }
-{ formatted_word: "rightly", classification: "adverb" }
-{ formatted_word: "rigidly", classification: "adverb" }
-{ formatted_word: "roughly", classification: "adverb" }
-{ formatted_word: "routinely", classification: "adverb" }
-{ formatted_word: "rudely", classification: "adverb" }
-{ formatted_word: "ruthlessly", classification: "adverb" }
-{ formatted_word: "sadly", classification: "adverb" }
-{ formatted_word: "safely", classification: "adverb" }
-{ formatted_word: "scarcely", classification: "adverb" }
-{ formatted_word: "scarily", classification: "adverb" }
-{ formatted_word: "scientifically", classification: "adverb" }
-{ formatted_word: "searchingly", classification: "adverb" }
-{ formatted_word: "secretively", classification: "adverb" }
-{ formatted_word: "securely", classification: "adverb" }
-{ formatted_word: "sedately", classification: "adverb" }
-{ formatted_word: "seemingly", classification: "adverb" }
-{ formatted_word: "seldom", classification: "adverb" }
-{ formatted_word: "selfishly", classification: "adverb" }
-{ formatted_word: "selflessly", classification: "adverb" }
-{ formatted_word: "separately", classification: "adverb" }
-{ formatted_word: "seriously", classification: "adverb" }
-{ formatted_word: "shakily", classification: "adverb" }
-{ formatted_word: "shamelessly", classification: "adverb" }
-{ formatted_word: "sharply", classification: "adverb" }
-{ formatted_word: "sheepishly", classification: "adverb" }
-{ formatted_word: "shoddily", classification: "adverb" }
-{ formatted_word: "shortly", classification: "adverb" }
-{ formatted_word: "shrilly", classification: "adverb" }
-{ formatted_word: "significantly", classification: "adverb" }
-{ formatted_word: "silently", classification: "adverb" }
-{ formatted_word: "simply", classification: "adverb" }
-{ formatted_word: "sincerely", classification: "adverb" }
-{ formatted_word: "singularly", classification: "adverb" }
-{ formatted_word: "shyly", classification: "adverb" }
-{ formatted_word: "skillfully", classification: "adverb" }
-{ formatted_word: "sleepily", classification: "adverb" }
-{ formatted_word: "slightly", classification: "adverb" }
-{ formatted_word: "slowly", classification: "adverb" }
-{ formatted_word: "slyly", classification: "adverb" }
-{ formatted_word: "smoothly", classification: "adverb" }
-{ formatted_word: "so", classification: "adverb" }
-{ formatted_word: "softly", classification: "adverb" }
-{ formatted_word: "solely", classification: "adverb" }
-{ formatted_word: "solemnly", classification: "adverb" }
-{ formatted_word: "solidly", classification: "adverb" }
-{ formatted_word: "silicitiously", classification: "adverb" }
-{ formatted_word: "somehow", classification: "adverb" }
-{ formatted_word: "sometimes", classification: "adverb" }
-{ formatted_word: "somewhat", classification: "adverb" }
-{ formatted_word: "somewhere", classification: "adverb" }
-{ formatted_word: "soon", classification: "adverb" }
-{ formatted_word: "specially", classification: "adverb" }
-{ formatted_word: "specifically", classification: "adverb" }
-{ formatted_word: "spectacularly", classification: "adverb" }
-{ formatted_word: "speedily", classification: "adverb" }
-{ formatted_word: "spiritually", classification: "adverb" }
-{ formatted_word: "splendidly", classification: "adverb" }
-{ formatted_word: "sporadically", classification: "adverb" }
-{ formatted_word: "spasmodically", classification: "adverb" }
-{ formatted_word: "startlingly", classification: "adverb" }
-{ formatted_word: "steadily", classification: "adverb" }
-{ formatted_word: "stealthily", classification: "adverb" }
-{ formatted_word: "sternly", classification: "adverb" }
-{ formatted_word: "still", classification: "adverb" }
-{ formatted_word: "strenuously", classification: "adverb" }
-{ formatted_word: "stressfully", classification: "adverb" }
-{ formatted_word: "strictly", classification: "adverb" }
-{ formatted_word: "structurally", classification: "adverb" }
-{ formatted_word: "studiously", classification: "adverb" }
-{ formatted_word: "stupidly", classification: "adverb" }
-{ formatted_word: "stylishly", classification: "adverb" }
-{ formatted_word: "subsequently", classification: "adverb" }
-{ formatted_word: "substantially", classification: "adverb" }
-{ formatted_word: "subtly", classification: "adverb" }
-{ formatted_word: "successfully", classification: "adverb" }
-{ formatted_word: "suddenly", classification: "adverb" }
-{ formatted_word: "sufficiently", classification: "adverb" }
-{ formatted_word: "suitably", classification: "adverb" }
-{ formatted_word: "superficially", classification: "adverb" }
-{ formatted_word: "supremely", classification: "adverb" }
-{ formatted_word: "surely", classification: "adverb" }
-{ formatted_word: "surprisingly", classification: "adverb" }
-{ formatted_word: "suspiciously", classification: "adverb" }
-{ formatted_word: "sweetly", classification: "adverb" }
-{ formatted_word: "swiftly", classification: "adverb" }
-{ formatted_word: "sympathetically", classification: "adverb" }
-{ formatted_word: "systematically", classification: "adverb" }
-{ formatted_word: "temporarily", classification: "adverb" }
-{ formatted_word: "tenderly", classification: "adverb" }
-{ formatted_word: "tensely", classification: "adverb" }
-{ formatted_word: "tepidly", classification: "adverb" }
-{ formatted_word: "terribly", classification: "adverb" }
-{ formatted_word: "thankfully", classification: "adverb" }
-{ formatted_word: "then", classification: "adverb" }
-{ formatted_word: "there", classification: "adverb" }
-{ formatted_word: "thereby", classification: "adverb" }
-{ formatted_word: "thoroughly", classification: "adverb" }
-{ formatted_word: "thoughtfully", classification: "adverb" }
-{ formatted_word: "thus", classification: "adverb" }
-{ formatted_word: "tightly", classification: "adverb" }
-{ formatted_word: "today", classification: "adverb" }
-{ formatted_word: "together", classification: "adverb" }
-{ formatted_word: "tomorrow", classification: "adverb" }
-{ formatted_word: "too", classification: "adverb" }
-{ formatted_word: "totally", classification: "adverb" }
-{ formatted_word: "touchingly", classification: "adverb" }
-{ formatted_word: "tremendously", classification: "adverb" }
-{ formatted_word: "truly", classification: "adverb" }
-{ formatted_word: "truthfully", classification: "adverb" }
-{ formatted_word: "twice", classification: "adverb" }
-{ formatted_word: "ultimately", classification: "adverb" }
-{ formatted_word: "unabashedly", classification: "adverb" }
-{ formatted_word: "unanimously", classification: "adverb" }
-{ formatted_word: "unbearably", classification: "adverb" }
-{ formatted_word: "unbelievably", classification: "adverb" }
-{ formatted_word: "unemotionally", classification: "adverb" }
-{ formatted_word: "unethically", classification: "adverb" }
-{ formatted_word: "unexpectedly", classification: "adverb" }
-{ formatted_word: "unfailingly", classification: "adverb" }
-{ formatted_word: "unfavorably", classification: "adverb" }
-{ formatted_word: "unfortunately", classification: "adverb" }
-{ formatted_word: "uniformly", classification: "adverb" }
-{ formatted_word: "unilaterally", classification: "adverb" }
-{ formatted_word: "unimpressively", classification: "adverb" }
-{ formatted_word: "universally", classification: "adverb" }
-{ formatted_word: "unnaturally", classification: "adverb" }
-{ formatted_word: "unnecessarily", classification: "adverb" }
-{ formatted_word: "unquestionably", classification: "adverb" }
-{ formatted_word: "unwillingly", classification: "adverb" }
-{ formatted_word: "up", classification: "adverb" }
-{ formatted_word: "upbeat", classification: "adverb" }
-{ formatted_word: "unkindly", classification: "adverb" }
-{ formatted_word: "upliftingly", classification: "adverb" }
-{ formatted_word: "upright", classification: "adverb" }
-{ formatted_word: "unselfishly", classification: "adverb" }
-{ formatted_word: "upside-down", classification: "adverb" }
-{ formatted_word: "unskillfully", classification: "adverb" }
-{ formatted_word: "upward", classification: "adverb" }
-{ formatted_word: "upwardly", classification: "adverb" }
-{ formatted_word: "urgently", classification: "adverb" }
-{ formatted_word: "usefully", classification: "adverb" }
-{ formatted_word: "uselessly", classification: "adverb" }
-{ formatted_word: "usually", classification: "adverb" }
-{ formatted_word: "utterly", classification: "adverb" }
-{ formatted_word: "vacantly", classification: "adverb" }
-{ formatted_word: "vaguely", classification: "adverb" }
-{ formatted_word: "vainly", classification: "adverb" }
-{ formatted_word: "valiantly", classification: "adverb" }
-{ formatted_word: "vastly", classification: "adverb" }
-{ formatted_word: "verbally", classification: "adverb" }
-{ formatted_word: "vertically", classification: "adverb" }
-{ formatted_word: "very", classification: "adverb" }
-{ formatted_word: "viciously", classification: "adverb" }
-{ formatted_word: "victoriously", classification: "adverb" }
-{ formatted_word: "vigilantly", classification: "adverb" }
-{ formatted_word: "vigorously", classification: "adverb" }
-{ formatted_word: "violently", classification: "adverb" }
-{ formatted_word: "visibly", classification: "adverb" }
-{ formatted_word: "visually", classification: "adverb" }
-{ formatted_word: "vivaciously", classification: "adverb" }
-{ formatted_word: "voluntarily", classification: "adverb" }
-{ formatted_word: "warmly", classification: "adverb" }
-{ formatted_word: "weakly", classification: "adverb" }
-{ formatted_word: "wearily", classification: "adverb" }
-{ formatted_word: "weekly", classification: "adverb" }
-{ formatted_word: "well", classification: "adverb" }
-{ formatted_word: "wetly", classification: "adverb" }
-{ formatted_word: "when", classification: "adverb" }
-{ formatted_word: "where", classification: "adverb" }
-{ formatted_word: "while", classification: "adverb" }
-{ formatted_word: "whole-heartedly", classification: "adverb" }
-{ formatted_word: "wholly", classification: "adverb" }
-{ formatted_word: "why", classification: "adverb" }
-{ formatted_word: "wickedly", classification: "adverb" }
-{ formatted_word: "widely", classification: "adverb" }
-{ formatted_word: "wiggly", classification: "adverb" }
-{ formatted_word: "wildly", classification: "adverb" }
-{ formatted_word: "willfully", classification: "adverb" }
-{ formatted_word: "willingly", classification: "adverb" }
-{ formatted_word: "wisely", classification: "adverb" }
-{ formatted_word: "woefully", classification: "adverb" }
-{ formatted_word: "wonderfully", classification: "adverb" }
-{ formatted_word: "worriedly", classification: "adverb" }
-{ formatted_word: "worthily", classification: "adverb" }
-{ formatted_word: "wrongly", classification: "adverb" }
-{ formatted_word: "yearly", classification: "adverb" }
-{ formatted_word: "yearningly", classification: "adverb" }
-{ formatted_word: "yesterday", classification: "adverb" }
-{ formatted_word: "yet", classification: "adverb" }
-{ formatted_word: "youthfully", classification: "adverb" }
-{ formatted_word: "zanily", classification: "adverb" }
-{ formatted_word: "zealously", classification: "adverb" }
-{ formatted_word: "zestfully", classification: "adverb" }
-{ formatted_word: "zestily", classification: "adverb" }
+{ stemmed_word: "aboard", classifications: [ { formatted_word: "aboard", classification: "adverb" } ] }
+{ stemmed_word: "abnorm", classifications: [ { formatted_word: "abnormally", classification: "adverb" } ] }
+{ stemmed_word: "about", classifications: [ { formatted_word: "about", classification: "adverb" } ] }
+{ stemmed_word: "abroad", classifications: [ { formatted_word: "abroad", classification: "adverb" } ] }
+{ stemmed_word: "absentmind", classifications: [ { formatted_word: "absentmindedly", classification: "adverb" } ] }
+{ stemmed_word: "absolut", classifications: [ { formatted_word: "absolutely", classification: "adverb" } ] }
+{ stemmed_word: "abund", classifications: [ { formatted_word: "abundantly", classification: "adverb" } ] }
+{ stemmed_word: "accident", classifications: [ { formatted_word: "accidentally", classification: "adverb" } ] }
+{ stemmed_word: "accord", classifications: [ { formatted_word: "accordingly", classification: "adverb" } ] }
+{ stemmed_word: "activ", classifications: [ { formatted_word: "actively", classification: "adverb" } ] }
+{ stemmed_word: "actual", classifications: [ { formatted_word: "actually", classification: "adverb" } ] }
+{ stemmed_word: "acut", classifications: [ { formatted_word: "acutely", classification: "adverb" } ] }
+{ stemmed_word: "admir", classifications: [ { formatted_word: "admiringly", classification: "adverb" } ] }
+{ stemmed_word: "affection", classifications: [ { formatted_word: "affectionately", classification: "adverb" } ] }
+{ stemmed_word: "affirm", classifications: [ { formatted_word: "affirmatively", classification: "adverb" } ] }
+{ stemmed_word: "after", classifications: [ { formatted_word: "after", classification: "adverb" } ] }
+{ stemmed_word: "afterward", classifications: [ { formatted_word: "afterwards", classification: "adverb" } ] }
+{ stemmed_word: "agreeabl", classifications: [ { formatted_word: "agreeably", classification: "adverb" } ] }
+{ stemmed_word: "almost", classifications: [ { formatted_word: "almost", classification: "adverb" } ] }
+{ stemmed_word: "alreadi", classifications: [ { formatted_word: "already", classification: "adverb" } ] }
+{ stemmed_word: "alway", classifications: [ { formatted_word: "always", classification: "adverb" } ] }
+{ stemmed_word: "amaz", classifications: [ { formatted_word: "amazingly", classification: "adverb" } ] }
+{ stemmed_word: "angrili", classifications: [ { formatted_word: "angrily", classification: "adverb" } ] }
+{ stemmed_word: "annoy", classifications: [ { formatted_word: "annoyingly", classification: "adverb" } ] }
+{ stemmed_word: "annual", classifications: [ { formatted_word: "annually", classification: "adverb" } ] }
+{ stemmed_word: "anxious", classifications: [ { formatted_word: "anxiously", classification: "adverb" } ] }
+{ stemmed_word: "anyhow", classifications: [ { formatted_word: "anyhow", classification: "adverb" } ] }
+{ stemmed_word: "anyplac", classifications: [ { formatted_word: "anyplace", classification: "adverb" } ] }
+{ stemmed_word: "anyway", classifications: [ { formatted_word: "anyway", classification: "adverb" } ] }
+{ stemmed_word: "anywher", classifications: [ { formatted_word: "anywhere", classification: "adverb" } ] }
+{ stemmed_word: "appreci", classifications: [ { formatted_word: "appreciably", classification: "adverb" } ] }
+{ stemmed_word: "appropri", classifications: [ { formatted_word: "appropriately", classification: "adverb" } ] }
+{ stemmed_word: "around", classifications: [ { formatted_word: "around", classification: "adverb" } ] }
+{ stemmed_word: "arrog", classifications: [ { formatted_word: "arrogantly", classification: "adverb" } ] }
+{ stemmed_word: "asid", classifications: [ { formatted_word: "aside", classification: "adverb" } ] }
+{ stemmed_word: "assur", classifications: [ { formatted_word: "assuredly", classification: "adverb" } ] }
+{ stemmed_word: "astonish", classifications: [ { formatted_word: "astonishingly", classification: "adverb" } ] }
+{ stemmed_word: "away", classifications: [ { formatted_word: "away", classification: "adverb" } ] }
+{ stemmed_word: "aw", classifications: [ { formatted_word: "awfully", classification: "adverb" } ] }
+{ stemmed_word: "awkward", classifications: [ { formatted_word: "awkwardly", classification: "adverb" } ] }
+{ stemmed_word: "bad", classifications: [ { formatted_word: "badly", classification: "adverb" } ] }
+{ stemmed_word: "bare", classifications: [ { formatted_word: "barely", classification: "adverb" } ] }
+{ stemmed_word: "bash", classifications: [ { formatted_word: "bashfully", classification: "adverb" } ] }
+{ stemmed_word: "beauti", classifications: [ { formatted_word: "beautifully", classification: "adverb" } ] }
+{ stemmed_word: "befor", classifications: [ { formatted_word: "before", classification: "adverb" } ] }
+{ stemmed_word: "begrudg", classifications: [ { formatted_word: "begrudgingly", classification: "adverb" } ] }
+{ stemmed_word: "believ", classifications: [ { formatted_word: "believably", classification: "adverb" } ] }
+{ stemmed_word: "bewild", classifications: [ { formatted_word: "bewilderedly", classification: "adverb" } ] }
+{ stemmed_word: "bewild", classifications: [ { formatted_word: "bewilderingly", classification: "adverb" } ] }
+{ stemmed_word: "bitter", classifications: [ { formatted_word: "bitterly", classification: "adverb" } ] }
+{ stemmed_word: "bleak", classifications: [ { formatted_word: "bleakly", classification: "adverb" } ] }
+{ stemmed_word: "blind", classifications: [ { formatted_word: "blindly", classification: "adverb" } ] }
+{ stemmed_word: "bliss", classifications: [ { formatted_word: "blissfully", classification: "adverb" } ] }
+{ stemmed_word: "bold", classifications: [ { formatted_word: "boldly", classification: "adverb" } ] }
+{ stemmed_word: "boast", classifications: [ { formatted_word: "boastfully", classification: "adverb" } ] }
+{ stemmed_word: "bold", classifications: [ { formatted_word: "boldly", classification: "adverb" } ] }
+{ stemmed_word: "boyish", classifications: [ { formatted_word: "boyishly", classification: "adverb" } ] }
+{ stemmed_word: "brave", classifications: [ { formatted_word: "bravely", classification: "adverb" } ] }
+{ stemmed_word: "briefli", classifications: [ { formatted_word: "briefly", classification: "adverb" } ] }
+{ stemmed_word: "bright", classifications: [ { formatted_word: "brightly", classification: "adverb" } ] }
+{ stemmed_word: "brilliant", classifications: [ { formatted_word: "brilliantly", classification: "adverb" } ] }
+{ stemmed_word: "brisk", classifications: [ { formatted_word: "briskly", classification: "adverb" } ] }
+{ stemmed_word: "brutal", classifications: [ { formatted_word: "brutally", classification: "adverb" } ] }
+{ stemmed_word: "busili", classifications: [ { formatted_word: "busily", classification: "adverb" } ] }
+{ stemmed_word: "calm", classifications: [ { formatted_word: "calmly", classification: "adverb" } ] }
+{ stemmed_word: "candid", classifications: [ { formatted_word: "candidly", classification: "adverb" } ] }
+{ stemmed_word: "care", classifications: [ { formatted_word: "carefully", classification: "adverb" } ] }
+{ stemmed_word: "careless", classifications: [ { formatted_word: "carelessly", classification: "adverb" } ] }
+{ stemmed_word: "casual", classifications: [ { formatted_word: "casually", classification: "adverb" } ] }
+{ stemmed_word: "cautious", classifications: [ { formatted_word: "cautiously", classification: "adverb" } ] }
+{ stemmed_word: "certain", classifications: [ { formatted_word: "certainly", classification: "adverb" } ] }
+{ stemmed_word: "charm", classifications: [ { formatted_word: "charmingly", classification: "adverb" } ] }
+{ stemmed_word: "cheer", classifications: [ { formatted_word: "cheerfully", classification: "adverb" } ] }
+{ stemmed_word: "chiefli", classifications: [ { formatted_word: "chiefly", classification: "adverb" } ] }
+{ stemmed_word: "childish", classifications: [ { formatted_word: "childishly", classification: "adverb" } ] }
+{ stemmed_word: "clean", classifications: [ { formatted_word: "cleanly", classification: "adverb" } ] }
+{ stemmed_word: "clear", classifications: [ { formatted_word: "clearly", classification: "adverb" } ] }
+{ stemmed_word: "clever", classifications: [ { formatted_word: "cleverly", classification: "adverb" } ] }
+{ stemmed_word: "close", classifications: [ { formatted_word: "closely", classification: "adverb" } ] }
+{ stemmed_word: "cloudili", classifications: [ { formatted_word: "cloudily", classification: "adverb" } ] }
+{ stemmed_word: "clumsili", classifications: [ { formatted_word: "clumsily", classification: "adverb" } ] }
+{ stemmed_word: "coax", classifications: [ { formatted_word: "coaxingly", classification: "adverb" } ] }
+{ stemmed_word: "coincident", classifications: [ { formatted_word: "coincidentally", classification: "adverb" } ] }
+{ stemmed_word: "cold", classifications: [ { formatted_word: "coldly", classification: "adverb" } ] }
+{ stemmed_word: "color", classifications: [ { formatted_word: "colorfully", classification: "adverb" } ] }
+{ stemmed_word: "common", classifications: [ { formatted_word: "commonly", classification: "adverb" } ] }
+{ stemmed_word: "comfort", classifications: [ { formatted_word: "comfortably", classification: "adverb" } ] }
+{ stemmed_word: "compact", classifications: [ { formatted_word: "compactly", classification: "adverb" } ] }
+{ stemmed_word: "compassion", classifications: [ { formatted_word: "compassionately", classification: "adverb" } ] }
+{ stemmed_word: "complet", classifications: [ { formatted_word: "completely", classification: "adverb" } ] }
+{ stemmed_word: "confus", classifications: [ { formatted_word: "confusedly", classification: "adverb" } ] }
+{ stemmed_word: "consequ", classifications: [ { formatted_word: "consequently", classification: "adverb" } ] }
+{ stemmed_word: "consider", classifications: [ { formatted_word: "considerably", classification: "adverb" } ] }
+{ stemmed_word: "consider", classifications: [ { formatted_word: "considerately", classification: "adverb" } ] }
+{ stemmed_word: "consist", classifications: [ { formatted_word: "consistently", classification: "adverb" } ] }
+{ stemmed_word: "constant", classifications: [ { formatted_word: "constantly", classification: "adverb" } ] }
+{ stemmed_word: "continu", classifications: [ { formatted_word: "continually", classification: "adverb" } ] }
+{ stemmed_word: "continu", classifications: [ { formatted_word: "continuously", classification: "adverb" } ] }
+{ stemmed_word: "coolli", classifications: [ { formatted_word: "coolly", classification: "adverb" } ] }
+{ stemmed_word: "correct", classifications: [ { formatted_word: "correctly", classification: "adverb" } ] }
+{ stemmed_word: "courag", classifications: [ { formatted_word: "courageously", classification: "adverb" } ] }
+{ stemmed_word: "covert", classifications: [ { formatted_word: "covertly", classification: "adverb" } ] }
+{ stemmed_word: "coward", classifications: [ { formatted_word: "cowardly", classification: "adverb" } ] }
+{ stemmed_word: "crazili", classifications: [ { formatted_word: "crazily", classification: "adverb" } ] }
+{ stemmed_word: "crossli", classifications: [ { formatted_word: "crossly", classification: "adverb" } ] }
+{ stemmed_word: "cruelli", classifications: [ { formatted_word: "cruelly", classification: "adverb" } ] }
+{ stemmed_word: "cun", classifications: [ { formatted_word: "cunningly", classification: "adverb" } ] }
+{ stemmed_word: "curious", classifications: [ { formatted_word: "curiously", classification: "adverb" } ] }
+{ stemmed_word: "current", classifications: [ { formatted_word: "currently", classification: "adverb" } ] }
+{ stemmed_word: "customarili", classifications: [ { formatted_word: "customarily", classification: "adverb" } ] }
+{ stemmed_word: "cute", classifications: [ { formatted_word: "cutely", classification: "adverb" } ] }
+{ stemmed_word: "daili", classifications: [ { formatted_word: "daily", classification: "adverb" } ] }
+{ stemmed_word: "daintili", classifications: [ { formatted_word: "daintily", classification: "adverb" } ] }
+{ stemmed_word: "danger", classifications: [ { formatted_word: "dangerously", classification: "adverb" } ] }
+{ stemmed_word: "dare", classifications: [ { formatted_word: "daringly", classification: "adverb" } ] }
+{ stemmed_word: "dark", classifications: [ { formatted_word: "darkly", classification: "adverb" } ] }
+{ stemmed_word: "dastard", classifications: [ { formatted_word: "dastardly", classification: "adverb" } ] }
+{ stemmed_word: "dear", classifications: [ { formatted_word: "dearly", classification: "adverb" } ] }
+{ stemmed_word: "decent", classifications: [ { formatted_word: "decently", classification: "adverb" } ] }
+{ stemmed_word: "deepli", classifications: [ { formatted_word: "deeply", classification: "adverb" } ] }
+{ stemmed_word: "defiant", classifications: [ { formatted_word: "defiantly", classification: "adverb" } ] }
+{ stemmed_word: "deft", classifications: [ { formatted_word: "deftly", classification: "adverb" } ] }
+{ stemmed_word: "deliber", classifications: [ { formatted_word: "deliberately", classification: "adverb" } ] }
+{ stemmed_word: "delic", classifications: [ { formatted_word: "delicately", classification: "adverb" } ] }
+{ stemmed_word: "delight", classifications: [ { formatted_word: "delightfully", classification: "adverb" } ] }
+{ stemmed_word: "dens", classifications: [ { formatted_word: "densely", classification: "adverb" } ] }
+{ stemmed_word: "diagon", classifications: [ { formatted_word: "diagonally", classification: "adverb" } ] }
+{ stemmed_word: "differ", classifications: [ { formatted_word: "differently", classification: "adverb" } ] }
+{ stemmed_word: "dilig", classifications: [ { formatted_word: "diligently", classification: "adverb" } ] }
+{ stemmed_word: "dim", classifications: [ { formatted_word: "dimly", classification: "adverb" } ] }
+{ stemmed_word: "direct", classifications: [ { formatted_word: "directly", classification: "adverb" } ] }
+{ stemmed_word: "disord", classifications: [ { formatted_word: "disorderly", classification: "adverb" } ] }
+{ stemmed_word: "divis", classifications: [ { formatted_word: "divisively", classification: "adverb" } ] }
+{ stemmed_word: "docil", classifications: [ { formatted_word: "docilely", classification: "adverb" } ] }
+{ stemmed_word: "dopili", classifications: [ { formatted_word: "dopily", classification: "adverb" } ] }
+{ stemmed_word: "doubt", classifications: [ { formatted_word: "doubtfully", classification: "adverb" } ] }
+{ stemmed_word: "down", classifications: [ { formatted_word: "down", classification: "adverb" } ] }
+{ stemmed_word: "dramat", classifications: [ { formatted_word: "dramatically", classification: "adverb" } ] }
+{ stemmed_word: "dreamili", classifications: [ { formatted_word: "dreamily", classification: "adverb" } ] }
+{ stemmed_word: "dure", classifications: [ { formatted_word: "during", classification: "adverb" } ] }
+{ stemmed_word: "eager", classifications: [ { formatted_word: "eagerly", classification: "adverb" } ] }
+{ stemmed_word: "earli", classifications: [ { formatted_word: "early", classification: "adverb" } ] }
+{ stemmed_word: "earnest", classifications: [ { formatted_word: "earnestly", classification: "adverb" } ] }
+{ stemmed_word: "easili", classifications: [ { formatted_word: "easily", classification: "adverb" } ] }
+{ stemmed_word: "effici", classifications: [ { formatted_word: "efficiently", classification: "adverb" } ] }
+{ stemmed_word: "effortless", classifications: [ { formatted_word: "effortlessly", classification: "adverb" } ] }
+{ stemmed_word: "elabor", classifications: [ { formatted_word: "elaborately", classification: "adverb" } ] }
+{ stemmed_word: "eloqu", classifications: [ { formatted_word: "eloquently", classification: "adverb" } ] }
+{ stemmed_word: "eleg", classifications: [ { formatted_word: "elegantly", classification: "adverb" } ] }
+{ stemmed_word: "elsewher", classifications: [ { formatted_word: "elsewhere", classification: "adverb" } ] }
+{ stemmed_word: "emot", classifications: [ { formatted_word: "emotionally", classification: "adverb" } ] }
+{ stemmed_word: "endless", classifications: [ { formatted_word: "endlessly", classification: "adverb" } ] }
+{ stemmed_word: "energet", classifications: [ { formatted_word: "energetically", classification: "adverb" } ] }
+{ stemmed_word: "enjoy", classifications: [ { formatted_word: "enjoyably", classification: "adverb" } ] }
+{ stemmed_word: "enorm", classifications: [ { formatted_word: "enormously", classification: "adverb" } ] }
+{ stemmed_word: "enough", classifications: [ { formatted_word: "enough", classification: "adverb" } ] }
+{ stemmed_word: "enthusiast", classifications: [ { formatted_word: "enthusiastically", classification: "adverb" } ] }
+{ stemmed_word: "entir", classifications: [ { formatted_word: "entirely", classification: "adverb" } ] }
+{ stemmed_word: "equal", classifications: [ { formatted_word: "equally", classification: "adverb" } ] }
+{ stemmed_word: "especi", classifications: [ { formatted_word: "especially", classification: "adverb" } ] }
+{ stemmed_word: "essenti", classifications: [ { formatted_word: "essentially", classification: "adverb" } ] }
+{ stemmed_word: "etern", classifications: [ { formatted_word: "eternally", classification: "adverb" } ] }
+{ stemmed_word: "ethic", classifications: [ { formatted_word: "ethically", classification: "adverb" } ] }
+{ stemmed_word: "even", classifications: [ { formatted_word: "even", classification: "adverb" } ] }
+{ stemmed_word: "even", classifications: [ { formatted_word: "evenly", classification: "adverb" } ] }
+{ stemmed_word: "eventu", classifications: [ { formatted_word: "eventually", classification: "adverb" } ] }
+{ stemmed_word: "evermor", classifications: [ { formatted_word: "evermore", classification: "adverb" } ] }
+{ stemmed_word: "everi", classifications: [ { formatted_word: "every", classification: "adverb" } ] }
+{ stemmed_word: "everywher", classifications: [ { formatted_word: "everywhere", classification: "adverb" } ] }
+{ stemmed_word: "evid", classifications: [ { formatted_word: "evidently", classification: "adverb" } ] }
+{ stemmed_word: "evoc", classifications: [ { formatted_word: "evocatively", classification: "adverb" } ] }
+{ stemmed_word: "exact", classifications: [ { formatted_word: "exactly", classification: "adverb" } ] }
+{ stemmed_word: "exceed", classifications: [ { formatted_word: "exceedingly", classification: "adverb" } ] }
+{ stemmed_word: "except", classifications: [ { formatted_word: "exceptionally", classification: "adverb" } ] }
+{ stemmed_word: "excit", classifications: [ { formatted_word: "excitedly", classification: "adverb" } ] }
+{ stemmed_word: "exclus", classifications: [ { formatted_word: "exclusively", classification: "adverb" } ] }
+{ stemmed_word: "explicit", classifications: [ { formatted_word: "explicitly", classification: "adverb" } ] }
+{ stemmed_word: "expressli", classifications: [ { formatted_word: "expressly", classification: "adverb" } ] }
+{ stemmed_word: "extens", classifications: [ { formatted_word: "extensively", classification: "adverb" } ] }
+{ stemmed_word: "extern", classifications: [ { formatted_word: "externally", classification: "adverb" } ] }
+{ stemmed_word: "extra", classifications: [ { formatted_word: "extra", classification: "adverb" } ] }
+{ stemmed_word: "extraordinarili", classifications: [ { formatted_word: "extraordinarily", classification: "adverb" } ] }
+{ stemmed_word: "extrem", classifications: [ { formatted_word: "extremely", classification: "adverb" } ] }
+{ stemmed_word: "fair", classifications: [ { formatted_word: "fairly", classification: "adverb" } ] }
+{ stemmed_word: "faith", classifications: [ { formatted_word: "faithfully", classification: "adverb" } ] }
+{ stemmed_word: "famous", classifications: [ { formatted_word: "famously", classification: "adverb" } ] }
+{ stemmed_word: "far", classifications: [ { formatted_word: "far", classification: "adverb" } ] }
+{ stemmed_word: "fashion", classifications: [ { formatted_word: "fashionably", classification: "adverb" } ] }
+{ stemmed_word: "fast", classifications: [ { formatted_word: "fast", classification: "adverb" } ] }
+{ stemmed_word: "fatal", classifications: [ { formatted_word: "fatally", classification: "adverb" } ] }
+{ stemmed_word: "favor", classifications: [ { formatted_word: "favorably", classification: "adverb" } ] }
+{ stemmed_word: "feroci", classifications: [ { formatted_word: "ferociously", classification: "adverb" } ] }
+{ stemmed_word: "fervent", classifications: [ { formatted_word: "fervently", classification: "adverb" } ] }
+{ stemmed_word: "fierc", classifications: [ { formatted_word: "fiercely", classification: "adverb" } ] }
+{ stemmed_word: "fieri", classifications: [ { formatted_word: "fiery", classification: "adverb" } ] }
+{ stemmed_word: "final", classifications: [ { formatted_word: "finally", classification: "adverb" } ] }
+{ stemmed_word: "financi", classifications: [ { formatted_word: "financially", classification: "adverb" } ] }
+{ stemmed_word: "finit", classifications: [ { formatted_word: "finitely", classification: "adverb" } ] }
+{ stemmed_word: "fluentli", classifications: [ { formatted_word: "fluently", classification: "adverb" } ] }
+{ stemmed_word: "fond", classifications: [ { formatted_word: "fondly", classification: "adverb" } ] }
+{ stemmed_word: "foolish", classifications: [ { formatted_word: "foolishly", classification: "adverb" } ] }
+{ stemmed_word: "forev", classifications: [ { formatted_word: "forever", classification: "adverb" } ] }
+{ stemmed_word: "formal", classifications: [ { formatted_word: "formally", classification: "adverb" } ] }
+{ stemmed_word: "former", classifications: [ { formatted_word: "formerly", classification: "adverb" } ] }
+{ stemmed_word: "fortun", classifications: [ { formatted_word: "fortunately", classification: "adverb" } ] }
+{ stemmed_word: "forward", classifications: [ { formatted_word: "forward", classification: "adverb" } ] }
+{ stemmed_word: "frank", classifications: [ { formatted_word: "frankly", classification: "adverb" } ] }
+{ stemmed_word: "frantic", classifications: [ { formatted_word: "frantically", classification: "adverb" } ] }
+{ stemmed_word: "freeli", classifications: [ { formatted_word: "freely", classification: "adverb" } ] }
+{ stemmed_word: "frequent", classifications: [ { formatted_word: "frequently", classification: "adverb" } ] }
+{ stemmed_word: "frenet", classifications: [ { formatted_word: "frenetically", classification: "adverb" } ] }
+{ stemmed_word: "fulli", classifications: [ { formatted_word: "fully", classification: "adverb" } ] }
+{ stemmed_word: "furious", classifications: [ { formatted_word: "furiously", classification: "adverb" } ] }
+{ stemmed_word: "furthermor", classifications: [ { formatted_word: "furthermore", classification: "adverb" } ] }
+{ stemmed_word: "general", classifications: [ { formatted_word: "generally", classification: "adverb" } ] }
+{ stemmed_word: "generous", classifications: [ { formatted_word: "generously", classification: "adverb" } ] }
+{ stemmed_word: "genuin", classifications: [ { formatted_word: "genuinely", classification: "adverb" } ] }
+{ stemmed_word: "gentl", classifications: [ { formatted_word: "gently", classification: "adverb" } ] }
+{ stemmed_word: "genuin", classifications: [ { formatted_word: "genuinely", classification: "adverb" } ] }
+{ stemmed_word: "girlish", classifications: [ { formatted_word: "girlishly", classification: "adverb" } ] }
+{ stemmed_word: "glad", classifications: [ { formatted_word: "gladly", classification: "adverb" } ] }
+{ stemmed_word: "gleefulli", classifications: [ { formatted_word: "gleefully", classification: "adverb" } ] }
+{ stemmed_word: "grace", classifications: [ { formatted_word: "gracefully", classification: "adverb" } ] }
+{ stemmed_word: "gracious", classifications: [ { formatted_word: "graciously", classification: "adverb" } ] }
+{ stemmed_word: "gradual", classifications: [ { formatted_word: "gradually", classification: "adverb" } ] }
+{ stemmed_word: "grate", classifications: [ { formatted_word: "gratefully", classification: "adverb" } ] }
+{ stemmed_word: "great", classifications: [ { formatted_word: "greatly", classification: "adverb" } ] }
+{ stemmed_word: "greedili", classifications: [ { formatted_word: "greedily", classification: "adverb" } ] }
+{ stemmed_word: "grim", classifications: [ { formatted_word: "grimly", classification: "adverb" } ] }
+{ stemmed_word: "grudg", classifications: [ { formatted_word: "grudgingly", classification: "adverb" } ] }
+{ stemmed_word: "habitu", classifications: [ { formatted_word: "habitually", classification: "adverb" } ] }
+{ stemmed_word: "half-heart", classifications: [ { formatted_word: "half-heartedly", classification: "adverb" } ] }
+{ stemmed_word: "handili", classifications: [ { formatted_word: "handily", classification: "adverb" } ] }
+{ stemmed_word: "handsom", classifications: [ { formatted_word: "handsomely", classification: "adverb" } ] }
+{ stemmed_word: "haphazard", classifications: [ { formatted_word: "haphazardly", classification: "adverb" } ] }
+{ stemmed_word: "happili", classifications: [ { formatted_word: "happily", classification: "adverb" } ] }
+{ stemmed_word: "hastili", classifications: [ { formatted_word: "hastily", classification: "adverb" } ] }
+{ stemmed_word: "harmoni", classifications: [ { formatted_word: "harmoniously", classification: "adverb" } ] }
+{ stemmed_word: "harsh", classifications: [ { formatted_word: "harshly", classification: "adverb" } ] }
+{ stemmed_word: "hastili", classifications: [ { formatted_word: "hastily", classification: "adverb" } ] }
+{ stemmed_word: "hate", classifications: [ { formatted_word: "hatefully", classification: "adverb" } ] }
+{ stemmed_word: "haunt", classifications: [ { formatted_word: "hauntingly", classification: "adverb" } ] }
+{ stemmed_word: "healthili", classifications: [ { formatted_word: "healthily", classification: "adverb" } ] }
+{ stemmed_word: "heartili", classifications: [ { formatted_word: "heartily", classification: "adverb" } ] }
+{ stemmed_word: "heavili", classifications: [ { formatted_word: "heavily", classification: "adverb" } ] }
+{ stemmed_word: "help", classifications: [ { formatted_word: "helpfully", classification: "adverb" } ] }
+{ stemmed_word: "henc", classifications: [ { formatted_word: "hence", classification: "adverb" } ] }
+{ stemmed_word: "high", classifications: [ { formatted_word: "highly", classification: "adverb" } ] }
+{ stemmed_word: "hitherto", classifications: [ { formatted_word: "hitherto", classification: "adverb" } ] }
+{ stemmed_word: "honest", classifications: [ { formatted_word: "honestly", classification: "adverb" } ] }
+{ stemmed_word: "hopeless", classifications: [ { formatted_word: "hopelessly", classification: "adverb" } ] }
+{ stemmed_word: "horizont", classifications: [ { formatted_word: "horizontally", classification: "adverb" } ] }
+{ stemmed_word: "hour", classifications: [ { formatted_word: "hourly", classification: "adverb" } ] }
+{ stemmed_word: "how", classifications: [ { formatted_word: "how", classification: "adverb" } ] }
+{ stemmed_word: "howev", classifications: [ { formatted_word: "however", classification: "adverb" } ] }
+{ stemmed_word: "huge", classifications: [ { formatted_word: "hugely", classification: "adverb" } ] }
+{ stemmed_word: "humor", classifications: [ { formatted_word: "humorously", classification: "adverb" } ] }
+{ stemmed_word: "hungrili", classifications: [ { formatted_word: "hungrily", classification: "adverb" } ] }
+{ stemmed_word: "hurri", classifications: [ { formatted_word: "hurriedly", classification: "adverb" } ] }
+{ stemmed_word: "hyster", classifications: [ { formatted_word: "hysterically", classification: "adverb" } ] }
+{ stemmed_word: "icili", classifications: [ { formatted_word: "icily", classification: "adverb" } ] }
+{ stemmed_word: "identifi", classifications: [ { formatted_word: "identifiably", classification: "adverb" } ] }
+{ stemmed_word: "idiot", classifications: [ { formatted_word: "idiotically", classification: "adverb" } ] }
+{ stemmed_word: "imagin", classifications: [ { formatted_word: "imaginatively", classification: "adverb" } ] }
+{ stemmed_word: "immeasur", classifications: [ { formatted_word: "immeasurably", classification: "adverb" } ] }
+{ stemmed_word: "immedi", classifications: [ { formatted_word: "immediately", classification: "adverb" } ] }
+{ stemmed_word: "immens", classifications: [ { formatted_word: "immensely", classification: "adverb" } ] }
+{ stemmed_word: "impati", classifications: [ { formatted_word: "impatiently", classification: "adverb" } ] }
+{ stemmed_word: "impress", classifications: [ { formatted_word: "impressively", classification: "adverb" } ] }
+{ stemmed_word: "inappropri", classifications: [ { formatted_word: "inappropriately", classification: "adverb" } ] }
+{ stemmed_word: "incess", classifications: [ { formatted_word: "incessantly", classification: "adverb" } ] }
+{ stemmed_word: "incorrect", classifications: [ { formatted_word: "incorrectly", classification: "adverb" } ] }
+{ stemmed_word: "inde", classifications: [ { formatted_word: "indeed", classification: "adverb" } ] }
+{ stemmed_word: "independ", classifications: [ { formatted_word: "independently", classification: "adverb" } ] }
+{ stemmed_word: "indoor", classifications: [ { formatted_word: "indoors", classification: "adverb" } ] }
+{ stemmed_word: "indubit", classifications: [ { formatted_word: "indubitably", classification: "adverb" } ] }
+{ stemmed_word: "inevit", classifications: [ { formatted_word: "inevitably", classification: "adverb" } ] }
+{ stemmed_word: "infinit", classifications: [ { formatted_word: "infinitely", classification: "adverb" } ] }
+{ stemmed_word: "inform", classifications: [ { formatted_word: "informally", classification: "adverb" } ] }
+{ stemmed_word: "infrequ", classifications: [ { formatted_word: "infrequently", classification: "adverb" } ] }
+{ stemmed_word: "innoc", classifications: [ { formatted_word: "innocently", classification: "adverb" } ] }
+{ stemmed_word: "inquisit", classifications: [ { formatted_word: "inquisitively", classification: "adverb" } ] }
+{ stemmed_word: "instant", classifications: [ { formatted_word: "instantly", classification: "adverb" } ] }
+{ stemmed_word: "intellig", classifications: [ { formatted_word: "intelligently", classification: "adverb" } ] }
+{ stemmed_word: "intens", classifications: [ { formatted_word: "intensely", classification: "adverb" } ] }
+{ stemmed_word: "intent", classifications: [ { formatted_word: "intently", classification: "adverb" } ] }
+{ stemmed_word: "interest", classifications: [ { formatted_word: "interestingly", classification: "adverb" } ] }
+{ stemmed_word: "intermitt", classifications: [ { formatted_word: "intermittently", classification: "adverb" } ] }
+{ stemmed_word: "intern", classifications: [ { formatted_word: "internally", classification: "adverb" } ] }
+{ stemmed_word: "invari", classifications: [ { formatted_word: "invariably", classification: "adverb" } ] }
+{ stemmed_word: "invis", classifications: [ { formatted_word: "invisibly", classification: "adverb" } ] }
+{ stemmed_word: "inward", classifications: [ { formatted_word: "inwardly", classification: "adverb" } ] }
+{ stemmed_word: "iron", classifications: [ { formatted_word: "ironically", classification: "adverb" } ] }
+{ stemmed_word: "irrefut", classifications: [ { formatted_word: "irrefutably", classification: "adverb" } ] }
+{ stemmed_word: "irrit", classifications: [ { formatted_word: "irritably", classification: "adverb" } ] }
+{ stemmed_word: "jag", classifications: [ { formatted_word: "jaggedly", classification: "adverb" } ] }
+{ stemmed_word: "jauntili", classifications: [ { formatted_word: "jauntily", classification: "adverb" } ] }
+{ stemmed_word: "jealous", classifications: [ { formatted_word: "jealously", classification: "adverb" } ] }
+{ stemmed_word: "jovial", classifications: [ { formatted_word: "jovially", classification: "adverb" } ] }
+{ stemmed_word: "joy", classifications: [ { formatted_word: "joyfully", classification: "adverb" } ] }
+{ stemmed_word: "joyless", classifications: [ { formatted_word: "joylessly", classification: "adverb" } ] }
+{ stemmed_word: "joyous", classifications: [ { formatted_word: "joyously", classification: "adverb" } ] }
+{ stemmed_word: "jubil", classifications: [ { formatted_word: "jubilantly", classification: "adverb" } ] }
+{ stemmed_word: "judgment", classifications: [ { formatted_word: "judgmentally", classification: "adverb" } ] }
+{ stemmed_word: "just", classifications: [ { formatted_word: "just", classification: "adverb" } ] }
+{ stemmed_word: "just", classifications: [ { formatted_word: "justly", classification: "adverb" } ] }
+{ stemmed_word: "keen", classifications: [ { formatted_word: "keenly", classification: "adverb" } ] }
+{ stemmed_word: "kid", classifications: [ { formatted_word: "kiddingly", classification: "adverb" } ] }
+{ stemmed_word: "kindheart", classifications: [ { formatted_word: "kindheartedly", classification: "adverb" } ] }
+{ stemmed_word: "kind", classifications: [ { formatted_word: "kindly", classification: "adverb" } ] }
+{ stemmed_word: "knavish", classifications: [ { formatted_word: "knavishly", classification: "adverb" } ] }
+{ stemmed_word: "knottili", classifications: [ { formatted_word: "knottily", classification: "adverb" } ] }
+{ stemmed_word: "know", classifications: [ { formatted_word: "knowingly", classification: "adverb" } ] }
+{ stemmed_word: "knowledg", classifications: [ { formatted_word: "knowledgeably", classification: "adverb" } ] }
+{ stemmed_word: "kookili", classifications: [ { formatted_word: "kookily", classification: "adverb" } ] }
+{ stemmed_word: "last", classifications: [ { formatted_word: "lastly", classification: "adverb" } ] }
+{ stemmed_word: "late", classifications: [ { formatted_word: "late", classification: "adverb" } ] }
+{ stemmed_word: "late", classifications: [ { formatted_word: "lately", classification: "adverb" } ] }
+{ stemmed_word: "later", classifications: [ { formatted_word: "later", classification: "adverb" } ] }
+{ stemmed_word: "lazili", classifications: [ { formatted_word: "lazily", classification: "adverb" } ] }
+{ stemmed_word: "less", classifications: [ { formatted_word: "less", classification: "adverb" } ] }
+{ stemmed_word: "light", classifications: [ { formatted_word: "lightly", classification: "adverb" } ] }
+{ stemmed_word: "like", classifications: [ { formatted_word: "likely", classification: "adverb" } ] }
+{ stemmed_word: "limpli", classifications: [ { formatted_word: "limply", classification: "adverb" } ] }
+{ stemmed_word: "lith", classifications: [ { formatted_word: "lithely", classification: "adverb" } ] }
+{ stemmed_word: "live", classifications: [ { formatted_word: "lively", classification: "adverb" } ] }
+{ stemmed_word: "loftili", classifications: [ { formatted_word: "loftily", classification: "adverb" } ] }
+{ stemmed_word: "long", classifications: [ { formatted_word: "longingly", classification: "adverb" } ] }
+{ stemmed_word: "loos", classifications: [ { formatted_word: "loosely", classification: "adverb" } ] }
+{ stemmed_word: "loud", classifications: [ { formatted_word: "loudly", classification: "adverb" } ] }
+{ stemmed_word: "love", classifications: [ { formatted_word: "lovingly", classification: "adverb" } ] }
+{ stemmed_word: "loyal", classifications: [ { formatted_word: "loyally", classification: "adverb" } ] }
+{ stemmed_word: "luckili", classifications: [ { formatted_word: "luckily", classification: "adverb" } ] }
+{ stemmed_word: "luxuri", classifications: [ { formatted_word: "luxuriously", classification: "adverb" } ] }
+{ stemmed_word: "mad", classifications: [ { formatted_word: "madly", classification: "adverb" } ] }
+{ stemmed_word: "magic", classifications: [ { formatted_word: "magically", classification: "adverb" } ] }
+{ stemmed_word: "main", classifications: [ { formatted_word: "mainly", classification: "adverb" } ] }
+{ stemmed_word: "majest", classifications: [ { formatted_word: "majestically", classification: "adverb" } ] }
+{ stemmed_word: "mark", classifications: [ { formatted_word: "markedly", classification: "adverb" } ] }
+{ stemmed_word: "materi", classifications: [ { formatted_word: "materially", classification: "adverb" } ] }
+{ stemmed_word: "meaning", classifications: [ { formatted_word: "meaningfully", classification: "adverb" } ] }
+{ stemmed_word: "mean", classifications: [ { formatted_word: "meanly", classification: "adverb" } ] }
+{ stemmed_word: "meantim", classifications: [ { formatted_word: "meantime", classification: "adverb" } ] }
+{ stemmed_word: "meanwhil", classifications: [ { formatted_word: "meanwhile", classification: "adverb" } ] }
+{ stemmed_word: "measur", classifications: [ { formatted_word: "measurably", classification: "adverb" } ] }
+{ stemmed_word: "mechan", classifications: [ { formatted_word: "mechanically", classification: "adverb" } ] }
+{ stemmed_word: "medic", classifications: [ { formatted_word: "medically", classification: "adverb" } ] }
+{ stemmed_word: "menac", classifications: [ { formatted_word: "menacingly", classification: "adverb" } ] }
+{ stemmed_word: "mere", classifications: [ { formatted_word: "merely", classification: "adverb" } ] }
+{ stemmed_word: "merrili", classifications: [ { formatted_word: "merrily", classification: "adverb" } ] }
+{ stemmed_word: "method", classifications: [ { formatted_word: "methodically", classification: "adverb" } ] }
+{ stemmed_word: "mightili", classifications: [ { formatted_word: "mightily", classification: "adverb" } ] }
+{ stemmed_word: "miser", classifications: [ { formatted_word: "miserably", classification: "adverb" } ] }
+{ stemmed_word: "mock", classifications: [ { formatted_word: "mockingly", classification: "adverb" } ] }
+{ stemmed_word: "month", classifications: [ { formatted_word: "monthly", classification: "adverb" } ] }
+{ stemmed_word: "moral", classifications: [ { formatted_word: "morally", classification: "adverb" } ] }
+{ stemmed_word: "more", classifications: [ { formatted_word: "more", classification: "adverb" } ] }
+{ stemmed_word: "moreov", classifications: [ { formatted_word: "moreover", classification: "adverb" } ] }
+{ stemmed_word: "mortal", classifications: [ { formatted_word: "mortally", classification: "adverb" } ] }
+{ stemmed_word: "most", classifications: [ { formatted_word: "mostly", classification: "adverb" } ] }
+{ stemmed_word: "much", classifications: [ { formatted_word: "much", classification: "adverb" } ] }
+{ stemmed_word: "mysteri", classifications: [ { formatted_word: "mysteriously", classification: "adverb" } ] }
+{ stemmed_word: "nastili", classifications: [ { formatted_word: "nastily", classification: "adverb" } ] }
+{ stemmed_word: "natur", classifications: [ { formatted_word: "naturally", classification: "adverb" } ] }
+{ stemmed_word: "naughtili", classifications: [ { formatted_word: "naughtily", classification: "adverb" } ] }
+{ stemmed_word: "nearbi", classifications: [ { formatted_word: "nearby", classification: "adverb" } ] }
+{ stemmed_word: "near", classifications: [ { formatted_word: "nearly", classification: "adverb" } ] }
+{ stemmed_word: "neat", classifications: [ { formatted_word: "neatly", classification: "adverb" } ] }
+{ stemmed_word: "needili", classifications: [ { formatted_word: "needily", classification: "adverb" } ] }
+{ stemmed_word: "negat", classifications: [ { formatted_word: "negatively", classification: "adverb" } ] }
+{ stemmed_word: "nervous", classifications: [ { formatted_word: "nervously", classification: "adverb" } ] }
+{ stemmed_word: "never", classifications: [ { formatted_word: "never", classification: "adverb" } ] }
+{ stemmed_word: "nevertheless", classifications: [ { formatted_word: "nevertheless", classification: "adverb" } ] }
+{ stemmed_word: "next", classifications: [ { formatted_word: "next", classification: "adverb" } ] }
+{ stemmed_word: "nice", classifications: [ { formatted_word: "nicely", classification: "adverb" } ] }
+{ stemmed_word: "night", classifications: [ { formatted_word: "nightly", classification: "adverb" } ] }
+{ stemmed_word: "noisili", classifications: [ { formatted_word: "noisily", classification: "adverb" } ] }
+{ stemmed_word: "normal", classifications: [ { formatted_word: "normally", classification: "adverb" } ] }
+{ stemmed_word: "nosili", classifications: [ { formatted_word: "nosily", classification: "adverb" } ] }
+{ stemmed_word: "not", classifications: [ { formatted_word: "not", classification: "adverb" } ] }
+{ stemmed_word: "now", classifications: [ { formatted_word: "now", classification: "adverb" } ] }
+{ stemmed_word: "nowaday", classifications: [ { formatted_word: "nowadays", classification: "adverb" } ] }
+{ stemmed_word: "numbl", classifications: [ { formatted_word: "numbly", classification: "adverb" } ] }
+{ stemmed_word: "obedi", classifications: [ { formatted_word: "obediently", classification: "adverb" } ] }
+{ stemmed_word: "oblig", classifications: [ { formatted_word: "obligingly", classification: "adverb" } ] }
+{ stemmed_word: "obnoxi", classifications: [ { formatted_word: "obnoxiously", classification: "adverb" } ] }
+{ stemmed_word: "obvious", classifications: [ { formatted_word: "obviously", classification: "adverb" } ] }
+{ stemmed_word: "occasion", classifications: [ { formatted_word: "occasionally", classification: "adverb" } ] }
+{ stemmed_word: "odd", classifications: [ { formatted_word: "oddly", classification: "adverb" } ] }
+{ stemmed_word: "offens", classifications: [ { formatted_word: "offensively", classification: "adverb" } ] }
+{ stemmed_word: "offici", classifications: [ { formatted_word: "officially", classification: "adverb" } ] }
+{ stemmed_word: "often", classifications: [ { formatted_word: "often", classification: "adverb" } ] }
+{ stemmed_word: "omin", classifications: [ { formatted_word: "ominously", classification: "adverb" } ] }
+{ stemmed_word: "onc", classifications: [ { formatted_word: "once", classification: "adverb" } ] }
+{ stemmed_word: "onli", classifications: [ { formatted_word: "only", classification: "adverb" } ] }
+{ stemmed_word: "open", classifications: [ { formatted_word: "openly", classification: "adverb" } ] }
+{ stemmed_word: "optimist", classifications: [ { formatted_word: "optimistically", classification: "adverb" } ] }
+{ stemmed_word: "order", classifications: [ { formatted_word: "orderly", classification: "adverb" } ] }
+{ stemmed_word: "ordinarili", classifications: [ { formatted_word: "ordinarily", classification: "adverb" } ] }
+{ stemmed_word: "outdoor", classifications: [ { formatted_word: "outdoors", classification: "adverb" } ] }
+{ stemmed_word: "outrag", classifications: [ { formatted_word: "outrageously", classification: "adverb" } ] }
+{ stemmed_word: "outward", classifications: [ { formatted_word: "outwardly", classification: "adverb" } ] }
+{ stemmed_word: "outward", classifications: [ { formatted_word: "outwards", classification: "adverb" } ] }
+{ stemmed_word: "overconfid", classifications: [ { formatted_word: "overconfidently", classification: "adverb" } ] }
+{ stemmed_word: "oversea", classifications: [ { formatted_word: "overseas", classification: "adverb" } ] }
+{ stemmed_word: "pain", classifications: [ { formatted_word: "painfully", classification: "adverb" } ] }
+{ stemmed_word: "painless", classifications: [ { formatted_word: "painlessly", classification: "adverb" } ] }
+{ stemmed_word: "paradox", classifications: [ { formatted_word: "paradoxically", classification: "adverb" } ] }
+{ stemmed_word: "partial", classifications: [ { formatted_word: "partially", classification: "adverb" } ] }
+{ stemmed_word: "particular", classifications: [ { formatted_word: "particularly", classification: "adverb" } ] }
+{ stemmed_word: "passion", classifications: [ { formatted_word: "passionately", classification: "adverb" } ] }
+{ stemmed_word: "patient", classifications: [ { formatted_word: "patiently", classification: "adverb" } ] }
+{ stemmed_word: "perfect", classifications: [ { formatted_word: "perfectly", classification: "adverb" } ] }
+{ stemmed_word: "period", classifications: [ { formatted_word: "periodically", classification: "adverb" } ] }
+{ stemmed_word: "perpetu", classifications: [ { formatted_word: "perpetually", classification: "adverb" } ] }
+{ stemmed_word: "persist", classifications: [ { formatted_word: "persistently", classification: "adverb" } ] }
+{ stemmed_word: "person", classifications: [ { formatted_word: "personally", classification: "adverb" } ] }
+{ stemmed_word: "persuas", classifications: [ { formatted_word: "persuasively", classification: "adverb" } ] }
+{ stemmed_word: "physic", classifications: [ { formatted_word: "physically", classification: "adverb" } ] }
+{ stemmed_word: "plain", classifications: [ { formatted_word: "plainly", classification: "adverb" } ] }
+{ stemmed_word: "play", classifications: [ { formatted_word: "playfully", classification: "adverb" } ] }
+{ stemmed_word: "poetic", classifications: [ { formatted_word: "poetically", classification: "adverb" } ] }
+{ stemmed_word: "poignant", classifications: [ { formatted_word: "poignantly", classification: "adverb" } ] }
+{ stemmed_word: "polit", classifications: [ { formatted_word: "politely", classification: "adverb" } ] }
+{ stemmed_word: "poor", classifications: [ { formatted_word: "poorly", classification: "adverb" } ] }
+{ stemmed_word: "posit", classifications: [ { formatted_word: "positively", classification: "adverb" } ] }
+{ stemmed_word: "possibl", classifications: [ { formatted_word: "possibly", classification: "adverb" } ] }
+{ stemmed_word: "potenti", classifications: [ { formatted_word: "potentially", classification: "adverb" } ] }
+{ stemmed_word: "power", classifications: [ { formatted_word: "powerfully", classification: "adverb" } ] }
+{ stemmed_word: "present", classifications: [ { formatted_word: "presently", classification: "adverb" } ] }
+{ stemmed_word: "presum", classifications: [ { formatted_word: "presumably", classification: "adverb" } ] }
+{ stemmed_word: "prettili", classifications: [ { formatted_word: "prettily", classification: "adverb" } ] }
+{ stemmed_word: "previous", classifications: [ { formatted_word: "previously", classification: "adverb" } ] }
+{ stemmed_word: "prim", classifications: [ { formatted_word: "primly", classification: "adverb" } ] }
+{ stemmed_word: "princip", classifications: [ { formatted_word: "principally", classification: "adverb" } ] }
+{ stemmed_word: "probabl", classifications: [ { formatted_word: "probably", classification: "adverb" } ] }
+{ stemmed_word: "prompt", classifications: [ { formatted_word: "promptly", classification: "adverb" } ] }
+{ stemmed_word: "proper", classifications: [ { formatted_word: "properly", classification: "adverb" } ] }
+{ stemmed_word: "proud", classifications: [ { formatted_word: "proudly", classification: "adverb" } ] }
+{ stemmed_word: "punctual", classifications: [ { formatted_word: "punctually", classification: "adverb" } ] }
+{ stemmed_word: "puzzl", classifications: [ { formatted_word: "puzzlingly", classification: "adverb" } ] }
+{ stemmed_word: "quaint", classifications: [ { formatted_word: "quaintly", classification: "adverb" } ] }
+{ stemmed_word: "queasili", classifications: [ { formatted_word: "queasily", classification: "adverb" } ] }
+{ stemmed_word: "question", classifications: [ { formatted_word: "questionably", classification: "adverb" } ] }
+{ stemmed_word: "question", classifications: [ { formatted_word: "questioningly", classification: "adverb" } ] }
+{ stemmed_word: "quicker", classifications: [ { formatted_word: "quicker", classification: "adverb" } ] }
+{ stemmed_word: "quick", classifications: [ { formatted_word: "quickly", classification: "adverb" } ] }
+{ stemmed_word: "quiet", classifications: [ { formatted_word: "quietly", classification: "adverb" } ] }
+{ stemmed_word: "quirkili", classifications: [ { formatted_word: "quirkily", classification: "adverb" } ] }
+{ stemmed_word: "quit", classifications: [ { formatted_word: "quite", classification: "adverb" } ] }
+{ stemmed_word: "quizzic", classifications: [ { formatted_word: "quizzically", classification: "adverb" } ] }
+{ stemmed_word: "random", classifications: [ { formatted_word: "randomly", classification: "adverb" } ] }
+{ stemmed_word: "rapid", classifications: [ { formatted_word: "rapidly", classification: "adverb" } ] }
+{ stemmed_word: "rare", classifications: [ { formatted_word: "rarely", classification: "adverb" } ] }
+{ stemmed_word: "readili", classifications: [ { formatted_word: "readily", classification: "adverb" } ] }
+{ stemmed_word: "realli", classifications: [ { formatted_word: "really", classification: "adverb" } ] }
+{ stemmed_word: "reason", classifications: [ { formatted_word: "reasonably", classification: "adverb" } ] }
+{ stemmed_word: "reassur", classifications: [ { formatted_word: "reassuringly", classification: "adverb" } ] }
+{ stemmed_word: "recent", classifications: [ { formatted_word: "recently", classification: "adverb" } ] }
+{ stemmed_word: "reckless", classifications: [ { formatted_word: "recklessly", classification: "adverb" } ] }
+{ stemmed_word: "regular", classifications: [ { formatted_word: "regularly", classification: "adverb" } ] }
+{ stemmed_word: "reliabl", classifications: [ { formatted_word: "reliably", classification: "adverb" } ] }
+{ stemmed_word: "reluct", classifications: [ { formatted_word: "reluctantly", classification: "adverb" } ] }
+{ stemmed_word: "remark", classifications: [ { formatted_word: "remarkably", classification: "adverb" } ] }
+{ stemmed_word: "repeat", classifications: [ { formatted_word: "repeatedly", classification: "adverb" } ] }
+{ stemmed_word: "reproach", classifications: [ { formatted_word: "reproachfully", classification: "adverb" } ] }
+{ stemmed_word: "repons", classifications: [ { formatted_word: "reponsibly", classification: "adverb" } ] }
+{ stemmed_word: "resent", classifications: [ { formatted_word: "resentfully", classification: "adverb" } ] }
+{ stemmed_word: "respect", classifications: [ { formatted_word: "respectably", classification: "adverb" } ] }
+{ stemmed_word: "respect", classifications: [ { formatted_word: "respectfully", classification: "adverb" } ] }
+{ stemmed_word: "rest", classifications: [ { formatted_word: "restfully", classification: "adverb" } ] }
+{ stemmed_word: "rich", classifications: [ { formatted_word: "richly", classification: "adverb" } ] }
+{ stemmed_word: "ridicul", classifications: [ { formatted_word: "ridiculously", classification: "adverb" } ] }
+{ stemmed_word: "righteous", classifications: [ { formatted_word: "righteously", classification: "adverb" } ] }
+{ stemmed_word: "right", classifications: [ { formatted_word: "rightfully", classification: "adverb" } ] }
+{ stemmed_word: "right", classifications: [ { formatted_word: "rightly", classification: "adverb" } ] }
+{ stemmed_word: "rigid", classifications: [ { formatted_word: "rigidly", classification: "adverb" } ] }
+{ stemmed_word: "rough", classifications: [ { formatted_word: "roughly", classification: "adverb" } ] }
+{ stemmed_word: "routin", classifications: [ { formatted_word: "routinely", classification: "adverb" } ] }
+{ stemmed_word: "rude", classifications: [ { formatted_word: "rudely", classification: "adverb" } ] }
+{ stemmed_word: "ruthless", classifications: [ { formatted_word: "ruthlessly", classification: "adverb" } ] }
+{ stemmed_word: "sad", classifications: [ { formatted_word: "sadly", classification: "adverb" } ] }
+{ stemmed_word: "safe", classifications: [ { formatted_word: "safely", classification: "adverb" } ] }
+{ stemmed_word: "scarc", classifications: [ { formatted_word: "scarcely", classification: "adverb" } ] }
+{ stemmed_word: "scarili", classifications: [ { formatted_word: "scarily", classification: "adverb" } ] }
+{ stemmed_word: "scientif", classifications: [ { formatted_word: "scientifically", classification: "adverb" } ] }
+{ stemmed_word: "search", classifications: [ { formatted_word: "searchingly", classification: "adverb" } ] }
+{ stemmed_word: "secret", classifications: [ { formatted_word: "secretively", classification: "adverb" } ] }
+{ stemmed_word: "secur", classifications: [ { formatted_word: "securely", classification: "adverb" } ] }
+{ stemmed_word: "sedat", classifications: [ { formatted_word: "sedately", classification: "adverb" } ] }
+{ stemmed_word: "seem", classifications: [ { formatted_word: "seemingly", classification: "adverb" } ] }
+{ stemmed_word: "seldom", classifications: [ { formatted_word: "seldom", classification: "adverb" } ] }
+{ stemmed_word: "selfish", classifications: [ { formatted_word: "selfishly", classification: "adverb" } ] }
+{ stemmed_word: "selfless", classifications: [ { formatted_word: "selflessly", classification: "adverb" } ] }
+{ stemmed_word: "separ", classifications: [ { formatted_word: "separately", classification: "adverb" } ] }
+{ stemmed_word: "serious", classifications: [ { formatted_word: "seriously", classification: "adverb" } ] }
+{ stemmed_word: "shakili", classifications: [ { formatted_word: "shakily", classification: "adverb" } ] }
+{ stemmed_word: "shameless", classifications: [ { formatted_word: "shamelessly", classification: "adverb" } ] }
+{ stemmed_word: "sharpli", classifications: [ { formatted_word: "sharply", classification: "adverb" } ] }
+{ stemmed_word: "sheepish", classifications: [ { formatted_word: "sheepishly", classification: "adverb" } ] }
+{ stemmed_word: "shoddili", classifications: [ { formatted_word: "shoddily", classification: "adverb" } ] }
+{ stemmed_word: "short", classifications: [ { formatted_word: "shortly", classification: "adverb" } ] }
+{ stemmed_word: "shrilli", classifications: [ { formatted_word: "shrilly", classification: "adverb" } ] }
+{ stemmed_word: "signific", classifications: [ { formatted_word: "significantly", classification: "adverb" } ] }
+{ stemmed_word: "silent", classifications: [ { formatted_word: "silently", classification: "adverb" } ] }
+{ stemmed_word: "simpli", classifications: [ { formatted_word: "simply", classification: "adverb" } ] }
+{ stemmed_word: "sincer", classifications: [ { formatted_word: "sincerely", classification: "adverb" } ] }
+{ stemmed_word: "singular", classifications: [ { formatted_word: "singularly", classification: "adverb" } ] }
+{ stemmed_word: "shyli", classifications: [ { formatted_word: "shyly", classification: "adverb" } ] }
+{ stemmed_word: "skill", classifications: [ { formatted_word: "skillfully", classification: "adverb" } ] }
+{ stemmed_word: "sleepili", classifications: [ { formatted_word: "sleepily", classification: "adverb" } ] }
+{ stemmed_word: "slight", classifications: [ { formatted_word: "slightly", classification: "adverb" } ] }
+{ stemmed_word: "slowli", classifications: [ { formatted_word: "slowly", classification: "adverb" } ] }
+{ stemmed_word: "slyli", classifications: [ { formatted_word: "slyly", classification: "adverb" } ] }
+{ stemmed_word: "smooth", classifications: [ { formatted_word: "smoothly", classification: "adverb" } ] }
+{ stemmed_word: "so", classifications: [ { formatted_word: "so", classification: "adverb" } ] }
+{ stemmed_word: "soft", classifications: [ { formatted_word: "softly", classification: "adverb" } ] }
+{ stemmed_word: "sole", classifications: [ { formatted_word: "solely", classification: "adverb" } ] }
+{ stemmed_word: "solemn", classifications: [ { formatted_word: "solemnly", classification: "adverb" } ] }
+{ stemmed_word: "solid", classifications: [ { formatted_word: "solidly", classification: "adverb" } ] }
+{ stemmed_word: "siliciti", classifications: [ { formatted_word: "silicitiously", classification: "adverb" } ] }
+{ stemmed_word: "somehow", classifications: [ { formatted_word: "somehow", classification: "adverb" } ] }
+{ stemmed_word: "sometim", classifications: [ { formatted_word: "sometimes", classification: "adverb" } ] }
+{ stemmed_word: "somewhat", classifications: [ { formatted_word: "somewhat", classification: "adverb" } ] }
+{ stemmed_word: "somewher", classifications: [ { formatted_word: "somewhere", classification: "adverb" } ] }
+{ stemmed_word: "soon", classifications: [ { formatted_word: "soon", classification: "adverb" } ] }
+{ stemmed_word: "special", classifications: [ { formatted_word: "specially", classification: "adverb" } ] }
+{ stemmed_word: "specif", classifications: [ { formatted_word: "specifically", classification: "adverb" } ] }
+{ stemmed_word: "spectacular", classifications: [ { formatted_word: "spectacularly", classification: "adverb" } ] }
+{ stemmed_word: "speedili", classifications: [ { formatted_word: "speedily", classification: "adverb" } ] }
+{ stemmed_word: "spiritu", classifications: [ { formatted_word: "spiritually", classification: "adverb" } ] }
+{ stemmed_word: "splendid", classifications: [ { formatted_word: "splendidly", classification: "adverb" } ] }
+{ stemmed_word: "sporad", classifications: [ { formatted_word: "sporadically", classification: "adverb" } ] }
+{ stemmed_word: "spasmod", classifications: [ { formatted_word: "spasmodically", classification: "adverb" } ] }
+{ stemmed_word: "startl", classifications: [ { formatted_word: "startlingly", classification: "adverb" } ] }
+{ stemmed_word: "steadili", classifications: [ { formatted_word: "steadily", classification: "adverb" } ] }
+{ stemmed_word: "stealthili", classifications: [ { formatted_word: "stealthily", classification: "adverb" } ] }
+{ stemmed_word: "stern", classifications: [ { formatted_word: "sternly", classification: "adverb" } ] }
+{ stemmed_word: "still", classifications: [ { formatted_word: "still", classification: "adverb" } ] }
+{ stemmed_word: "strenuous", classifications: [ { formatted_word: "strenuously", classification: "adverb" } ] }
+{ stemmed_word: "stress", classifications: [ { formatted_word: "stressfully", classification: "adverb" } ] }
+{ stemmed_word: "strict", classifications: [ { formatted_word: "strictly", classification: "adverb" } ] }
+{ stemmed_word: "structur", classifications: [ { formatted_word: "structurally", classification: "adverb" } ] }
+{ stemmed_word: "studious", classifications: [ { formatted_word: "studiously", classification: "adverb" } ] }
+{ stemmed_word: "stupid", classifications: [ { formatted_word: "stupidly", classification: "adverb" } ] }
+{ stemmed_word: "stylish", classifications: [ { formatted_word: "stylishly", classification: "adverb" } ] }
+{ stemmed_word: "subsequ", classifications: [ { formatted_word: "subsequently", classification: "adverb" } ] }
+{ stemmed_word: "substanti", classifications: [ { formatted_word: "substantially", classification: "adverb" } ] }
+{ stemmed_word: "subt", classifications: [ { formatted_word: "subtly", classification: "adverb" } ] }
+{ stemmed_word: "success", classifications: [ { formatted_word: "successfully", classification: "adverb" } ] }
+{ stemmed_word: "sudden", classifications: [ { formatted_word: "suddenly", classification: "adverb" } ] }
+{ stemmed_word: "suffici", classifications: [ { formatted_word: "sufficiently", classification: "adverb" } ] }
+{ stemmed_word: "suitabl", classifications: [ { formatted_word: "suitably", classification: "adverb" } ] }
+{ stemmed_word: "superfici", classifications: [ { formatted_word: "superficially", classification: "adverb" } ] }
+{ stemmed_word: "suprem", classifications: [ { formatted_word: "supremely", classification: "adverb" } ] }
+{ stemmed_word: "sure", classifications: [ { formatted_word: "surely", classification: "adverb" } ] }
+{ stemmed_word: "surpris", classifications: [ { formatted_word: "surprisingly", classification: "adverb" } ] }
+{ stemmed_word: "suspici", classifications: [ { formatted_word: "suspiciously", classification: "adverb" } ] }
+{ stemmed_word: "sweet", classifications: [ { formatted_word: "sweetly", classification: "adverb" } ] }
+{ stemmed_word: "swift", classifications: [ { formatted_word: "swiftly", classification: "adverb" } ] }
+{ stemmed_word: "sympathet", classifications: [ { formatted_word: "sympathetically", classification: "adverb" } ] }
+{ stemmed_word: "systemat", classifications: [ { formatted_word: "systematically", classification: "adverb" } ] }
+{ stemmed_word: "temporarili", classifications: [ { formatted_word: "temporarily", classification: "adverb" } ] }
+{ stemmed_word: "tender", classifications: [ { formatted_word: "tenderly", classification: "adverb" } ] }
+{ stemmed_word: "tens", classifications: [ { formatted_word: "tensely", classification: "adverb" } ] }
+{ stemmed_word: "tepid", classifications: [ { formatted_word: "tepidly", classification: "adverb" } ] }
+{ stemmed_word: "terribl", classifications: [ { formatted_word: "terribly", classification: "adverb" } ] }
+{ stemmed_word: "thank", classifications: [ { formatted_word: "thankfully", classification: "adverb" } ] }
+{ stemmed_word: "then", classifications: [ { formatted_word: "then", classification: "adverb" } ] }
+{ stemmed_word: "there", classifications: [ { formatted_word: "there", classification: "adverb" } ] }
+{ stemmed_word: "therebi", classifications: [ { formatted_word: "thereby", classification: "adverb" } ] }
+{ stemmed_word: "thorough", classifications: [ { formatted_word: "thoroughly", classification: "adverb" } ] }
+{ stemmed_word: "thought", classifications: [ { formatted_word: "thoughtfully", classification: "adverb" } ] }
+{ stemmed_word: "thus", classifications: [ { formatted_word: "thus", classification: "adverb" } ] }
+{ stemmed_word: "tight", classifications: [ { formatted_word: "tightly", classification: "adverb" } ] }
+{ stemmed_word: "today", classifications: [ { formatted_word: "today", classification: "adverb" } ] }
+{ stemmed_word: "togeth", classifications: [ { formatted_word: "together", classification: "adverb" } ] }
+{ stemmed_word: "tomorrow", classifications: [ { formatted_word: "tomorrow", classification: "adverb" } ] }
+{ stemmed_word: "too", classifications: [ { formatted_word: "too", classification: "adverb" } ] }
+{ stemmed_word: "total", classifications: [ { formatted_word: "totally", classification: "adverb" } ] }
+{ stemmed_word: "touch", classifications: [ { formatted_word: "touchingly", classification: "adverb" } ] }
+{ stemmed_word: "tremend", classifications: [ { formatted_word: "tremendously", classification: "adverb" } ] }
+{ stemmed_word: "truli", classifications: [ { formatted_word: "truly", classification: "adverb" } ] }
+{ stemmed_word: "truth", classifications: [ { formatted_word: "truthfully", classification: "adverb" } ] }
+{ stemmed_word: "twice", classifications: [ { formatted_word: "twice", classification: "adverb" } ] }
+{ stemmed_word: "ultim", classifications: [ { formatted_word: "ultimately", classification: "adverb" } ] }
+{ stemmed_word: "unabash", classifications: [ { formatted_word: "unabashedly", classification: "adverb" } ] }
+{ stemmed_word: "unanim", classifications: [ { formatted_word: "unanimously", classification: "adverb" } ] }
+{ stemmed_word: "unbear", classifications: [ { formatted_word: "unbearably", classification: "adverb" } ] }
+{ stemmed_word: "unbeliev", classifications: [ { formatted_word: "unbelievably", classification: "adverb" } ] }
+{ stemmed_word: "unemot", classifications: [ { formatted_word: "unemotionally", classification: "adverb" } ] }
+{ stemmed_word: "uneth", classifications: [ { formatted_word: "unethically", classification: "adverb" } ] }
+{ stemmed_word: "unexpect", classifications: [ { formatted_word: "unexpectedly", classification: "adverb" } ] }
+{ stemmed_word: "unfail", classifications: [ { formatted_word: "unfailingly", classification: "adverb" } ] }
+{ stemmed_word: "unfavor", classifications: [ { formatted_word: "unfavorably", classification: "adverb" } ] }
+{ stemmed_word: "unfortun", classifications: [ { formatted_word: "unfortunately", classification: "adverb" } ] }
+{ stemmed_word: "uniform", classifications: [ { formatted_word: "uniformly", classification: "adverb" } ] }
+{ stemmed_word: "unilater", classifications: [ { formatted_word: "unilaterally", classification: "adverb" } ] }
+{ stemmed_word: "unimpress", classifications: [ { formatted_word: "unimpressively", classification: "adverb" } ] }
+{ stemmed_word: "univers", classifications: [ { formatted_word: "universally", classification: "adverb" } ] }
+{ stemmed_word: "unnatur", classifications: [ { formatted_word: "unnaturally", classification: "adverb" } ] }
+{ stemmed_word: "unnecessarili", classifications: [ { formatted_word: "unnecessarily", classification: "adverb" } ] }
+{ stemmed_word: "unquestion", classifications: [ { formatted_word: "unquestionably", classification: "adverb" } ] }
+{ stemmed_word: "unwil", classifications: [ { formatted_word: "unwillingly", classification: "adverb" } ] }
+{ stemmed_word: "up", classifications: [ { formatted_word: "up", classification: "adverb" } ] }
+{ stemmed_word: "upbeat", classifications: [ { formatted_word: "upbeat", classification: "adverb" } ] }
+{ stemmed_word: "unkind", classifications: [ { formatted_word: "unkindly", classification: "adverb" } ] }
+{ stemmed_word: "uplift", classifications: [ { formatted_word: "upliftingly", classification: "adverb" } ] }
+{ stemmed_word: "upright", classifications: [ { formatted_word: "upright", classification: "adverb" } ] }
+{ stemmed_word: "unselfish", classifications: [ { formatted_word: "unselfishly", classification: "adverb" } ] }
+{ stemmed_word: "upside-down", classifications: [ { formatted_word: "upside-down", classification: "adverb" } ] }
+{ stemmed_word: "unskil", classifications: [ { formatted_word: "unskillfully", classification: "adverb" } ] }
+{ stemmed_word: "upward", classifications: [ { formatted_word: "upward", classification: "adverb" } ] }
+{ stemmed_word: "upward", classifications: [ { formatted_word: "upwardly", classification: "adverb" } ] }
+{ stemmed_word: "urgent", classifications: [ { formatted_word: "urgently", classification: "adverb" } ] }
+{ stemmed_word: "use", classifications: [ { formatted_word: "usefully", classification: "adverb" } ] }
+{ stemmed_word: "useless", classifications: [ { formatted_word: "uselessly", classification: "adverb" } ] }
+{ stemmed_word: "usual", classifications: [ { formatted_word: "usually", classification: "adverb" } ] }
+{ stemmed_word: "utter", classifications: [ { formatted_word: "utterly", classification: "adverb" } ] }
+{ stemmed_word: "vacant", classifications: [ { formatted_word: "vacantly", classification: "adverb" } ] }
+{ stemmed_word: "vagu", classifications: [ { formatted_word: "vaguely", classification: "adverb" } ] }
+{ stemmed_word: "vain", classifications: [ { formatted_word: "vainly", classification: "adverb" } ] }
+{ stemmed_word: "valiant", classifications: [ { formatted_word: "valiantly", classification: "adverb" } ] }
+{ stemmed_word: "vast", classifications: [ { formatted_word: "vastly", classification: "adverb" } ] }
+{ stemmed_word: "verbal", classifications: [ { formatted_word: "verbally", classification: "adverb" } ] }
+{ stemmed_word: "vertic", classifications: [ { formatted_word: "vertically", classification: "adverb" } ] }
+{ stemmed_word: "veri", classifications: [ { formatted_word: "very", classification: "adverb" } ] }
+{ stemmed_word: "vicious", classifications: [ { formatted_word: "viciously", classification: "adverb" } ] }
+{ stemmed_word: "victori", classifications: [ { formatted_word: "victoriously", classification: "adverb" } ] }
+{ stemmed_word: "vigil", classifications: [ { formatted_word: "vigilantly", classification: "adverb" } ] }
+{ stemmed_word: "vigor", classifications: [ { formatted_word: "vigorously", classification: "adverb" } ] }
+{ stemmed_word: "violent", classifications: [ { formatted_word: "violently", classification: "adverb" } ] }
+{ stemmed_word: "visibl", classifications: [ { formatted_word: "visibly", classification: "adverb" } ] }
+{ stemmed_word: "visual", classifications: [ { formatted_word: "visually", classification: "adverb" } ] }
+{ stemmed_word: "vivaci", classifications: [ { formatted_word: "vivaciously", classification: "adverb" } ] }
+{ stemmed_word: "voluntarili", classifications: [ { formatted_word: "voluntarily", classification: "adverb" } ] }
+{ stemmed_word: "warm", classifications: [ { formatted_word: "warmly", classification: "adverb" } ] }
+{ stemmed_word: "weak", classifications: [ { formatted_word: "weakly", classification: "adverb" } ] }
+{ stemmed_word: "wearili", classifications: [ { formatted_word: "wearily", classification: "adverb" } ] }
+{ stemmed_word: "week", classifications: [ { formatted_word: "weekly", classification: "adverb" } ] }
+{ stemmed_word: "well", classifications: [ { formatted_word: "well", classification: "adverb" } ] }
+{ stemmed_word: "wet", classifications: [ { formatted_word: "wetly", classification: "adverb" } ] }
+{ stemmed_word: "when", classifications: [ { formatted_word: "when", classification: "adverb" } ] }
+{ stemmed_word: "where", classifications: [ { formatted_word: "where", classification: "adverb" } ] }
+{ stemmed_word: "while", classifications: [ { formatted_word: "while", classification: "adverb" } ] }
+{ stemmed_word: "whole-heart", classifications: [ { formatted_word: "whole-heartedly", classification: "adverb" } ] }
+{ stemmed_word: "wholli", classifications: [ { formatted_word: "wholly", classification: "adverb" } ] }
+{ stemmed_word: "whi", classifications: [ { formatted_word: "why", classification: "adverb" } ] }
+{ stemmed_word: "wick", classifications: [ { formatted_word: "wickedly", classification: "adverb" } ] }
+{ stemmed_word: "wide", classifications: [ { formatted_word: "widely", classification: "adverb" } ] }
+{ stemmed_word: "wigg", classifications: [ { formatted_word: "wiggly", classification: "adverb" } ] }
+{ stemmed_word: "wild", classifications: [ { formatted_word: "wildly", classification: "adverb" } ] }
+{ stemmed_word: "will", classifications: [ { formatted_word: "willfully", classification: "adverb" } ] }
+{ stemmed_word: "will", classifications: [ { formatted_word: "willingly", classification: "adverb" } ] }
+{ stemmed_word: "wise", classifications: [ { formatted_word: "wisely", classification: "adverb" } ] }
+{ stemmed_word: "woefulli", classifications: [ { formatted_word: "woefully", classification: "adverb" } ] }
+{ stemmed_word: "wonder", classifications: [ { formatted_word: "wonderfully", classification: "adverb" } ] }
+{ stemmed_word: "worri", classifications: [ { formatted_word: "worriedly", classification: "adverb" } ] }
+{ stemmed_word: "worthili", classifications: [ { formatted_word: "worthily", classification: "adverb" } ] }
+{ stemmed_word: "wrong", classifications: [ { formatted_word: "wrongly", classification: "adverb" } ] }
+{ stemmed_word: "year", classifications: [ { formatted_word: "yearly", classification: "adverb" } ] }
+{ stemmed_word: "yearn", classifications: [ { formatted_word: "yearningly", classification: "adverb" } ] }
+{ stemmed_word: "yesterday", classifications: [ { formatted_word: "yesterday", classification: "adverb" } ] }
+{ stemmed_word: "yet", classifications: [ { formatted_word: "yet", classification: "adverb" } ] }
+{ stemmed_word: "youth", classifications: [ { formatted_word: "youthfully", classification: "adverb" } ] }
+{ stemmed_word: "zanili", classifications: [ { formatted_word: "zanily", classification: "adverb" } ] }
+{ stemmed_word: "zealous", classifications: [ { formatted_word: "zealously", classification: "adverb" } ] }
+{ stemmed_word: "zest", classifications: [ { formatted_word: "zestfully", classification: "adverb" } ] }

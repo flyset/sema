@@ -8,14 +8,16 @@
 #
 
 # 3rd Party
+require 'pp'
 require 'mongoid'
 require 'action_view'
 require 'active_support'
 require 'yaml'
 require 'lingua/stemmer'
+require 'benchmark'
 
-# 3rd Party
-require "#{Dir.pwd}/lib/sema/stemmify"
+# Local 3rd Party
+#require "#{Dir.pwd}/lib/sema/stemmify"
 
 # Libraries
 require "#{Dir.pwd}/lib/sema/semantic_extractor"
@@ -30,4 +32,5 @@ require "#{Dir.pwd}/lib/sema/object/word"
 Mongoid.load!("#{Dir.pwd}/config/mongoid.yml", :production)
 
 # Models
-require "#{Dir.pwd}/lib/sema/model/classification"
+require "#{Dir.pwd}/lib/sema/model/basic_word"
+require "#{Dir.pwd}/lib/sema/model/stemmed_word"

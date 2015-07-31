@@ -1,3 +1,7 @@
+#
+# DEPRECATED!!!
+#
+
 # Porter stemmer in Ruby.
 #
 # This is the Porter stemming algorithm, ported to Ruby from the

@@ -1,1013 +1,1012 @@
-{ formatted_word: "is", classification: "verb" }
-{ formatted_word: "accept", classification: "verb" }
-{ formatted_word: "ache", classification: "verb" }
-{ formatted_word: "acknowledge", classification: "verb" }
-{ formatted_word: "act", classification: "verb" }
-{ formatted_word: "add", classification: "verb" }
-{ formatted_word: "admire", classification: "verb" }
-{ formatted_word: "admit", classification: "verb" }
-{ formatted_word: "admonish", classification: "verb" }
-{ formatted_word: "advise", classification: "verb" }
-{ formatted_word: "adopt", classification: "verb" }
-{ formatted_word: "affirm", classification: "verb" }
-{ formatted_word: "afford", classification: "verb" }
-{ formatted_word: "agree", classification: "verb" }
-{ formatted_word: "ail", classification: "verb" }
-{ formatted_word: "alert", classification: "verb" }
-{ formatted_word: "allege", classification: "verb" }
-{ formatted_word: "allow", classification: "verb" }
-{ formatted_word: "allude", classification: "verb" }
-{ formatted_word: "amuse", classification: "verb" }
-{ formatted_word: "analyze", classification: "verb" }
-{ formatted_word: "announce", classification: "verb" }
-{ formatted_word: "annoy", classification: "verb" }
-{ formatted_word: "answer", classification: "verb" }
-{ formatted_word: "apologize", classification: "verb" }
-{ formatted_word: "appeal", classification: "verb" }
-{ formatted_word: "appear", classification: "verb" }
-{ formatted_word: "applaud", classification: "verb" }
-{ formatted_word: "appreciate", classification: "verb" }
-{ formatted_word: "approve", classification: "verb" }
-{ formatted_word: "argue", classification: "verb" }
-{ formatted_word: "arrange", classification: "verb" }
-{ formatted_word: "arrest", classification: "verb" }
-{ formatted_word: "arrive", classification: "verb" }
-{ formatted_word: "articulate", classification: "verb" }
-{ formatted_word: "ask", classification: "verb" }
-{ formatted_word: "assert", classification: "verb" }
-{ formatted_word: "assure", classification: "verb" }
-{ formatted_word: "attach", classification: "verb" }
-{ formatted_word: "attack", classification: "verb" }
-{ formatted_word: "attempt", classification: "verb" }
-{ formatted_word: "attend", classification: "verb" }
-{ formatted_word: "attract", classification: "verb" }
-{ formatted_word: "auction", classification: "verb" }
-{ formatted_word: "avoid", classification: "verb" }
-{ formatted_word: "avow", classification: "verb" }
-{ formatted_word: "awake", classification: "verb" }
-{ formatted_word: "babble", classification: "verb" }
-{ formatted_word: "back", classification: "verb" }
-{ formatted_word: "bake", classification: "verb" }
-{ formatted_word: "balance", classification: "verb" }
-{ formatted_word: "balk", classification: "verb" }
-{ formatted_word: "ban", classification: "verb" }
-{ formatted_word: "bang", classification: "verb" }
-{ formatted_word: "bandage", classification: "verb" }
-{ formatted_word: "bar", classification: "verb" }
-{ formatted_word: "bare", classification: "verb" }
-{ formatted_word: "bargain", classification: "verb" }
-{ formatted_word: "bark", classification: "verb" }
-{ formatted_word: "barrage", classification: "verb" }
-{ formatted_word: "barter", classification: "verb" }
-{ formatted_word: "baste", classification: "verb" }
-{ formatted_word: "bat", classification: "verb" }
-{ formatted_word: "bathe", classification: "verb" }
-{ formatted_word: "battle", classification: "verb" }
-{ formatted_word: "bawl", classification: "verb" }
-{ formatted_word: "be", classification: "verb" }
-{ formatted_word: "beam", classification: "verb" }
-{ formatted_word: "bear", classification: "verb" }
-{ formatted_word: "beat", classification: "verb" }
-{ formatted_word: "become", classification: "verb" }
-{ formatted_word: "befriend", classification: "verb" }
-{ formatted_word: "beg", classification: "verb" }
-{ formatted_word: "begin", classification: "verb" }
-{ formatted_word: "behave", classification: "verb" }
-{ formatted_word: "believe", classification: "verb" }
-{ formatted_word: "bellow", classification: "verb" }
-{ formatted_word: "belong", classification: "verb" }
-{ formatted_word: "bend", classification: "verb" }
-{ formatted_word: "berate", classification: "verb" }
-{ formatted_word: "besiege", classification: "verb" }
-{ formatted_word: "bestow", classification: "verb" }
-{ formatted_word: "bet", classification: "verb" }
-{ formatted_word: "bid", classification: "verb" }
-{ formatted_word: "bite", classification: "verb" }
-{ formatted_word: "bleach", classification: "verb" }
-{ formatted_word: "bleed", classification: "verb" }
-{ formatted_word: "bless", classification: "verb" }
-{ formatted_word: "blind", classification: "verb" }
-{ formatted_word: "blink", classification: "verb" }
-{ formatted_word: "blot", classification: "verb" }
-{ formatted_word: "blow", classification: "verb" }
-{ formatted_word: "blurt", classification: "verb" }
-{ formatted_word: "blush", classification: "verb" }
-{ formatted_word: "boast", classification: "verb" }
-{ formatted_word: "bob", classification: "verb" }
-{ formatted_word: "boil", classification: "verb" }
-{ formatted_word: "bolt", classification: "verb" }
-{ formatted_word: "bomb", classification: "verb" }
-{ formatted_word: "book", classification: "verb" }
-{ formatted_word: "bore", classification: "verb" }
-{ formatted_word: "borrow", classification: "verb" }
-{ formatted_word: "bounce", classification: "verb" }
-{ formatted_word: "bow", classification: "verb" }
-{ formatted_word: "box", classification: "verb" }
-{ formatted_word: "brag", classification: "verb" }
-{ formatted_word: "brake", classification: "verb" }
-{ formatted_word: "branch", classification: "verb" }
-{ formatted_word: "brand", classification: "verb" }
-{ formatted_word: "break", classification: "verb" }
-{ formatted_word: "breathe", classification: "verb" }
-{ formatted_word: "breed", classification: "verb" }
-{ formatted_word: "bring", classification: "verb" }
-{ formatted_word: "broadcast", classification: "verb" }
-{ formatted_word: "broil", classification: "verb" }
-{ formatted_word: "bruise", classification: "verb" }
-{ formatted_word: "brush", classification: "verb" }
-{ formatted_word: "bubble", classification: "verb" }
-{ formatted_word: "build", classification: "verb" }
-{ formatted_word: "bump", classification: "verb" }
-{ formatted_word: "burn", classification: "verb" }
-{ formatted_word: "burnish", classification: "verb" }
-{ formatted_word: "bury", classification: "verb" }
-{ formatted_word: "buy", classification: "verb" }
-{ formatted_word: "buzz", classification: "verb" }
-{ formatted_word: "cajole", classification: "verb" }
-{ formatted_word: "calculate", classification: "verb" }
-{ formatted_word: "call", classification: "verb" }
-{ formatted_word: "camp", classification: "verb" }
-{ formatted_word: "care", classification: "verb" }
-{ formatted_word: "carry", classification: "verb" }
-{ formatted_word: "carve", classification: "verb" }
-{ formatted_word: "cause", classification: "verb" }
-{ formatted_word: "caution", classification: "verb" }
-{ formatted_word: "catch", classification: "verb" }
-{ formatted_word: "challenge", classification: "verb" }
-{ formatted_word: "change", classification: "verb" }
-{ formatted_word: "chant", classification: "verb" }
-{ formatted_word: "charge", classification: "verb" }
-{ formatted_word: "chase", classification: "verb" }
-{ formatted_word: "cheat", classification: "verb" }
-{ formatted_word: "check", classification: "verb" }
-{ formatted_word: "cheer", classification: "verb" }
-{ formatted_word: "chew", classification: "verb" }
-{ formatted_word: "chide", classification: "verb" }
-{ formatted_word: "chip", classification: "verb" }
-{ formatted_word: "choke", classification: "verb" }
-{ formatted_word: "chomp", classification: "verb" }
-{ formatted_word: "choose", classification: "verb" }
-{ formatted_word: "chop", classification: "verb" }
-{ formatted_word: "claim", classification: "verb" }
-{ formatted_word: "clap", classification: "verb" }
-{ formatted_word: "clean", classification: "verb" }
-{ formatted_word: "clear", classification: "verb" }
-{ formatted_word: "climb", classification: "verb" }
-{ formatted_word: "clip", classification: "verb" }
-{ formatted_word: "close", classification: "verb" }
-{ formatted_word: "coach", classification: "verb" }
-{ formatted_word: "coil", classification: "verb" }
-{ formatted_word: "collect", classification: "verb" }
-{ formatted_word: "color", classification: "verb" }
-{ formatted_word: "comb", classification: "verb" }
-{ formatted_word: "come", classification: "verb" }
-{ formatted_word: "comfort", classification: "verb" }
-{ formatted_word: "command", classification: "verb" }
-{ formatted_word: "comment", classification: "verb" }
-{ formatted_word: "communicate", classification: "verb" }
-{ formatted_word: "compare", classification: "verb" }
-{ formatted_word: "compete", classification: "verb" }
-{ formatted_word: "complain", classification: "verb" }
-{ formatted_word: "complete", classification: "verb" }
-{ formatted_word: "concede", classification: "verb" }
-{ formatted_word: "concentrate", classification: "verb" }
-{ formatted_word: "concern", classification: "verb" }
-{ formatted_word: "conclude", classification: "verb" }
-{ formatted_word: "concur", classification: "verb" }
-{ formatted_word: "confess", classification: "verb" }
-{ formatted_word: "confide", classification: "verb" }
-{ formatted_word: "confirm", classification: "verb" }
-{ formatted_word: "connect", classification: "verb" }
-{ formatted_word: "consent", classification: "verb" }
-{ formatted_word: "consider", classification: "verb" }
-{ formatted_word: "consist", classification: "verb" }
-{ formatted_word: "contain", classification: "verb" }
-{ formatted_word: "contend", classification: "verb" }
-{ formatted_word: "continue", classification: "verb" }
-{ formatted_word: "cook", classification: "verb" }
-{ formatted_word: "copy", classification: "verb" }
-{ formatted_word: "correct", classification: "verb" }
-{ formatted_word: "cost", classification: "verb" }
-{ formatted_word: "cough", classification: "verb" }
-{ formatted_word: "count", classification: "verb" }
-{ formatted_word: "counter", classification: "verb" }
-{ formatted_word: "cover", classification: "verb" }
-{ formatted_word: "covet", classification: "verb" }
-{ formatted_word: "crack", classification: "verb" }
-{ formatted_word: "crash", classification: "verb" }
-{ formatted_word: "crave", classification: "verb" }
-{ formatted_word: "crawl", classification: "verb" }
-{ formatted_word: "crochet", classification: "verb" }
-{ formatted_word: "cross", classification: "verb" }
-{ formatted_word: "criticize", classification: "verb" }
-{ formatted_word: "croak", classification: "verb" }
-{ formatted_word: "cross-examine", classification: "verb" }
-{ formatted_word: "crowd", classification: "verb" }
-{ formatted_word: "crush", classification: "verb" }
-{ formatted_word: "cry", classification: "verb" }
-{ formatted_word: "cure", classification: "verb" }
-{ formatted_word: "curl", classification: "verb" }
-{ formatted_word: "curse", classification: "verb" }
-{ formatted_word: "curve", classification: "verb" }
-{ formatted_word: "cut", classification: "verb" }
-{ formatted_word: "cycle", classification: "verb" }
-{ formatted_word: "dam", classification: "verb" }
-{ formatted_word: "damage", classification: "verb" }
-{ formatted_word: "dance", classification: "verb" }
-{ formatted_word: "dare", classification: "verb" }
-{ formatted_word: "deal", classification: "verb" }
-{ formatted_word: "debate", classification: "verb" }
-{ formatted_word: "decay", classification: "verb" }
-{ formatted_word: "deceive", classification: "verb" }
-{ formatted_word: "decide", classification: "verb" }
-{ formatted_word: "decipher", classification: "verb" }
-{ formatted_word: "declare", classification: "verb" }
-{ formatted_word: "decorate", classification: "verb" }
-{ formatted_word: "delay", classification: "verb" }
-{ formatted_word: "delight", classification: "verb" }
-{ formatted_word: "deliver", classification: "verb" }
-{ formatted_word: "demand", classification: "verb" }
-{ formatted_word: "deny", classification: "verb" }
-{ formatted_word: "depend", classification: "verb" }
-{ formatted_word: "describe", classification: "verb" }
-{ formatted_word: "desert", classification: "verb" }
-{ formatted_word: "deserve", classification: "verb" }
-{ formatted_word: "desire", classification: "verb" }
-{ formatted_word: "deter", classification: "verb" }
-{ formatted_word: "develop", classification: "verb" }
-{ formatted_word: "dial", classification: "verb" }
-{ formatted_word: "dictate", classification: "verb" }
-{ formatted_word: "die", classification: "verb" }
-{ formatted_word: "dig", classification: "verb" }
-{ formatted_word: "digress", classification: "verb" }
-{ formatted_word: "direct", classification: "verb" }
-{ formatted_word: "disclose", classification: "verb" }
-{ formatted_word: "dislike", classification: "verb" }
-{ formatted_word: "dive", classification: "verb" }
-{ formatted_word: "divide", classification: "verb" }
-{ formatted_word: "divorce", classification: "verb" }
-{ formatted_word: "divulge", classification: "verb" }
-{ formatted_word: "do", classification: "verb" }
-{ formatted_word: "dock", classification: "verb" }
-{ formatted_word: "dole", classification: "verb" }
-{ formatted_word: "dote", classification: "verb" }
-{ formatted_word: "double", classification: "verb" }
-{ formatted_word: "doubt", classification: "verb" }
-{ formatted_word: "drag", classification: "verb" }
-{ formatted_word: "drain", classification: "verb" }
-{ formatted_word: "draw", classification: "verb" }
-{ formatted_word: "dream", classification: "verb" }
-{ formatted_word: "dress", classification: "verb" }
-{ formatted_word: "drip", classification: "verb" }
-{ formatted_word: "drill", classification: "verb" }
-{ formatted_word: "drink", classification: "verb" }
-{ formatted_word: "drive", classification: "verb" }
-{ formatted_word: "drone", classification: "verb" }
-{ formatted_word: "drop", classification: "verb" }
-{ formatted_word: "drown", classification: "verb" }
-{ formatted_word: "dry", classification: "verb" }
-{ formatted_word: "dupe", classification: "verb" }
-{ formatted_word: "dump", classification: "verb" }
-{ formatted_word: "dust", classification: "verb" }
-{ formatted_word: "dye", classification: "verb" }
-{ formatted_word: "earn", classification: "verb" }
-{ formatted_word: "eat", classification: "verb" }
-{ formatted_word: "echo", classification: "verb" }
-{ formatted_word: "edit", classification: "verb" }
-{ formatted_word: "educate", classification: "verb" }
-{ formatted_word: "elope", classification: "verb" }
-{ formatted_word: "embarrass", classification: "verb" }
-{ formatted_word: "emigrate", classification: "verb" }
-{ formatted_word: "emit", classification: "verb" }
-{ formatted_word: "emphasize", classification: "verb" }
-{ formatted_word: "employ", classification: "verb" }
-{ formatted_word: "empty", classification: "verb" }
-{ formatted_word: "enchant", classification: "verb" }
-{ formatted_word: "encode", classification: "verb" }
-{ formatted_word: "encourage", classification: "verb" }
-{ formatted_word: "end", classification: "verb" }
-{ formatted_word: "enjoin", classification: "verb" }
-{ formatted_word: "enjoy", classification: "verb" }
-{ formatted_word: "enter", classification: "verb" }
-{ formatted_word: "entertain", classification: "verb" }
-{ formatted_word: "enunciate", classification: "verb" }
-{ formatted_word: "envy", classification: "verb" }
-{ formatted_word: "equivocate", classification: "verb" }
-{ formatted_word: "escape", classification: "verb" }
-{ formatted_word: "evacuate", classification: "verb" }
-{ formatted_word: "evaporate", classification: "verb" }
-{ formatted_word: "exaggerate", classification: "verb" }
-{ formatted_word: "examine", classification: "verb" }
-{ formatted_word: "excite", classification: "verb" }
-{ formatted_word: "exclaim", classification: "verb" }
-{ formatted_word: "excuse", classification: "verb" }
-{ formatted_word: "exercise", classification: "verb" }
-{ formatted_word: "exist", classification: "verb" }
-{ formatted_word: "expand", classification: "verb" }
-{ formatted_word: "expect", classification: "verb" }
-{ formatted_word: "expel", classification: "verb" }
-{ formatted_word: "exhort", classification: "verb" }
-{ formatted_word: "explain", classification: "verb" }
-{ formatted_word: "explode", classification: "verb" }
-{ formatted_word: "explore", classification: "verb" }
-{ formatted_word: "extend", classification: "verb" }
-{ formatted_word: "extoll", classification: "verb" }
-{ formatted_word: "face", classification: "verb" }
-{ formatted_word: "fade", classification: "verb" }
-{ formatted_word: "fail", classification: "verb" }
-{ formatted_word: "fall", classification: "verb" }
-{ formatted_word: "falter", classification: "verb" }
-{ formatted_word: "fasten", classification: "verb" }
-{ formatted_word: "favor", classification: "verb" }
-{ formatted_word: "fax", classification: "verb" }
-{ formatted_word: "fear", classification: "verb" }
-{ formatted_word: "feed", classification: "verb" }
-{ formatted_word: "feel", classification: "verb" }
-{ formatted_word: "fence", classification: "verb" }
-{ formatted_word: "fetch", classification: "verb" }
-{ formatted_word: "fight", classification: "verb" }
-{ formatted_word: "file", classification: "verb" }
-{ formatted_word: "fill", classification: "verb" }
-{ formatted_word: "film", classification: "verb" }
-{ formatted_word: "find", classification: "verb" }
-{ formatted_word: "fire", classification: "verb" }
-{ formatted_word: "fish", classification: "verb" }
-{ formatted_word: "fit", classification: "verb" }
-{ formatted_word: "fix", classification: "verb" }
-{ formatted_word: "flap", classification: "verb" }
-{ formatted_word: "flash", classification: "verb" }
-{ formatted_word: "flee", classification: "verb" }
-{ formatted_word: "float", classification: "verb" }
-{ formatted_word: "flood", classification: "verb" }
-{ formatted_word: "floss", classification: "verb" }
-{ formatted_word: "flow", classification: "verb" }
-{ formatted_word: "flower", classification: "verb" }
-{ formatted_word: "fly", classification: "verb" }
-{ formatted_word: "fold", classification: "verb" }
-{ formatted_word: "follow", classification: "verb" }
-{ formatted_word: "fool", classification: "verb" }
-{ formatted_word: "force", classification: "verb" }
-{ formatted_word: "foretell", classification: "verb" }
-{ formatted_word: "forget", classification: "verb" }
-{ formatted_word: "forgive", classification: "verb" }
-{ formatted_word: "form", classification: "verb" }
-{ formatted_word: "found", classification: "verb" }
-{ formatted_word: "frame", classification: "verb" }
-{ formatted_word: "freeze", classification: "verb" }
-{ formatted_word: "fret", classification: "verb" }
-{ formatted_word: "frighten", classification: "verb" }
-{ formatted_word: "fry", classification: "verb" }
-{ formatted_word: "fume", classification: "verb" }
-{ formatted_word: "garden", classification: "verb" }
-{ formatted_word: "gasp", classification: "verb" }
-{ formatted_word: "gather", classification: "verb" }
-{ formatted_word: "gaze", classification: "verb" }
-{ formatted_word: "gel", classification: "verb" }
-{ formatted_word: "get", classification: "verb" }
-{ formatted_word: "gild", classification: "verb" }
-{ formatted_word: "give", classification: "verb" }
-{ formatted_word: "glide", classification: "verb" }
-{ formatted_word: "glue", classification: "verb" }
-{ formatted_word: "gnaw", classification: "verb" }
-{ formatted_word: "go", classification: "verb" }
-{ formatted_word: "grab", classification: "verb" }
-{ formatted_word: "grate", classification: "verb" }
-{ formatted_word: "grease", classification: "verb" }
-{ formatted_word: "greet", classification: "verb" }
-{ formatted_word: "grill", classification: "verb" }
-{ formatted_word: "grin", classification: "verb" }
-{ formatted_word: "grip", classification: "verb" }
-{ formatted_word: "groan", classification: "verb" }
-{ formatted_word: "grow", classification: "verb" }
-{ formatted_word: "growl", classification: "verb" }
-{ formatted_word: "grumble", classification: "verb" }
-{ formatted_word: "grunt", classification: "verb" }
-{ formatted_word: "guarantee", classification: "verb" }
-{ formatted_word: "guard", classification: "verb" }
-{ formatted_word: "guess", classification: "verb" }
-{ formatted_word: "guide", classification: "verb" }
-{ formatted_word: "gurgle", classification: "verb" }
-{ formatted_word: "gush", classification: "verb" }
-{ formatted_word: "hail", classification: "verb" }
-{ formatted_word: "hammer", classification: "verb" }
-{ formatted_word: "hand", classification: "verb" }
-{ formatted_word: "handle", classification: "verb" }
-{ formatted_word: "hang", classification: "verb" }
-{ formatted_word: "happen", classification: "verb" }
-{ formatted_word: "harass", classification: "verb" }
-{ formatted_word: "harm", classification: "verb" }
-{ formatted_word: "harness", classification: "verb" }
-{ formatted_word: "hate", classification: "verb" }
-{ formatted_word: "haunt", classification: "verb" }
-{ formatted_word: "have", classification: "verb" }
-{ formatted_word: "head", classification: "verb" }
-{ formatted_word: "heal", classification: "verb" }
-{ formatted_word: "heap", classification: "verb" }
-{ formatted_word: "hear", classification: "verb" }
-{ formatted_word: "heat", classification: "verb" }
-{ formatted_word: "help", classification: "verb" }
-{ formatted_word: "hide", classification: "verb" }
-{ formatted_word: "highlight", classification: "verb" }
-{ formatted_word: "hijack", classification: "verb" }
-{ formatted_word: "hinder", classification: "verb" }
-{ formatted_word: "hint", classification: "verb" }
-{ formatted_word: "hiss", classification: "verb" }
-{ formatted_word: "hit", classification: "verb" }
-{ formatted_word: "hold", classification: "verb" }
-{ formatted_word: "hook", classification: "verb" }
-{ formatted_word: "hoot", classification: "verb" }
-{ formatted_word: "hop", classification: "verb" }
-{ formatted_word: "hope", classification: "verb" }
-{ formatted_word: "hover", classification: "verb" }
-{ formatted_word: "howl", classification: "verb" }
-{ formatted_word: "hug", classification: "verb" }
-{ formatted_word: "hum", classification: "verb" }
-{ formatted_word: "hunt", classification: "verb" }
-{ formatted_word: "hurry", classification: "verb" }
-{ formatted_word: "hurt", classification: "verb" }
-{ formatted_word: "ice", classification: "verb" }
-{ formatted_word: "identify", classification: "verb" }
-{ formatted_word: "ignore", classification: "verb" }
-{ formatted_word: "imagine", classification: "verb" }
-{ formatted_word: "immigrate", classification: "verb" }
-{ formatted_word: "imply", classification: "verb" }
-{ formatted_word: "implore", classification: "verb" }
-{ formatted_word: "impress", classification: "verb" }
-{ formatted_word: "improve", classification: "verb" }
-{ formatted_word: "include", classification: "verb" }
-{ formatted_word: "increase", classification: "verb" }
-{ formatted_word: "infect", classification: "verb" }
-{ formatted_word: "inflate", classification: "verb" }
-{ formatted_word: "influence", classification: "verb" }
-{ formatted_word: "inform", classification: "verb" }
-{ formatted_word: "infuse", classification: "verb" }
-{ formatted_word: "inject", classification: "verb" }
-{ formatted_word: "injure", classification: "verb" }
-{ formatted_word: "inquire", classification: "verb" }
-{ formatted_word: "insist", classification: "verb" }
-{ formatted_word: "inspect", classification: "verb" }
-{ formatted_word: "inspire", classification: "verb" }
-{ formatted_word: "instruct", classification: "verb" }
-{ formatted_word: "intend", classification: "verb" }
-{ formatted_word: "interest", classification: "verb" }
-{ formatted_word: "interfere", classification: "verb" }
-{ formatted_word: "interject", classification: "verb" }
-{ formatted_word: "interrupt", classification: "verb" }
-{ formatted_word: "introduce", classification: "verb" }
-{ formatted_word: "invent", classification: "verb" }
-{ formatted_word: "invest", classification: "verb" }
-{ formatted_word: "invite", classification: "verb" }
-{ formatted_word: "irritate", classification: "verb" }
-{ formatted_word: "iron", classification: "verb" }
-{ formatted_word: "itch", classification: "verb" }
-{ formatted_word: "jab", classification: "verb" }
-{ formatted_word: "jabber", classification: "verb" }
-{ formatted_word: "jail", classification: "verb" }
-{ formatted_word: "jam", classification: "verb" }
-{ formatted_word: "jeer", classification: "verb" }
-{ formatted_word: "jest", classification: "verb" }
-{ formatted_word: "jog", classification: "verb" }
-{ formatted_word: "join", classification: "verb" }
-{ formatted_word: "joke", classification: "verb" }
-{ formatted_word: "jolt", classification: "verb" }
-{ formatted_word: "judge", classification: "verb" }
-{ formatted_word: "juggle", classification: "verb" }
-{ formatted_word: "jump", classification: "verb" }
-{ formatted_word: "keep", classification: "verb" }
-{ formatted_word: "kick", classification: "verb" }
-{ formatted_word: "kill", classification: "verb" }
-{ formatted_word: "kiss", classification: "verb" }
-{ formatted_word: "kneel", classification: "verb" }
-{ formatted_word: "knit", classification: "verb" }
-{ formatted_word: "knock", classification: "verb" }
-{ formatted_word: "knot", classification: "verb" }
-{ formatted_word: "know", classification: "verb" }
-{ formatted_word: "label", classification: "verb" }
-{ formatted_word: "lament", classification: "verb" }
-{ formatted_word: "land", classification: "verb" }
-{ formatted_word: "last", classification: "verb" }
-{ formatted_word: "laugh", classification: "verb" }
-{ formatted_word: "lay", classification: "verb" }
-{ formatted_word: "lead", classification: "verb" }
-{ formatted_word: "lean", classification: "verb" }
-{ formatted_word: "learn", classification: "verb" }
-{ formatted_word: "leave", classification: "verb" }
-{ formatted_word: "lecture", classification: "verb" }
-{ formatted_word: "lend", classification: "verb" }
-{ formatted_word: "let", classification: "verb" }
-{ formatted_word: "level", classification: "verb" }
-{ formatted_word: "license", classification: "verb" }
-{ formatted_word: "lick", classification: "verb" }
-{ formatted_word: "lie", classification: "verb" }
-{ formatted_word: "lift", classification: "verb" }
-{ formatted_word: "light", classification: "verb" }
-{ formatted_word: "lighten", classification: "verb" }
-{ formatted_word: "like", classification: "verb" }
-{ formatted_word: "list", classification: "verb" }
-{ formatted_word: "listen", classification: "verb" }
-{ formatted_word: "live", classification: "verb" }
-{ formatted_word: "load", classification: "verb" }
-{ formatted_word: "loan", classification: "verb" }
-{ formatted_word: "lock", classification: "verb" }
-{ formatted_word: "long", classification: "verb" }
-{ formatted_word: "look", classification: "verb" }
-{ formatted_word: "loosen", classification: "verb" }
-{ formatted_word: "lose", classification: "verb" }
-{ formatted_word: "love", classification: "verb" }
-{ formatted_word: "lower", classification: "verb" }
-{ formatted_word: "mail", classification: "verb" }
-{ formatted_word: "maintain", classification: "verb" }
-{ formatted_word: "make", classification: "verb" }
-{ formatted_word: "man", classification: "verb" }
-{ formatted_word: "manage", classification: "verb" }
-{ formatted_word: "mar", classification: "verb" }
-{ formatted_word: "march", classification: "verb" }
-{ formatted_word: "mark", classification: "verb" }
-{ formatted_word: "marry", classification: "verb" }
-{ formatted_word: "marvel", classification: "verb" }
-{ formatted_word: "mate", classification: "verb" }
-{ formatted_word: "matter", classification: "verb" }
-{ formatted_word: "mean", classification: "verb" }
-{ formatted_word: "measure", classification: "verb" }
-{ formatted_word: "meet", classification: "verb" }
-{ formatted_word: "melt", classification: "verb" }
-{ formatted_word: "memorize", classification: "verb" }
-{ formatted_word: "mend", classification: "verb" }
-{ formatted_word: "mention", classification: "verb" }
-{ formatted_word: "merge", classification: "verb" }
-{ formatted_word: "milk", classification: "verb" }
-{ formatted_word: "mine", classification: "verb" }
-{ formatted_word: "miss", classification: "verb" }
-{ formatted_word: "mix", classification: "verb" }
-{ formatted_word: "moan", classification: "verb" }
-{ formatted_word: "moor", classification: "verb" }
-{ formatted_word: "mourn", classification: "verb" }
-{ formatted_word: "molt", classification: "verb" }
-{ formatted_word: "move", classification: "verb" }
-{ formatted_word: "mow", classification: "verb" }
-{ formatted_word: "mug", classification: "verb" }
-{ formatted_word: "multiply", classification: "verb" }
-{ formatted_word: "mumble", classification: "verb" }
-{ formatted_word: "murder", classification: "verb" }
-{ formatted_word: "mutter", classification: "verb" }
-{ formatted_word: "nag", classification: "verb" }
-{ formatted_word: "nail", classification: "verb" }
-{ formatted_word: "name", classification: "verb" }
-{ formatted_word: "nap", classification: "verb" }
-{ formatted_word: "need", classification: "verb" }
-{ formatted_word: "nest", classification: "verb" }
-{ formatted_word: "nod", classification: "verb" }
-{ formatted_word: "note", classification: "verb" }
-{ formatted_word: "notice", classification: "verb" }
-{ formatted_word: "number", classification: "verb" }
-{ formatted_word: "obey", classification: "verb" }
-{ formatted_word: "object", classification: "verb" }
-{ formatted_word: "observe", classification: "verb" }
-{ formatted_word: "obtain", classification: "verb" }
-{ formatted_word: "occur", classification: "verb" }
-{ formatted_word: "offend", classification: "verb" }
-{ formatted_word: "offer", classification: "verb" }
-{ formatted_word: "ogle", classification: "verb" }
-{ formatted_word: "oil", classification: "verb" }
-{ formatted_word: "omit", classification: "verb" }
-{ formatted_word: "open", classification: "verb" }
-{ formatted_word: "operate", classification: "verb" }
-{ formatted_word: "order", classification: "verb" }
-{ formatted_word: "overflow", classification: "verb" }
-{ formatted_word: "overrun", classification: "verb" }
-{ formatted_word: "owe", classification: "verb" }
-{ formatted_word: "own", classification: "verb" }
-{ formatted_word: "pack", classification: "verb" }
-{ formatted_word: "pad", classification: "verb" }
-{ formatted_word: "paddle", classification: "verb" }
-{ formatted_word: "paint", classification: "verb" }
-{ formatted_word: "pant", classification: "verb" }
-{ formatted_word: "park", classification: "verb" }
-{ formatted_word: "part", classification: "verb" }
-{ formatted_word: "pass", classification: "verb" }
-{ formatted_word: "paste", classification: "verb" }
-{ formatted_word: "pat", classification: "verb" }
-{ formatted_word: "pause", classification: "verb" }
-{ formatted_word: "pay", classification: "verb" }
-{ formatted_word: "peck", classification: "verb" }
-{ formatted_word: "pedal", classification: "verb" }
-{ formatted_word: "peel", classification: "verb" }
-{ formatted_word: "peep", classification: "verb" }
-{ formatted_word: "peer", classification: "verb" }
-{ formatted_word: "peg", classification: "verb" }
-{ formatted_word: "pelt", classification: "verb" }
-{ formatted_word: "perform", classification: "verb" }
-{ formatted_word: "permit", classification: "verb" }
-{ formatted_word: "pester", classification: "verb" }
-{ formatted_word: "pet", classification: "verb" }
-{ formatted_word: "phone", classification: "verb" }
-{ formatted_word: "pick", classification: "verb" }
-{ formatted_word: "pinch", classification: "verb" }
-{ formatted_word: "pine", classification: "verb" }
-{ formatted_word: "place", classification: "verb" }
-{ formatted_word: "plan", classification: "verb" }
-{ formatted_word: "plant", classification: "verb" }
-{ formatted_word: "play", classification: "verb" }
-{ formatted_word: "plead", classification: "verb" }
-{ formatted_word: "please", classification: "verb" }
-{ formatted_word: "pledge", classification: "verb" }
-{ formatted_word: "plow", classification: "verb" }
-{ formatted_word: "plug", classification: "verb" }
-{ formatted_word: "point", classification: "verb" }
-{ formatted_word: "poke", classification: "verb" }
-{ formatted_word: "polish", classification: "verb" }
-{ formatted_word: "ponder", classification: "verb" }
-{ formatted_word: "pop", classification: "verb" }
-{ formatted_word: "possess", classification: "verb" }
-{ formatted_word: "post", classification: "verb" }
-{ formatted_word: "postulate", classification: "verb" }
-{ formatted_word: "pour", classification: "verb" }
-{ formatted_word: "practice", classification: "verb" }
-{ formatted_word: "pray", classification: "verb" }
-{ formatted_word: "preach", classification: "verb" }
-{ formatted_word: "precede", classification: "verb" }
-{ formatted_word: "predict", classification: "verb" }
-{ formatted_word: "prefer", classification: "verb" }
-{ formatted_word: "prepare", classification: "verb" }
-{ formatted_word: "present", classification: "verb" }
-{ formatted_word: "preserve", classification: "verb" }
-{ formatted_word: "press", classification: "verb" }
-{ formatted_word: "pretend", classification: "verb" }
-{ formatted_word: "prevent", classification: "verb" }
-{ formatted_word: "prick", classification: "verb" }
-{ formatted_word: "print", classification: "verb" }
-{ formatted_word: "proceed", classification: "verb" }
-{ formatted_word: "proclaim", classification: "verb" }
-{ formatted_word: "produce", classification: "verb" }
-{ formatted_word: "profess", classification: "verb" }
-{ formatted_word: "program", classification: "verb" }
-{ formatted_word: "promise", classification: "verb" }
-{ formatted_word: "propose", classification: "verb" }
-{ formatted_word: "protect", classification: "verb" }
-{ formatted_word: "protest", classification: "verb" }
-{ formatted_word: "provide", classification: "verb" }
-{ formatted_word: "pry", classification: "verb" }
-{ formatted_word: "pull", classification: "verb" }
-{ formatted_word: "pump", classification: "verb" }
-{ formatted_word: "punch", classification: "verb" }
-{ formatted_word: "puncture", classification: "verb" }
-{ formatted_word: "punish", classification: "verb" }
-{ formatted_word: "push", classification: "verb" }
-{ formatted_word: "put", classification: "verb" }
-{ formatted_word: "question", classification: "verb" }
-{ formatted_word: "quilt", classification: "verb" }
-{ formatted_word: "quit", classification: "verb" }
-{ formatted_word: "quiz", classification: "verb" }
-{ formatted_word: "quote", classification: "verb" }
-{ formatted_word: "race", classification: "verb" }
-{ formatted_word: "radiate", classification: "verb" }
-{ formatted_word: "rain", classification: "verb" }
-{ formatted_word: "raise", classification: "verb" }
-{ formatted_word: "rant", classification: "verb" }
-{ formatted_word: "rain", classification: "verb" }
-{ formatted_word: "rate", classification: "verb" }
-{ formatted_word: "rave", classification: "verb" }
-{ formatted_word: "reach", classification: "verb" }
-{ formatted_word: "realize", classification: "verb" }
-{ formatted_word: "read", classification: "verb" }
-{ formatted_word: "rebuff", classification: "verb" }
-{ formatted_word: "recall", classification: "verb" }
-{ formatted_word: "receive", classification: "verb" }
-{ formatted_word: "recite", classification: "verb" }
-{ formatted_word: "recognize", classification: "verb" }
-{ formatted_word: "recommend", classification: "verb" }
-{ formatted_word: "record", classification: "verb" }
-{ formatted_word: "reduce", classification: "verb" }
-{ formatted_word: "reflect", classification: "verb" }
-{ formatted_word: "refuse", classification: "verb" }
-{ formatted_word: "regret", classification: "verb" }
-{ formatted_word: "reign", classification: "verb" }
-{ formatted_word: "reiterate", classification: "verb" }
-{ formatted_word: "reject", classification: "verb" }
-{ formatted_word: "rejoice", classification: "verb" }
-{ formatted_word: "relate", classification: "verb" }
-{ formatted_word: "relax", classification: "verb" }
-{ formatted_word: "release", classification: "verb" }
-{ formatted_word: "rely", classification: "verb" }
-{ formatted_word: "remain", classification: "verb" }
-{ formatted_word: "remember", classification: "verb" }
-{ formatted_word: "remind", classification: "verb" }
-{ formatted_word: "remove", classification: "verb" }
-{ formatted_word: "repair", classification: "verb" }
-{ formatted_word: "repeat", classification: "verb" }
-{ formatted_word: "replace", classification: "verb" }
-{ formatted_word: "reply", classification: "verb" }
-{ formatted_word: "report", classification: "verb" }
-{ formatted_word: "reprimand", classification: "verb" }
-{ formatted_word: "reproduce", classification: "verb" }
-{ formatted_word: "request", classification: "verb" }
-{ formatted_word: "rescue", classification: "verb" }
-{ formatted_word: "retire", classification: "verb" }
-{ formatted_word: "retort", classification: "verb" }
-{ formatted_word: "return", classification: "verb" }
-{ formatted_word: "reveal", classification: "verb" }
-{ formatted_word: "reverse", classification: "verb" }
-{ formatted_word: "rhyme", classification: "verb" }
-{ formatted_word: "ride", classification: "verb" }
-{ formatted_word: "ring", classification: "verb" }
-{ formatted_word: "rinse", classification: "verb" }
-{ formatted_word: "rise", classification: "verb" }
-{ formatted_word: "risk", classification: "verb" }
-{ formatted_word: "roar", classification: "verb" }
-{ formatted_word: "rob", classification: "verb" }
-{ formatted_word: "rock", classification: "verb" }
-{ formatted_word: "roll", classification: "verb" }
-{ formatted_word: "rot", classification: "verb" }
-{ formatted_word: "row", classification: "verb" }
-{ formatted_word: "rub", classification: "verb" }
-{ formatted_word: "ruin", classification: "verb" }
-{ formatted_word: "rule", classification: "verb" }
-{ formatted_word: "run", classification: "verb" }
-{ formatted_word: "rush", classification: "verb" }
-{ formatted_word: "sack", classification: "verb" }
-{ formatted_word: "sail", classification: "verb" }
-{ formatted_word: "satisfy", classification: "verb" }
-{ formatted_word: "save", classification: "verb" }
-{ formatted_word: "savor", classification: "verb" }
-{ formatted_word: "saw", classification: "verb" }
-{ formatted_word: "say", classification: "verb" }
-{ formatted_word: "scare", classification: "verb" }
-{ formatted_word: "scatter", classification: "verb" }
-{ formatted_word: "scoff", classification: "verb" }
-{ formatted_word: "scold", classification: "verb" }
-{ formatted_word: "scoot", classification: "verb" }
-{ formatted_word: "scorch", classification: "verb" }
-{ formatted_word: "scrape", classification: "verb" }
-{ formatted_word: "scratch", classification: "verb" }
-{ formatted_word: "scream", classification: "verb" }
-{ formatted_word: "screech", classification: "verb" }
-{ formatted_word: "screw", classification: "verb" }
-{ formatted_word: "scribble", classification: "verb" }
-{ formatted_word: "seal", classification: "verb" }
-{ formatted_word: "search", classification: "verb" }
-{ formatted_word: "see", classification: "verb" }
-{ formatted_word: "sell", classification: "verb" }
-{ formatted_word: "send", classification: "verb" }
-{ formatted_word: "sense", classification: "verb" }
-{ formatted_word: "separate", classification: "verb" }
-{ formatted_word: "serve", classification: "verb" }
-{ formatted_word: "set", classification: "verb" }
-{ formatted_word: "settle", classification: "verb" }
-{ formatted_word: "sever", classification: "verb" }
-{ formatted_word: "sew", classification: "verb" }
-{ formatted_word: "shade", classification: "verb" }
-{ formatted_word: "shampoo", classification: "verb" }
-{ formatted_word: "share", classification: "verb" }
-{ formatted_word: "shave", classification: "verb" }
-{ formatted_word: "shelter", classification: "verb" }
-{ formatted_word: "shift", classification: "verb" }
-{ formatted_word: "shiver", classification: "verb" }
-{ formatted_word: "shock", classification: "verb" }
-{ formatted_word: "shoot", classification: "verb" }
-{ formatted_word: "shop", classification: "verb" }
-{ formatted_word: "shout", classification: "verb" }
-{ formatted_word: "show", classification: "verb" }
-{ formatted_word: "shriek", classification: "verb" }
-{ formatted_word: "shrug", classification: "verb" }
-{ formatted_word: "shut", classification: "verb" }
-{ formatted_word: "sigh", classification: "verb" }
-{ formatted_word: "sign", classification: "verb" }
-{ formatted_word: "signal", classification: "verb" }
-{ formatted_word: "sin", classification: "verb" }
-{ formatted_word: "sing", classification: "verb" }
-{ formatted_word: "singe", classification: "verb" }
-{ formatted_word: "sip", classification: "verb" }
-{ formatted_word: "sit", classification: "verb" }
-{ formatted_word: "skate", classification: "verb" }
-{ formatted_word: "skateboard", classification: "verb" }
-{ formatted_word: "sketch", classification: "verb" }
-{ formatted_word: "ski", classification: "verb" }
-{ formatted_word: "skip", classification: "verb" }
-{ formatted_word: "slap", classification: "verb" }
-{ formatted_word: "sleep", classification: "verb" }
-{ formatted_word: "slice", classification: "verb" }
-{ formatted_word: "slide", classification: "verb" }
-{ formatted_word: "slip", classification: "verb" }
-{ formatted_word: "slow", classification: "verb" }
-{ formatted_word: "smash", classification: "verb" }
-{ formatted_word: "smell", classification: "verb" }
-{ formatted_word: "smile", classification: "verb" }
-{ formatted_word: "smoke", classification: "verb" }
-{ formatted_word: "snap", classification: "verb" }
-{ formatted_word: "snarl", classification: "verb" }
-{ formatted_word: "snatch", classification: "verb" }
-{ formatted_word: "sneak", classification: "verb" }
-{ formatted_word: "sneer", classification: "verb" }
-{ formatted_word: "sneeze", classification: "verb" }
-{ formatted_word: "snicker", classification: "verb" }
-{ formatted_word: "sniff", classification: "verb" }
-{ formatted_word: "snore", classification: "verb" }
-{ formatted_word: "snort", classification: "verb" }
-{ formatted_word: "snoop", classification: "verb" }
-{ formatted_word: "snooze", classification: "verb" }
-{ formatted_word: "snow", classification: "verb" }
-{ formatted_word: "soak", classification: "verb" }
-{ formatted_word: "sob", classification: "verb" }
-{ formatted_word: "soothe", classification: "verb" }
-{ formatted_word: "sound", classification: "verb" }
-{ formatted_word: "sow", classification: "verb" }
-{ formatted_word: "span", classification: "verb" }
-{ formatted_word: "spare", classification: "verb" }
-{ formatted_word: "spark", classification: "verb" }
-{ formatted_word: "sparkle", classification: "verb" }
-{ formatted_word: "speak", classification: "verb" }
-{ formatted_word: "speculate", classification: "verb" }
-{ formatted_word: "spell", classification: "verb" }
-{ formatted_word: "spend", classification: "verb" }
-{ formatted_word: "spill", classification: "verb" }
-{ formatted_word: "spin", classification: "verb" }
-{ formatted_word: "spoil", classification: "verb" }
-{ formatted_word: "spot", classification: "verb" }
-{ formatted_word: "spray", classification: "verb" }
-{ formatted_word: "sprout", classification: "verb" }
-{ formatted_word: "sputter", classification: "verb" }
-{ formatted_word: "squash", classification: "verb" }
-{ formatted_word: "squeeze", classification: "verb" }
-{ formatted_word: "stab", classification: "verb" }
-{ formatted_word: "stain", classification: "verb" }
-{ formatted_word: "stammer", classification: "verb" }
-{ formatted_word: "stamp", classification: "verb" }
-{ formatted_word: "stand", classification: "verb" }
-{ formatted_word: "star", classification: "verb" }
-{ formatted_word: "stare", classification: "verb" }
-{ formatted_word: "start", classification: "verb" }
-{ formatted_word: "stash", classification: "verb" }
-{ formatted_word: "state", classification: "verb" }
-{ formatted_word: "stay", classification: "verb" }
-{ formatted_word: "steer", classification: "verb" }
-{ formatted_word: "step", classification: "verb" }
-{ formatted_word: "stipulate", classification: "verb" }
-{ formatted_word: "stir", classification: "verb" }
-{ formatted_word: "stitch", classification: "verb" }
-{ formatted_word: "stop", classification: "verb" }
-{ formatted_word: "store", classification: "verb" }
-{ formatted_word: "strap", classification: "verb" }
-{ formatted_word: "storm", classification: "verb" }
-{ formatted_word: "stow", classification: "verb" }
-{ formatted_word: "strengthen", classification: "verb" }
-{ formatted_word: "stress", classification: "verb" }
-{ formatted_word: "stretch", classification: "verb" }
-{ formatted_word: "strip", classification: "verb" }
-{ formatted_word: "stroke", classification: "verb" }
-{ formatted_word: "stuff", classification: "verb" }
-{ formatted_word: "stutter", classification: "verb" }
-{ formatted_word: "stray", classification: "verb" }
-{ formatted_word: "strum", classification: "verb" }
-{ formatted_word: "strut", classification: "verb" }
-{ formatted_word: "stun", classification: "verb" }
-{ formatted_word: "stunt", classification: "verb" }
-{ formatted_word: "submerge", classification: "verb" }
-{ formatted_word: "succeed", classification: "verb" }
-{ formatted_word: "suffer", classification: "verb" }
-{ formatted_word: "suggest", classification: "verb" }
-{ formatted_word: "suit", classification: "verb" }
-{ formatted_word: "supply", classification: "verb" }
-{ formatted_word: "support", classification: "verb" }
-{ formatted_word: "suppose", classification: "verb" }
-{ formatted_word: "surmise", classification: "verb" }
-{ formatted_word: "surprise", classification: "verb" }
-{ formatted_word: "surround", classification: "verb" }
-{ formatted_word: "suspect", classification: "verb" }
-{ formatted_word: "suspend", classification: "verb" }
-{ formatted_word: "sway", classification: "verb" }
-{ formatted_word: "swear", classification: "verb" }
-{ formatted_word: "swim", classification: "verb" }
-{ formatted_word: "swing", classification: "verb" }
-{ formatted_word: "switch", classification: "verb" }
-{ formatted_word: "swoop", classification: "verb" }
-{ formatted_word: "sympathize", classification: "verb" }
-{ formatted_word: "talk", classification: "verb" }
-{ formatted_word: "take", classification: "verb" }
-{ formatted_word: "tame", classification: "verb" }
-{ formatted_word: "tap", classification: "verb" }
-{ formatted_word: "taste", classification: "verb" }
-{ formatted_word: "taunt", classification: "verb" }
-{ formatted_word: "teach", classification: "verb" }
-{ formatted_word: "tear", classification: "verb" }
-{ formatted_word: "tease", classification: "verb" }
-{ formatted_word: "telephone", classification: "verb" }
-{ formatted_word: "tell", classification: "verb" }
-{ formatted_word: "tempt", classification: "verb" }
-{ formatted_word: "terrify", classification: "verb" }
-{ formatted_word: "test", classification: "verb" }
-{ formatted_word: "testify", classification: "verb" }
-{ formatted_word: "thank", classification: "verb" }
-{ formatted_word: "thaw", classification: "verb" }
-{ formatted_word: "theorize", classification: "verb" }
-{ formatted_word: "think", classification: "verb" }
-{ formatted_word: "threaten", classification: "verb" }
-{ formatted_word: "throw", classification: "verb" }
-{ formatted_word: "thunder", classification: "verb" }
-{ formatted_word: "tick", classification: "verb" }
-{ formatted_word: "tickle", classification: "verb" }
-{ formatted_word: "tie", classification: "verb" }
-{ formatted_word: "time", classification: "verb" }
-{ formatted_word: "tip", classification: "verb" }
-{ formatted_word: "tire", classification: "verb" }
-{ formatted_word: "toast", classification: "verb" }
-{ formatted_word: "toss", classification: "verb" }
-{ formatted_word: "touch", classification: "verb" }
-{ formatted_word: "tour", classification: "verb" }
-{ formatted_word: "tow", classification: "verb" }
-{ formatted_word: "trace", classification: "verb" }
-{ formatted_word: "track", classification: "verb" }
-{ formatted_word: "trade", classification: "verb" }
-{ formatted_word: "train", classification: "verb" }
-{ formatted_word: "translate", classification: "verb" }
-{ formatted_word: "transport", classification: "verb" }
-{ formatted_word: "trap", classification: "verb" }
-{ formatted_word: "travel", classification: "verb" }
-{ formatted_word: "treat", classification: "verb" }
-{ formatted_word: "tremble", classification: "verb" }
-{ formatted_word: "trick", classification: "verb" }
-{ formatted_word: "trickle", classification: "verb" }
-{ formatted_word: "trim", classification: "verb" }
-{ formatted_word: "trip", classification: "verb" }
-{ formatted_word: "trot", classification: "verb" }
-{ formatted_word: "trouble", classification: "verb" }
-{ formatted_word: "trust", classification: "verb" }
-{ formatted_word: "trounce", classification: "verb" }
-{ formatted_word: "try", classification: "verb" }
-{ formatted_word: "tug", classification: "verb" }
-{ formatted_word: "tumble", classification: "verb" }
-{ formatted_word: "turn", classification: "verb" }
-{ formatted_word: "twist", classification: "verb" }
-{ formatted_word: "type", classification: "verb" }
-{ formatted_word: "understand", classification: "verb" }
-{ formatted_word: "undress", classification: "verb" }
-{ formatted_word: "unfasten", classification: "verb" }
-{ formatted_word: "unite", classification: "verb" }
-{ formatted_word: "unlock", classification: "verb" }
-{ formatted_word: "unpack", classification: "verb" }
-{ formatted_word: "uphold", classification: "verb" }
-{ formatted_word: "upset", classification: "verb" }
-{ formatted_word: "upstage", classification: "verb" }
-{ formatted_word: "urge", classification: "verb" }
-{ formatted_word: "untie", classification: "verb" }
-{ formatted_word: "use", classification: "verb" }
-{ formatted_word: "usurp", classification: "verb" }
-{ formatted_word: "utter", classification: "verb" }
-{ formatted_word: "vacuum", classification: "verb" }
-{ formatted_word: "value", classification: "verb" }
-{ formatted_word: "vanish", classification: "verb" }
-{ formatted_word: "vanquish", classification: "verb" }
-{ formatted_word: "venture", classification: "verb" }
-{ formatted_word: "visit", classification: "verb" }
-{ formatted_word: "voice", classification: "verb" }
-{ formatted_word: "volunteer", classification: "verb" }
-{ formatted_word: "vote", classification: "verb" }
-{ formatted_word: "vouch", classification: "verb" }
-{ formatted_word: "wail", classification: "verb" }
-{ formatted_word: "wait", classification: "verb" }
-{ formatted_word: "wake", classification: "verb" }
-{ formatted_word: "walk", classification: "verb" }
-{ formatted_word: "wallow", classification: "verb" }
-{ formatted_word: "wander", classification: "verb" }
-{ formatted_word: "want", classification: "verb" }
-{ formatted_word: "warm", classification: "verb" }
-{ formatted_word: "warn", classification: "verb" }
-{ formatted_word: "wash", classification: "verb" }
-{ formatted_word: "waste", classification: "verb" }
-{ formatted_word: "watch", classification: "verb" }
-{ formatted_word: "water", classification: "verb" }
-{ formatted_word: "wave", classification: "verb" }
-{ formatted_word: "waver", classification: "verb" }
-{ formatted_word: "wear", classification: "verb" }
-{ formatted_word: "weave", classification: "verb" }
-{ formatted_word: "wed", classification: "verb" }
-{ formatted_word: "weigh", classification: "verb" }
-{ formatted_word: "welcome", classification: "verb" }
-{ formatted_word: "whimper", classification: "verb" }
-{ formatted_word: "whine", classification: "verb" }
-{ formatted_word: "whip", classification: "verb" }
-{ formatted_word: "whirl", classification: "verb" }
-{ formatted_word: "whisper", classification: "verb" }
-{ formatted_word: "whistle", classification: "verb" }
-{ formatted_word: "win", classification: "verb" }
-{ formatted_word: "wink", classification: "verb" }
-{ formatted_word: "will", classification: "verb" }
-{ formatted_word: "wipe", classification: "verb" }
-{ formatted_word: "wish", classification: "verb" }
-{ formatted_word: "wobble", classification: "verb" }
-{ formatted_word: "wonder", classification: "verb" }
-{ formatted_word: "work", classification: "verb" }
-{ formatted_word: "worry", classification: "verb" }
-{ formatted_word: "wrap", classification: "verb" }
-{ formatted_word: "wreck", classification: "verb" }
-{ formatted_word: "wrestle", classification: "verb" }
-{ formatted_word: "wriggle", classification: "verb" }
-{ formatted_word: "write", classification: "verb" }
-{ formatted_word: "writhe", classification: "verb" }
-{ formatted_word: "x-ray", classification: "verb" }
-{ formatted_word: "yawn", classification: "verb" }
-{ formatted_word: "yell", classification: "verb" }
-{ formatted_word: "yelp", classification: "verb" }
-{ formatted_word: "yield", classification: "verb" }
-{ formatted_word: "yodel", classification: "verb" }
-{ formatted_word: "zip", classification: "verb" }
-{ formatted_word: "zoom", classification: "verb" }
+{ stemmed_word: "is", classifications: [ { formatted_word: "is", classification: "verb" } ] }
+{ stemmed_word: "accept", classifications: [ { formatted_word: "accept", classification: "verb" } ] }
+{ stemmed_word: "ach", classifications: [ { formatted_word: "ache", classification: "verb" } ] }
+{ stemmed_word: "acknowledg", classifications: [ { formatted_word: "acknowledge", classification: "verb" } ] }
+{ stemmed_word: "act", classifications: [ { formatted_word: "act", classification: "verb" } ] }
+{ stemmed_word: "add", classifications: [ { formatted_word: "add", classification: "verb" } ] }
+{ stemmed_word: "admir", classifications: [ { formatted_word: "admire", classification: "verb" } ] }
+{ stemmed_word: "admit", classifications: [ { formatted_word: "admit", classification: "verb" } ] }
+{ stemmed_word: "admonish", classifications: [ { formatted_word: "admonish", classification: "verb" } ] }
+{ stemmed_word: "advis", classifications: [ { formatted_word: "advise", classification: "verb" } ] }
+{ stemmed_word: "adopt", classifications: [ { formatted_word: "adopt", classification: "verb" } ] }
+{ stemmed_word: "affirm", classifications: [ { formatted_word: "affirm", classification: "verb" } ] }
+{ stemmed_word: "afford", classifications: [ { formatted_word: "afford", classification: "verb" } ] }
+{ stemmed_word: "agre", classifications: [ { formatted_word: "agree", classification: "verb" } ] }
+{ stemmed_word: "ail", classifications: [ { formatted_word: "ail", classification: "verb" } ] }
+{ stemmed_word: "alert", classifications: [ { formatted_word: "alert", classification: "verb" } ] }
+{ stemmed_word: "alleg", classifications: [ { formatted_word: "allege", classification: "verb" } ] }
+{ stemmed_word: "allow", classifications: [ { formatted_word: "allow", classification: "verb" } ] }
+{ stemmed_word: "allud", classifications: [ { formatted_word: "allude", classification: "verb" } ] }
+{ stemmed_word: "amus", classifications: [ { formatted_word: "amuse", classification: "verb" } ] }
+{ stemmed_word: "analyz", classifications: [ { formatted_word: "analyze", classification: "verb" } ] }
+{ stemmed_word: "announc", classifications: [ { formatted_word: "announce", classification: "verb" } ] }
+{ stemmed_word: "annoy", classifications: [ { formatted_word: "annoy", classification: "verb" } ] }
+{ stemmed_word: "answer", classifications: [ { formatted_word: "answer", classification: "verb" } ] }
+{ stemmed_word: "apolog", classifications: [ { formatted_word: "apologize", classification: "verb" } ] }
+{ stemmed_word: "appeal", classifications: [ { formatted_word: "appeal", classification: "verb" } ] }
+{ stemmed_word: "appear", classifications: [ { formatted_word: "appear", classification: "verb" } ] }
+{ stemmed_word: "applaud", classifications: [ { formatted_word: "applaud", classification: "verb" } ] }
+{ stemmed_word: "appreci", classifications: [ { formatted_word: "appreciate", classification: "verb" } ] }
+{ stemmed_word: "approv", classifications: [ { formatted_word: "approve", classification: "verb" } ] }
+{ stemmed_word: "argu", classifications: [ { formatted_word: "argue", classification: "verb" } ] }
+{ stemmed_word: "arrang", classifications: [ { formatted_word: "arrange", classification: "verb" } ] }
+{ stemmed_word: "arrest", classifications: [ { formatted_word: "arrest", classification: "verb" } ] }
+{ stemmed_word: "arriv", classifications: [ { formatted_word: "arrive", classification: "verb" } ] }
+{ stemmed_word: "articul", classifications: [ { formatted_word: "articulate", classification: "verb" } ] }
+{ stemmed_word: "ask", classifications: [ { formatted_word: "ask", classification: "verb" } ] }
+{ stemmed_word: "assert", classifications: [ { formatted_word: "assert", classification: "verb" } ] }
+{ stemmed_word: "assur", classifications: [ { formatted_word: "assure", classification: "verb" } ] }
+{ stemmed_word: "attach", classifications: [ { formatted_word: "attach", classification: "verb" } ] }
+{ stemmed_word: "attack", classifications: [ { formatted_word: "attack", classification: "verb" } ] }
+{ stemmed_word: "attempt", classifications: [ { formatted_word: "attempt", classification: "verb" } ] }
+{ stemmed_word: "attend", classifications: [ { formatted_word: "attend", classification: "verb" } ] }
+{ stemmed_word: "attract", classifications: [ { formatted_word: "attract", classification: "verb" } ] }
+{ stemmed_word: "auction", classifications: [ { formatted_word: "auction", classification: "verb" } ] }
+{ stemmed_word: "avoid", classifications: [ { formatted_word: "avoid", classification: "verb" } ] }
+{ stemmed_word: "avow", classifications: [ { formatted_word: "avow", classification: "verb" } ] }
+{ stemmed_word: "awak", classifications: [ { formatted_word: "awake", classification: "verb" } ] }
+{ stemmed_word: "babbl", classifications: [ { formatted_word: "babble", classification: "verb" } ] }
+{ stemmed_word: "back", classifications: [ { formatted_word: "back", classification: "verb" } ] }
+{ stemmed_word: "bake", classifications: [ { formatted_word: "bake", classification: "verb" } ] }
+{ stemmed_word: "balanc", classifications: [ { formatted_word: "balance", classification: "verb" } ] }
+{ stemmed_word: "balk", classifications: [ { formatted_word: "balk", classification: "verb" } ] }
+{ stemmed_word: "ban", classifications: [ { formatted_word: "ban", classification: "verb" } ] }
+{ stemmed_word: "bang", classifications: [ { formatted_word: "bang", classification: "verb" } ] }
+{ stemmed_word: "bandag", classifications: [ { formatted_word: "bandage", classification: "verb" } ] }
+{ stemmed_word: "bar", classifications: [ { formatted_word: "bar", classification: "verb" } ] }
+{ stemmed_word: "bare", classifications: [ { formatted_word: "bare", classification: "verb" } ] }
+{ stemmed_word: "bargain", classifications: [ { formatted_word: "bargain", classification: "verb" } ] }
+{ stemmed_word: "bark", classifications: [ { formatted_word: "bark", classification: "verb" } ] }
+{ stemmed_word: "barrag", classifications: [ { formatted_word: "barrage", classification: "verb" } ] }
+{ stemmed_word: "barter", classifications: [ { formatted_word: "barter", classification: "verb" } ] }
+{ stemmed_word: "bast", classifications: [ { formatted_word: "baste", classification: "verb" } ] }
+{ stemmed_word: "bat", classifications: [ { formatted_word: "bat", classification: "verb" } ] }
+{ stemmed_word: "bath", classifications: [ { formatted_word: "bathe", classification: "verb" } ] }
+{ stemmed_word: "battl", classifications: [ { formatted_word: "battle", classification: "verb" } ] }
+{ stemmed_word: "bawl", classifications: [ { formatted_word: "bawl", classification: "verb" } ] }
+{ stemmed_word: "be", classifications: [ { formatted_word: "be", classification: "verb" } ] }
+{ stemmed_word: "beam", classifications: [ { formatted_word: "beam", classification: "verb" } ] }
+{ stemmed_word: "bear", classifications: [ { formatted_word: "bear", classification: "verb" } ] }
+{ stemmed_word: "beat", classifications: [ { formatted_word: "beat", classification: "verb" } ] }
+{ stemmed_word: "becom", classifications: [ { formatted_word: "become", classification: "verb" } ] }
+{ stemmed_word: "befriend", classifications: [ { formatted_word: "befriend", classification: "verb" } ] }
+{ stemmed_word: "beg", classifications: [ { formatted_word: "beg", classification: "verb" } ] }
+{ stemmed_word: "begin", classifications: [ { formatted_word: "begin", classification: "verb" } ] }
+{ stemmed_word: "behav", classifications: [ { formatted_word: "behave", classification: "verb" } ] }
+{ stemmed_word: "believ", classifications: [ { formatted_word: "believe", classification: "verb" } ] }
+{ stemmed_word: "bellow", classifications: [ { formatted_word: "bellow", classification: "verb" } ] }
+{ stemmed_word: "belong", classifications: [ { formatted_word: "belong", classification: "verb" } ] }
+{ stemmed_word: "bend", classifications: [ { formatted_word: "bend", classification: "verb" } ] }
+{ stemmed_word: "berat", classifications: [ { formatted_word: "berate", classification: "verb" } ] }
+{ stemmed_word: "besieg", classifications: [ { formatted_word: "besiege", classification: "verb" } ] }
+{ stemmed_word: "bestow", classifications: [ { formatted_word: "bestow", classification: "verb" } ] }
+{ stemmed_word: "bet", classifications: [ { formatted_word: "bet", classification: "verb" } ] }
+{ stemmed_word: "bid", classifications: [ { formatted_word: "bid", classification: "verb" } ] }
+{ stemmed_word: "bite", classifications: [ { formatted_word: "bite", classification: "verb" } ] }
+{ stemmed_word: "bleach", classifications: [ { formatted_word: "bleach", classification: "verb" } ] }
+{ stemmed_word: "bleed", classifications: [ { formatted_word: "bleed", classification: "verb" } ] }
+{ stemmed_word: "bless", classifications: [ { formatted_word: "bless", classification: "verb" } ] }
+{ stemmed_word: "blind", classifications: [ { formatted_word: "blind", classification: "verb" } ] }
+{ stemmed_word: "blink", classifications: [ { formatted_word: "blink", classification: "verb" } ] }
+{ stemmed_word: "blot", classifications: [ { formatted_word: "blot", classification: "verb" } ] }
+{ stemmed_word: "blow", classifications: [ { formatted_word: "blow", classification: "verb" } ] }
+{ stemmed_word: "blurt", classifications: [ { formatted_word: "blurt", classification: "verb" } ] }
+{ stemmed_word: "blush", classifications: [ { formatted_word: "blush", classification: "verb" } ] }
+{ stemmed_word: "boast", classifications: [ { formatted_word: "boast", classification: "verb" } ] }
+{ stemmed_word: "bob", classifications: [ { formatted_word: "bob", classification: "verb" } ] }
+{ stemmed_word: "boil", classifications: [ { formatted_word: "boil", classification: "verb" } ] }
+{ stemmed_word: "bolt", classifications: [ { formatted_word: "bolt", classification: "verb" } ] }
+{ stemmed_word: "bomb", classifications: [ { formatted_word: "bomb", classification: "verb" } ] }
+{ stemmed_word: "book", classifications: [ { formatted_word: "book", classification: "verb" } ] }
+{ stemmed_word: "bore", classifications: [ { formatted_word: "bore", classification: "verb" } ] }
+{ stemmed_word: "borrow", classifications: [ { formatted_word: "borrow", classification: "verb" } ] }
+{ stemmed_word: "bounc", classifications: [ { formatted_word: "bounce", classification: "verb" } ] }
+{ stemmed_word: "bow", classifications: [ { formatted_word: "bow", classification: "verb" } ] }
+{ stemmed_word: "box", classifications: [ { formatted_word: "box", classification: "verb" } ] }
+{ stemmed_word: "brag", classifications: [ { formatted_word: "brag", classification: "verb" } ] }
+{ stemmed_word: "brake", classifications: [ { formatted_word: "brake", classification: "verb" } ] }
+{ stemmed_word: "branch", classifications: [ { formatted_word: "branch", classification: "verb" } ] }
+{ stemmed_word: "brand", classifications: [ { formatted_word: "brand", classification: "verb" } ] }
+{ stemmed_word: "break", classifications: [ { formatted_word: "break", classification: "verb" } ] }
+{ stemmed_word: "breath", classifications: [ { formatted_word: "breathe", classification: "verb" } ] }
+{ stemmed_word: "breed", classifications: [ { formatted_word: "breed", classification: "verb" } ] }
+{ stemmed_word: "bring", classifications: [ { formatted_word: "bring", classification: "verb" } ] }
+{ stemmed_word: "broadcast", classifications: [ { formatted_word: "broadcast", classification: "verb" } ] }
+{ stemmed_word: "broil", classifications: [ { formatted_word: "broil", classification: "verb" } ] }
+{ stemmed_word: "bruis", classifications: [ { formatted_word: "bruise", classification: "verb" } ] }
+{ stemmed_word: "brush", classifications: [ { formatted_word: "brush", classification: "verb" } ] }
+{ stemmed_word: "bubbl", classifications: [ { formatted_word: "bubble", classification: "verb" } ] }
+{ stemmed_word: "build", classifications: [ { formatted_word: "build", classification: "verb" } ] }
+{ stemmed_word: "bump", classifications: [ { formatted_word: "bump", classification: "verb" } ] }
+{ stemmed_word: "burn", classifications: [ { formatted_word: "burn", classification: "verb" } ] }
+{ stemmed_word: "burnish", classifications: [ { formatted_word: "burnish", classification: "verb" } ] }
+{ stemmed_word: "buri", classifications: [ { formatted_word: "bury", classification: "verb" } ] }
+{ stemmed_word: "buy", classifications: [ { formatted_word: "buy", classification: "verb" } ] }
+{ stemmed_word: "buzz", classifications: [ { formatted_word: "buzz", classification: "verb" } ] }
+{ stemmed_word: "cajol", classifications: [ { formatted_word: "cajole", classification: "verb" } ] }
+{ stemmed_word: "calcul", classifications: [ { formatted_word: "calculate", classification: "verb" } ] }
+{ stemmed_word: "call", classifications: [ { formatted_word: "call", classification: "verb" } ] }
+{ stemmed_word: "camp", classifications: [ { formatted_word: "camp", classification: "verb" } ] }
+{ stemmed_word: "care", classifications: [ { formatted_word: "care", classification: "verb" } ] }
+{ stemmed_word: "carri", classifications: [ { formatted_word: "carry", classification: "verb" } ] }
+{ stemmed_word: "carv", classifications: [ { formatted_word: "carve", classification: "verb" } ] }
+{ stemmed_word: "caus", classifications: [ { formatted_word: "cause", classification: "verb" } ] }
+{ stemmed_word: "caution", classifications: [ { formatted_word: "caution", classification: "verb" } ] }
+{ stemmed_word: "catch", classifications: [ { formatted_word: "catch", classification: "verb" } ] }
+{ stemmed_word: "challeng", classifications: [ { formatted_word: "challenge", classification: "verb" } ] }
+{ stemmed_word: "chang", classifications: [ { formatted_word: "change", classification: "verb" } ] }
+{ stemmed_word: "chant", classifications: [ { formatted_word: "chant", classification: "verb" } ] }
+{ stemmed_word: "charg", classifications: [ { formatted_word: "charge", classification: "verb" } ] }
+{ stemmed_word: "chase", classifications: [ { formatted_word: "chase", classification: "verb" } ] }
+{ stemmed_word: "cheat", classifications: [ { formatted_word: "cheat", classification: "verb" } ] }
+{ stemmed_word: "check", classifications: [ { formatted_word: "check", classification: "verb" } ] }
+{ stemmed_word: "cheer", classifications: [ { formatted_word: "cheer", classification: "verb" } ] }
+{ stemmed_word: "chew", classifications: [ { formatted_word: "chew", classification: "verb" } ] }
+{ stemmed_word: "chide", classifications: [ { formatted_word: "chide", classification: "verb" } ] }
+{ stemmed_word: "chip", classifications: [ { formatted_word: "chip", classification: "verb" } ] }
+{ stemmed_word: "choke", classifications: [ { formatted_word: "choke", classification: "verb" } ] }
+{ stemmed_word: "chomp", classifications: [ { formatted_word: "chomp", classification: "verb" } ] }
+{ stemmed_word: "choos", classifications: [ { formatted_word: "choose", classification: "verb" } ] }
+{ stemmed_word: "chop", classifications: [ { formatted_word: "chop", classification: "verb" } ] }
+{ stemmed_word: "claim", classifications: [ { formatted_word: "claim", classification: "verb" } ] }
+{ stemmed_word: "clap", classifications: [ { formatted_word: "clap", classification: "verb" } ] }
+{ stemmed_word: "clean", classifications: [ { formatted_word: "clean", classification: "verb" } ] }
+{ stemmed_word: "clear", classifications: [ { formatted_word: "clear", classification: "verb" } ] }
+{ stemmed_word: "climb", classifications: [ { formatted_word: "climb", classification: "verb" } ] }
+{ stemmed_word: "clip", classifications: [ { formatted_word: "clip", classification: "verb" } ] }
+{ stemmed_word: "close", classifications: [ { formatted_word: "close", classification: "verb" } ] }
+{ stemmed_word: "coach", classifications: [ { formatted_word: "coach", classification: "verb" } ] }
+{ stemmed_word: "coil", classifications: [ { formatted_word: "coil", classification: "verb" } ] }
+{ stemmed_word: "collect", classifications: [ { formatted_word: "collect", classification: "verb" } ] }
+{ stemmed_word: "color", classifications: [ { formatted_word: "color", classification: "verb" } ] }
+{ stemmed_word: "comb", classifications: [ { formatted_word: "comb", classification: "verb" } ] }
+{ stemmed_word: "come", classifications: [ { formatted_word: "come", classification: "verb" } ] }
+{ stemmed_word: "comfort", classifications: [ { formatted_word: "comfort", classification: "verb" } ] }
+{ stemmed_word: "command", classifications: [ { formatted_word: "command", classification: "verb" } ] }
+{ stemmed_word: "comment", classifications: [ { formatted_word: "comment", classification: "verb" } ] }
+{ stemmed_word: "communic", classifications: [ { formatted_word: "communicate", classification: "verb" } ] }
+{ stemmed_word: "compar", classifications: [ { formatted_word: "compare", classification: "verb" } ] }
+{ stemmed_word: "compet", classifications: [ { formatted_word: "compete", classification: "verb" } ] }
+{ stemmed_word: "complain", classifications: [ { formatted_word: "complain", classification: "verb" } ] }
+{ stemmed_word: "complet", classifications: [ { formatted_word: "complete", classification: "verb" } ] }
+{ stemmed_word: "conced", classifications: [ { formatted_word: "concede", classification: "verb" } ] }
+{ stemmed_word: "concentr", classifications: [ { formatted_word: "concentrate", classification: "verb" } ] }
+{ stemmed_word: "concern", classifications: [ { formatted_word: "concern", classification: "verb" } ] }
+{ stemmed_word: "conclud", classifications: [ { formatted_word: "conclude", classification: "verb" } ] }
+{ stemmed_word: "concur", classifications: [ { formatted_word: "concur", classification: "verb" } ] }
+{ stemmed_word: "confess", classifications: [ { formatted_word: "confess", classification: "verb" } ] }
+{ stemmed_word: "confid", classifications: [ { formatted_word: "confide", classification: "verb" } ] }
+{ stemmed_word: "confirm", classifications: [ { formatted_word: "confirm", classification: "verb" } ] }
+{ stemmed_word: "connect", classifications: [ { formatted_word: "connect", classification: "verb" } ] }
+{ stemmed_word: "consent", classifications: [ { formatted_word: "consent", classification: "verb" } ] }
+{ stemmed_word: "consid", classifications: [ { formatted_word: "consider", classification: "verb" } ] }
+{ stemmed_word: "consist", classifications: [ { formatted_word: "consist", classification: "verb" } ] }
+{ stemmed_word: "contain", classifications: [ { formatted_word: "contain", classification: "verb" } ] }
+{ stemmed_word: "contend", classifications: [ { formatted_word: "contend", classification: "verb" } ] }
+{ stemmed_word: "continu", classifications: [ { formatted_word: "continue", classification: "verb" } ] }
+{ stemmed_word: "cook", classifications: [ { formatted_word: "cook", classification: "verb" } ] }
+{ stemmed_word: "copi", classifications: [ { formatted_word: "copy", classification: "verb" } ] }
+{ stemmed_word: "correct", classifications: [ { formatted_word: "correct", classification: "verb" } ] }
+{ stemmed_word: "cost", classifications: [ { formatted_word: "cost", classification: "verb" } ] }
+{ stemmed_word: "cough", classifications: [ { formatted_word: "cough", classification: "verb" } ] }
+{ stemmed_word: "count", classifications: [ { formatted_word: "count", classification: "verb" } ] }
+{ stemmed_word: "counter", classifications: [ { formatted_word: "counter", classification: "verb" } ] }
+{ stemmed_word: "cover", classifications: [ { formatted_word: "cover", classification: "verb" } ] }
+{ stemmed_word: "covet", classifications: [ { formatted_word: "covet", classification: "verb" } ] }
+{ stemmed_word: "crack", classifications: [ { formatted_word: "crack", classification: "verb" } ] }
+{ stemmed_word: "crash", classifications: [ { formatted_word: "crash", classification: "verb" } ] }
+{ stemmed_word: "crave", classifications: [ { formatted_word: "crave", classification: "verb" } ] }
+{ stemmed_word: "crawl", classifications: [ { formatted_word: "crawl", classification: "verb" } ] }
+{ stemmed_word: "crochet", classifications: [ { formatted_word: "crochet", classification: "verb" } ] }
+{ stemmed_word: "cross", classifications: [ { formatted_word: "cross", classification: "verb" } ] }
+{ stemmed_word: "critic", classifications: [ { formatted_word: "criticize", classification: "verb" } ] }
+{ stemmed_word: "croak", classifications: [ { formatted_word: "croak", classification: "verb" } ] }
+{ stemmed_word: "cross-examin", classifications: [ { formatted_word: "cross-examine", classification: "verb" } ] }
+{ stemmed_word: "crowd", classifications: [ { formatted_word: "crowd", classification: "verb" } ] }
+{ stemmed_word: "crush", classifications: [ { formatted_word: "crush", classification: "verb" } ] }
+{ stemmed_word: "cri", classifications: [ { formatted_word: "cry", classification: "verb" } ] }
+{ stemmed_word: "cure", classifications: [ { formatted_word: "cure", classification: "verb" } ] }
+{ stemmed_word: "curl", classifications: [ { formatted_word: "curl", classification: "verb" } ] }
+{ stemmed_word: "curs", classifications: [ { formatted_word: "curse", classification: "verb" } ] }
+{ stemmed_word: "curv", classifications: [ { formatted_word: "curve", classification: "verb" } ] }
+{ stemmed_word: "cut", classifications: [ { formatted_word: "cut", classification: "verb" } ] }
+{ stemmed_word: "cycl", classifications: [ { formatted_word: "cycle", classification: "verb" } ] }
+{ stemmed_word: "dam", classifications: [ { formatted_word: "dam", classification: "verb" } ] }
+{ stemmed_word: "damag", classifications: [ { formatted_word: "damage", classification: "verb" } ] }
+{ stemmed_word: "danc", classifications: [ { formatted_word: "dance", classification: "verb" } ] }
+{ stemmed_word: "dare", classifications: [ { formatted_word: "dare", classification: "verb" } ] }
+{ stemmed_word: "deal", classifications: [ { formatted_word: "deal", classification: "verb" } ] }
+{ stemmed_word: "debat", classifications: [ { formatted_word: "debate", classification: "verb" } ] }
+{ stemmed_word: "decay", classifications: [ { formatted_word: "decay", classification: "verb" } ] }
+{ stemmed_word: "deceiv", classifications: [ { formatted_word: "deceive", classification: "verb" } ] }
+{ stemmed_word: "decid", classifications: [ { formatted_word: "decide", classification: "verb" } ] }
+{ stemmed_word: "deciph", classifications: [ { formatted_word: "decipher", classification: "verb" } ] }
+{ stemmed_word: "declar", classifications: [ { formatted_word: "declare", classification: "verb" } ] }
+{ stemmed_word: "decor", classifications: [ { formatted_word: "decorate", classification: "verb" } ] }
+{ stemmed_word: "delay", classifications: [ { formatted_word: "delay", classification: "verb" } ] }
+{ stemmed_word: "delight", classifications: [ { formatted_word: "delight", classification: "verb" } ] }
+{ stemmed_word: "deliv", classifications: [ { formatted_word: "deliver", classification: "verb" } ] }
+{ stemmed_word: "demand", classifications: [ { formatted_word: "demand", classification: "verb" } ] }
+{ stemmed_word: "deni", classifications: [ { formatted_word: "deny", classification: "verb" } ] }
+{ stemmed_word: "depend", classifications: [ { formatted_word: "depend", classification: "verb" } ] }
+{ stemmed_word: "describ", classifications: [ { formatted_word: "describe", classification: "verb" } ] }
+{ stemmed_word: "desert", classifications: [ { formatted_word: "desert", classification: "verb" } ] }
+{ stemmed_word: "deserv", classifications: [ { formatted_word: "deserve", classification: "verb" } ] }
+{ stemmed_word: "desir", classifications: [ { formatted_word: "desire", classification: "verb" } ] }
+{ stemmed_word: "deter", classifications: [ { formatted_word: "deter", classification: "verb" } ] }
+{ stemmed_word: "develop", classifications: [ { formatted_word: "develop", classification: "verb" } ] }
+{ stemmed_word: "dial", classifications: [ { formatted_word: "dial", classification: "verb" } ] }
+{ stemmed_word: "dictat", classifications: [ { formatted_word: "dictate", classification: "verb" } ] }
+{ stemmed_word: "die", classifications: [ { formatted_word: "die", classification: "verb" } ] }
+{ stemmed_word: "dig", classifications: [ { formatted_word: "dig", classification: "verb" } ] }
+{ stemmed_word: "digress", classifications: [ { formatted_word: "digress", classification: "verb" } ] }
+{ stemmed_word: "direct", classifications: [ { formatted_word: "direct", classification: "verb" } ] }
+{ stemmed_word: "disclos", classifications: [ { formatted_word: "disclose", classification: "verb" } ] }
+{ stemmed_word: "dislik", classifications: [ { formatted_word: "dislike", classification: "verb" } ] }
+{ stemmed_word: "dive", classifications: [ { formatted_word: "dive", classification: "verb" } ] }
+{ stemmed_word: "divid", classifications: [ { formatted_word: "divide", classification: "verb" } ] }
+{ stemmed_word: "divorc", classifications: [ { formatted_word: "divorce", classification: "verb" } ] }
+{ stemmed_word: "divulg", classifications: [ { formatted_word: "divulge", classification: "verb" } ] }
+{ stemmed_word: "do", classifications: [ { formatted_word: "do", classification: "verb" } ] }
+{ stemmed_word: "dock", classifications: [ { formatted_word: "dock", classification: "verb" } ] }
+{ stemmed_word: "dole", classifications: [ { formatted_word: "dole", classification: "verb" } ] }
+{ stemmed_word: "dote", classifications: [ { formatted_word: "dote", classification: "verb" } ] }
+{ stemmed_word: "doubl", classifications: [ { formatted_word: "double", classification: "verb" } ] }
+{ stemmed_word: "doubt", classifications: [ { formatted_word: "doubt", classification: "verb" } ] }
+{ stemmed_word: "drag", classifications: [ { formatted_word: "drag", classification: "verb" } ] }
+{ stemmed_word: "drain", classifications: [ { formatted_word: "drain", classification: "verb" } ] }
+{ stemmed_word: "draw", classifications: [ { formatted_word: "draw", classification: "verb" } ] }
+{ stemmed_word: "dream", classifications: [ { formatted_word: "dream", classification: "verb" } ] }
+{ stemmed_word: "dress", classifications: [ { formatted_word: "dress", classification: "verb" } ] }
+{ stemmed_word: "drip", classifications: [ { formatted_word: "drip", classification: "verb" } ] }
+{ stemmed_word: "drill", classifications: [ { formatted_word: "drill", classification: "verb" } ] }
+{ stemmed_word: "drink", classifications: [ { formatted_word: "drink", classification: "verb" } ] }
+{ stemmed_word: "drive", classifications: [ { formatted_word: "drive", classification: "verb" } ] }
+{ stemmed_word: "drone", classifications: [ { formatted_word: "drone", classification: "verb" } ] }
+{ stemmed_word: "drop", classifications: [ { formatted_word: "drop", classification: "verb" } ] }
+{ stemmed_word: "drown", classifications: [ { formatted_word: "drown", classification: "verb" } ] }
+{ stemmed_word: "dri", classifications: [ { formatted_word: "dry", classification: "verb" } ] }
+{ stemmed_word: "dupe", classifications: [ { formatted_word: "dupe", classification: "verb" } ] }
+{ stemmed_word: "dump", classifications: [ { formatted_word: "dump", classification: "verb" } ] }
+{ stemmed_word: "dust", classifications: [ { formatted_word: "dust", classification: "verb" } ] }
+{ stemmed_word: "dye", classifications: [ { formatted_word: "dye", classification: "verb" } ] }
+{ stemmed_word: "earn", classifications: [ { formatted_word: "earn", classification: "verb" } ] }
+{ stemmed_word: "eat", classifications: [ { formatted_word: "eat", classification: "verb" } ] }
+{ stemmed_word: "echo", classifications: [ { formatted_word: "echo", classification: "verb" } ] }
+{ stemmed_word: "edit", classifications: [ { formatted_word: "edit", classification: "verb" } ] }
+{ stemmed_word: "educ", classifications: [ { formatted_word: "educate", classification: "verb" } ] }
+{ stemmed_word: "elop", classifications: [ { formatted_word: "elope", classification: "verb" } ] }
+{ stemmed_word: "embarrass", classifications: [ { formatted_word: "embarrass", classification: "verb" } ] }
+{ stemmed_word: "emigr", classifications: [ { formatted_word: "emigrate", classification: "verb" } ] }
+{ stemmed_word: "emit", classifications: [ { formatted_word: "emit", classification: "verb" } ] }
+{ stemmed_word: "emphas", classifications: [ { formatted_word: "emphasize", classification: "verb" } ] }
+{ stemmed_word: "employ", classifications: [ { formatted_word: "employ", classification: "verb" } ] }
+{ stemmed_word: "empti", classifications: [ { formatted_word: "empty", classification: "verb" } ] }
+{ stemmed_word: "enchant", classifications: [ { formatted_word: "enchant", classification: "verb" } ] }
+{ stemmed_word: "encod", classifications: [ { formatted_word: "encode", classification: "verb" } ] }
+{ stemmed_word: "encourag", classifications: [ { formatted_word: "encourage", classification: "verb" } ] }
+{ stemmed_word: "end", classifications: [ { formatted_word: "end", classification: "verb" } ] }
+{ stemmed_word: "enjoin", classifications: [ { formatted_word: "enjoin", classification: "verb" } ] }
+{ stemmed_word: "enjoy", classifications: [ { formatted_word: "enjoy", classification: "verb" } ] }
+{ stemmed_word: "enter", classifications: [ { formatted_word: "enter", classification: "verb" } ] }
+{ stemmed_word: "entertain", classifications: [ { formatted_word: "entertain", classification: "verb" } ] }
+{ stemmed_word: "enunci", classifications: [ { formatted_word: "enunciate", classification: "verb" } ] }
+{ stemmed_word: "envi", classifications: [ { formatted_word: "envy", classification: "verb" } ] }
+{ stemmed_word: "equivoc", classifications: [ { formatted_word: "equivocate", classification: "verb" } ] }
+{ stemmed_word: "escap", classifications: [ { formatted_word: "escape", classification: "verb" } ] }
+{ stemmed_word: "evacu", classifications: [ { formatted_word: "evacuate", classification: "verb" } ] }
+{ stemmed_word: "evapor", classifications: [ { formatted_word: "evaporate", classification: "verb" } ] }
+{ stemmed_word: "exagger", classifications: [ { formatted_word: "exaggerate", classification: "verb" } ] }
+{ stemmed_word: "examin", classifications: [ { formatted_word: "examine", classification: "verb" } ] }
+{ stemmed_word: "excit", classifications: [ { formatted_word: "excite", classification: "verb" } ] }
+{ stemmed_word: "exclaim", classifications: [ { formatted_word: "exclaim", classification: "verb" } ] }
+{ stemmed_word: "excus", classifications: [ { formatted_word: "excuse", classification: "verb" } ] }
+{ stemmed_word: "exercis", classifications: [ { formatted_word: "exercise", classification: "verb" } ] }
+{ stemmed_word: "exist", classifications: [ { formatted_word: "exist", classification: "verb" } ] }
+{ stemmed_word: "expand", classifications: [ { formatted_word: "expand", classification: "verb" } ] }
+{ stemmed_word: "expect", classifications: [ { formatted_word: "expect", classification: "verb" } ] }
+{ stemmed_word: "expel", classifications: [ { formatted_word: "expel", classification: "verb" } ] }
+{ stemmed_word: "exhort", classifications: [ { formatted_word: "exhort", classification: "verb" } ] }
+{ stemmed_word: "explain", classifications: [ { formatted_word: "explain", classification: "verb" } ] }
+{ stemmed_word: "explod", classifications: [ { formatted_word: "explode", classification: "verb" } ] }
+{ stemmed_word: "explor", classifications: [ { formatted_word: "explore", classification: "verb" } ] }
+{ stemmed_word: "extend", classifications: [ { formatted_word: "extend", classification: "verb" } ] }
+{ stemmed_word: "extol", classifications: [ { formatted_word: "extoll", classification: "verb" } ] }
+{ stemmed_word: "face", classifications: [ { formatted_word: "face", classification: "verb" } ] }
+{ stemmed_word: "fade", classifications: [ { formatted_word: "fade", classification: "verb" } ] }
+{ stemmed_word: "fail", classifications: [ { formatted_word: "fail", classification: "verb" } ] }
+{ stemmed_word: "fall", classifications: [ { formatted_word: "fall", classification: "verb" } ] }
+{ stemmed_word: "falter", classifications: [ { formatted_word: "falter", classification: "verb" } ] }
+{ stemmed_word: "fasten", classifications: [ { formatted_word: "fasten", classification: "verb" } ] }
+{ stemmed_word: "favor", classifications: [ { formatted_word: "favor", classification: "verb" } ] }
+{ stemmed_word: "fax", classifications: [ { formatted_word: "fax", classification: "verb" } ] }
+{ stemmed_word: "fear", classifications: [ { formatted_word: "fear", classification: "verb" } ] }
+{ stemmed_word: "feed", classifications: [ { formatted_word: "feed", classification: "verb" } ] }
+{ stemmed_word: "feel", classifications: [ { formatted_word: "feel", classification: "verb" } ] }
+{ stemmed_word: "fenc", classifications: [ { formatted_word: "fence", classification: "verb" } ] }
+{ stemmed_word: "fetch", classifications: [ { formatted_word: "fetch", classification: "verb" } ] }
+{ stemmed_word: "fight", classifications: [ { formatted_word: "fight", classification: "verb" } ] }
+{ stemmed_word: "file", classifications: [ { formatted_word: "file", classification: "verb" } ] }
+{ stemmed_word: "fill", classifications: [ { formatted_word: "fill", classification: "verb" } ] }
+{ stemmed_word: "film", classifications: [ { formatted_word: "film", classification: "verb" } ] }
+{ stemmed_word: "find", classifications: [ { formatted_word: "find", classification: "verb" } ] }
+{ stemmed_word: "fire", classifications: [ { formatted_word: "fire", classification: "verb" } ] }
+{ stemmed_word: "fish", classifications: [ { formatted_word: "fish", classification: "verb" } ] }
+{ stemmed_word: "fit", classifications: [ { formatted_word: "fit", classification: "verb" } ] }
+{ stemmed_word: "fix", classifications: [ { formatted_word: "fix", classification: "verb" } ] }
+{ stemmed_word: "flap", classifications: [ { formatted_word: "flap", classification: "verb" } ] }
+{ stemmed_word: "flash", classifications: [ { formatted_word: "flash", classification: "verb" } ] }
+{ stemmed_word: "flee", classifications: [ { formatted_word: "flee", classification: "verb" } ] }
+{ stemmed_word: "float", classifications: [ { formatted_word: "float", classification: "verb" } ] }
+{ stemmed_word: "flood", classifications: [ { formatted_word: "flood", classification: "verb" } ] }
+{ stemmed_word: "floss", classifications: [ { formatted_word: "floss", classification: "verb" } ] }
+{ stemmed_word: "flow", classifications: [ { formatted_word: "flow", classification: "verb" } ] }
+{ stemmed_word: "flower", classifications: [ { formatted_word: "flower", classification: "verb" } ] }
+{ stemmed_word: "fli", classifications: [ { formatted_word: "fly", classification: "verb" } ] }
+{ stemmed_word: "fold", classifications: [ { formatted_word: "fold", classification: "verb" } ] }
+{ stemmed_word: "follow", classifications: [ { formatted_word: "follow", classification: "verb" } ] }
+{ stemmed_word: "fool", classifications: [ { formatted_word: "fool", classification: "verb" } ] }
+{ stemmed_word: "forc", classifications: [ { formatted_word: "force", classification: "verb" } ] }
+{ stemmed_word: "foretel", classifications: [ { formatted_word: "foretell", classification: "verb" } ] }
+{ stemmed_word: "forget", classifications: [ { formatted_word: "forget", classification: "verb" } ] }
+{ stemmed_word: "forgiv", classifications: [ { formatted_word: "forgive", classification: "verb" } ] }
+{ stemmed_word: "form", classifications: [ { formatted_word: "form", classification: "verb" } ] }
+{ stemmed_word: "found", classifications: [ { formatted_word: "found", classification: "verb" } ] }
+{ stemmed_word: "frame", classifications: [ { formatted_word: "frame", classification: "verb" } ] }
+{ stemmed_word: "freez", classifications: [ { formatted_word: "freeze", classification: "verb" } ] }
+{ stemmed_word: "fret", classifications: [ { formatted_word: "fret", classification: "verb" } ] }
+{ stemmed_word: "frighten", classifications: [ { formatted_word: "frighten", classification: "verb" } ] }
+{ stemmed_word: "fri", classifications: [ { formatted_word: "fry", classification: "verb" } ] }
+{ stemmed_word: "fume", classifications: [ { formatted_word: "fume", classification: "verb" } ] }
+{ stemmed_word: "garden", classifications: [ { formatted_word: "garden", classification: "verb" } ] }
+{ stemmed_word: "gasp", classifications: [ { formatted_word: "gasp", classification: "verb" } ] }
+{ stemmed_word: "gather", classifications: [ { formatted_word: "gather", classification: "verb" } ] }
+{ stemmed_word: "gaze", classifications: [ { formatted_word: "gaze", classification: "verb" } ] }
+{ stemmed_word: "gel", classifications: [ { formatted_word: "gel", classification: "verb" } ] }
+{ stemmed_word: "get", classifications: [ { formatted_word: "get", classification: "verb" } ] }
+{ stemmed_word: "gild", classifications: [ { formatted_word: "gild", classification: "verb" } ] }
+{ stemmed_word: "give", classifications: [ { formatted_word: "give", classification: "verb" } ] }
+{ stemmed_word: "glide", classifications: [ { formatted_word: "glide", classification: "verb" } ] }
+{ stemmed_word: "glue", classifications: [ { formatted_word: "glue", classification: "verb" } ] }
+{ stemmed_word: "gnaw", classifications: [ { formatted_word: "gnaw", classification: "verb" } ] }
+{ stemmed_word: "go", classifications: [ { formatted_word: "go", classification: "verb" } ] }
+{ stemmed_word: "grab", classifications: [ { formatted_word: "grab", classification: "verb" } ] }
+{ stemmed_word: "grate", classifications: [ { formatted_word: "grate", classification: "verb" } ] }
+{ stemmed_word: "greas", classifications: [ { formatted_word: "grease", classification: "verb" } ] }
+{ stemmed_word: "greet", classifications: [ { formatted_word: "greet", classification: "verb" } ] }
+{ stemmed_word: "grill", classifications: [ { formatted_word: "grill", classification: "verb" } ] }
+{ stemmed_word: "grin", classifications: [ { formatted_word: "grin", classification: "verb" } ] }
+{ stemmed_word: "grip", classifications: [ { formatted_word: "grip", classification: "verb" } ] }
+{ stemmed_word: "groan", classifications: [ { formatted_word: "groan", classification: "verb" } ] }
+{ stemmed_word: "grow", classifications: [ { formatted_word: "grow", classification: "verb" } ] }
+{ stemmed_word: "growl", classifications: [ { formatted_word: "growl", classification: "verb" } ] }
+{ stemmed_word: "grumbl", classifications: [ { formatted_word: "grumble", classification: "verb" } ] }
+{ stemmed_word: "grunt", classifications: [ { formatted_word: "grunt", classification: "verb" } ] }
+{ stemmed_word: "guarante", classifications: [ { formatted_word: "guarantee", classification: "verb" } ] }
+{ stemmed_word: "guard", classifications: [ { formatted_word: "guard", classification: "verb" } ] }
+{ stemmed_word: "guess", classifications: [ { formatted_word: "guess", classification: "verb" } ] }
+{ stemmed_word: "guid", classifications: [ { formatted_word: "guide", classification: "verb" } ] }
+{ stemmed_word: "gurgl", classifications: [ { formatted_word: "gurgle", classification: "verb" } ] }
+{ stemmed_word: "gush", classifications: [ { formatted_word: "gush", classification: "verb" } ] }
+{ stemmed_word: "hail", classifications: [ { formatted_word: "hail", classification: "verb" } ] }
+{ stemmed_word: "hammer", classifications: [ { formatted_word: "hammer", classification: "verb" } ] }
+{ stemmed_word: "hand", classifications: [ { formatted_word: "hand", classification: "verb" } ] }
+{ stemmed_word: "handl", classifications: [ { formatted_word: "handle", classification: "verb" } ] }
+{ stemmed_word: "hang", classifications: [ { formatted_word: "hang", classification: "verb" } ] }
+{ stemmed_word: "happen", classifications: [ { formatted_word: "happen", classification: "verb" } ] }
+{ stemmed_word: "harass", classifications: [ { formatted_word: "harass", classification: "verb" } ] }
+{ stemmed_word: "harm", classifications: [ { formatted_word: "harm", classification: "verb" } ] }
+{ stemmed_word: "har", classifications: [ { formatted_word: "harness", classification: "verb" } ] }
+{ stemmed_word: "hate", classifications: [ { formatted_word: "hate", classification: "verb" } ] }
+{ stemmed_word: "haunt", classifications: [ { formatted_word: "haunt", classification: "verb" } ] }
+{ stemmed_word: "have", classifications: [ { formatted_word: "have", classification: "verb" } ] }
+{ stemmed_word: "head", classifications: [ { formatted_word: "head", classification: "verb" } ] }
+{ stemmed_word: "heal", classifications: [ { formatted_word: "heal", classification: "verb" } ] }
+{ stemmed_word: "heap", classifications: [ { formatted_word: "heap", classification: "verb" } ] }
+{ stemmed_word: "hear", classifications: [ { formatted_word: "hear", classification: "verb" } ] }
+{ stemmed_word: "heat", classifications: [ { formatted_word: "heat", classification: "verb" } ] }
+{ stemmed_word: "help", classifications: [ { formatted_word: "help", classification: "verb" } ] }
+{ stemmed_word: "hide", classifications: [ { formatted_word: "hide", classification: "verb" } ] }
+{ stemmed_word: "highlight", classifications: [ { formatted_word: "highlight", classification: "verb" } ] }
+{ stemmed_word: "hijack", classifications: [ { formatted_word: "hijack", classification: "verb" } ] }
+{ stemmed_word: "hinder", classifications: [ { formatted_word: "hinder", classification: "verb" } ] }
+{ stemmed_word: "hint", classifications: [ { formatted_word: "hint", classification: "verb" } ] }
+{ stemmed_word: "hiss", classifications: [ { formatted_word: "hiss", classification: "verb" } ] }
+{ stemmed_word: "hit", classifications: [ { formatted_word: "hit", classification: "verb" } ] }
+{ stemmed_word: "hold", classifications: [ { formatted_word: "hold", classification: "verb" } ] }
+{ stemmed_word: "hook", classifications: [ { formatted_word: "hook", classification: "verb" } ] }
+{ stemmed_word: "hoot", classifications: [ { formatted_word: "hoot", classification: "verb" } ] }
+{ stemmed_word: "hop", classifications: [ { formatted_word: "hop", classification: "verb" } ] }
+{ stemmed_word: "hope", classifications: [ { formatted_word: "hope", classification: "verb" } ] }
+{ stemmed_word: "hover", classifications: [ { formatted_word: "hover", classification: "verb" } ] }
+{ stemmed_word: "howl", classifications: [ { formatted_word: "howl", classification: "verb" } ] }
+{ stemmed_word: "hug", classifications: [ { formatted_word: "hug", classification: "verb" } ] }
+{ stemmed_word: "hum", classifications: [ { formatted_word: "hum", classification: "verb" } ] }
+{ stemmed_word: "hunt", classifications: [ { formatted_word: "hunt", classification: "verb" } ] }
+{ stemmed_word: "hurri", classifications: [ { formatted_word: "hurry", classification: "verb" } ] }
+{ stemmed_word: "hurt", classifications: [ { formatted_word: "hurt", classification: "verb" } ] }
+{ stemmed_word: "ice", classifications: [ { formatted_word: "ice", classification: "verb" } ] }
+{ stemmed_word: "identifi", classifications: [ { formatted_word: "identify", classification: "verb" } ] }
+{ stemmed_word: "ignor", classifications: [ { formatted_word: "ignore", classification: "verb" } ] }
+{ stemmed_word: "imagin", classifications: [ { formatted_word: "imagine", classification: "verb" } ] }
+{ stemmed_word: "immigr", classifications: [ { formatted_word: "immigrate", classification: "verb" } ] }
+{ stemmed_word: "impli", classifications: [ { formatted_word: "imply", classification: "verb" } ] }
+{ stemmed_word: "implor", classifications: [ { formatted_word: "implore", classification: "verb" } ] }
+{ stemmed_word: "impress", classifications: [ { formatted_word: "impress", classification: "verb" } ] }
+{ stemmed_word: "improv", classifications: [ { formatted_word: "improve", classification: "verb" } ] }
+{ stemmed_word: "includ", classifications: [ { formatted_word: "include", classification: "verb" } ] }
+{ stemmed_word: "increas", classifications: [ { formatted_word: "increase", classification: "verb" } ] }
+{ stemmed_word: "infect", classifications: [ { formatted_word: "infect", classification: "verb" } ] }
+{ stemmed_word: "inflat", classifications: [ { formatted_word: "inflate", classification: "verb" } ] }
+{ stemmed_word: "influenc", classifications: [ { formatted_word: "influence", classification: "verb" } ] }
+{ stemmed_word: "inform", classifications: [ { formatted_word: "inform", classification: "verb" } ] }
+{ stemmed_word: "infus", classifications: [ { formatted_word: "infuse", classification: "verb" } ] }
+{ stemmed_word: "inject", classifications: [ { formatted_word: "inject", classification: "verb" } ] }
+{ stemmed_word: "injur", classifications: [ { formatted_word: "injure", classification: "verb" } ] }
+{ stemmed_word: "inquir", classifications: [ { formatted_word: "inquire", classification: "verb" } ] }
+{ stemmed_word: "insist", classifications: [ { formatted_word: "insist", classification: "verb" } ] }
+{ stemmed_word: "inspect", classifications: [ { formatted_word: "inspect", classification: "verb" } ] }
+{ stemmed_word: "inspir", classifications: [ { formatted_word: "inspire", classification: "verb" } ] }
+{ stemmed_word: "instruct", classifications: [ { formatted_word: "instruct", classification: "verb" } ] }
+{ stemmed_word: "intend", classifications: [ { formatted_word: "intend", classification: "verb" } ] }
+{ stemmed_word: "interest", classifications: [ { formatted_word: "interest", classification: "verb" } ] }
+{ stemmed_word: "interfer", classifications: [ { formatted_word: "interfere", classification: "verb" } ] }
+{ stemmed_word: "interject", classifications: [ { formatted_word: "interject", classification: "verb" } ] }
+{ stemmed_word: "interrupt", classifications: [ { formatted_word: "interrupt", classification: "verb" } ] }
+{ stemmed_word: "introduc", classifications: [ { formatted_word: "introduce", classification: "verb" } ] }
+{ stemmed_word: "invent", classifications: [ { formatted_word: "invent", classification: "verb" } ] }
+{ stemmed_word: "invest", classifications: [ { formatted_word: "invest", classification: "verb" } ] }
+{ stemmed_word: "invit", classifications: [ { formatted_word: "invite", classification: "verb" } ] }
+{ stemmed_word: "irrit", classifications: [ { formatted_word: "irritate", classification: "verb" } ] }
+{ stemmed_word: "iron", classifications: [ { formatted_word: "iron", classification: "verb" } ] }
+{ stemmed_word: "itch", classifications: [ { formatted_word: "itch", classification: "verb" } ] }
+{ stemmed_word: "jab", classifications: [ { formatted_word: "jab", classification: "verb" } ] }
+{ stemmed_word: "jabber", classifications: [ { formatted_word: "jabber", classification: "verb" } ] }
+{ stemmed_word: "jail", classifications: [ { formatted_word: "jail", classification: "verb" } ] }
+{ stemmed_word: "jam", classifications: [ { formatted_word: "jam", classification: "verb" } ] }
+{ stemmed_word: "jeer", classifications: [ { formatted_word: "jeer", classification: "verb" } ] }
+{ stemmed_word: "jest", classifications: [ { formatted_word: "jest", classification: "verb" } ] }
+{ stemmed_word: "jog", classifications: [ { formatted_word: "jog", classification: "verb" } ] }
+{ stemmed_word: "join", classifications: [ { formatted_word: "join", classification: "verb" } ] }
+{ stemmed_word: "joke", classifications: [ { formatted_word: "joke", classification: "verb" } ] }
+{ stemmed_word: "jolt", classifications: [ { formatted_word: "jolt", classification: "verb" } ] }
+{ stemmed_word: "judg", classifications: [ { formatted_word: "judge", classification: "verb" } ] }
+{ stemmed_word: "juggl", classifications: [ { formatted_word: "juggle", classification: "verb" } ] }
+{ stemmed_word: "jump", classifications: [ { formatted_word: "jump", classification: "verb" } ] }
+{ stemmed_word: "keep", classifications: [ { formatted_word: "keep", classification: "verb" } ] }
+{ stemmed_word: "kick", classifications: [ { formatted_word: "kick", classification: "verb" } ] }
+{ stemmed_word: "kill", classifications: [ { formatted_word: "kill", classification: "verb" } ] }
+{ stemmed_word: "kiss", classifications: [ { formatted_word: "kiss", classification: "verb" } ] }
+{ stemmed_word: "kneel", classifications: [ { formatted_word: "kneel", classification: "verb" } ] }
+{ stemmed_word: "knit", classifications: [ { formatted_word: "knit", classification: "verb" } ] }
+{ stemmed_word: "knock", classifications: [ { formatted_word: "knock", classification: "verb" } ] }
+{ stemmed_word: "knot", classifications: [ { formatted_word: "knot", classification: "verb" } ] }
+{ stemmed_word: "know", classifications: [ { formatted_word: "know", classification: "verb" } ] }
+{ stemmed_word: "label", classifications: [ { formatted_word: "label", classification: "verb" } ] }
+{ stemmed_word: "lament", classifications: [ { formatted_word: "lament", classification: "verb" } ] }
+{ stemmed_word: "land", classifications: [ { formatted_word: "land", classification: "verb" } ] }
+{ stemmed_word: "last", classifications: [ { formatted_word: "last", classification: "verb" } ] }
+{ stemmed_word: "laugh", classifications: [ { formatted_word: "laugh", classification: "verb" } ] }
+{ stemmed_word: "lay", classifications: [ { formatted_word: "lay", classification: "verb" } ] }
+{ stemmed_word: "lead", classifications: [ { formatted_word: "lead", classification: "verb" } ] }
+{ stemmed_word: "lean", classifications: [ { formatted_word: "lean", classification: "verb" } ] }
+{ stemmed_word: "learn", classifications: [ { formatted_word: "learn", classification: "verb" } ] }
+{ stemmed_word: "leav", classifications: [ { formatted_word: "leave", classification: "verb" } ] }
+{ stemmed_word: "lectur", classifications: [ { formatted_word: "lecture", classification: "verb" } ] }
+{ stemmed_word: "lend", classifications: [ { formatted_word: "lend", classification: "verb" } ] }
+{ stemmed_word: "let", classifications: [ { formatted_word: "let", classification: "verb" } ] }
+{ stemmed_word: "level", classifications: [ { formatted_word: "level", classification: "verb" } ] }
+{ stemmed_word: "licens", classifications: [ { formatted_word: "license", classification: "verb" } ] }
+{ stemmed_word: "lick", classifications: [ { formatted_word: "lick", classification: "verb" } ] }
+{ stemmed_word: "lie", classifications: [ { formatted_word: "lie", classification: "verb" } ] }
+{ stemmed_word: "lift", classifications: [ { formatted_word: "lift", classification: "verb" } ] }
+{ stemmed_word: "light", classifications: [ { formatted_word: "light", classification: "verb" } ] }
+{ stemmed_word: "lighten", classifications: [ { formatted_word: "lighten", classification: "verb" } ] }
+{ stemmed_word: "like", classifications: [ { formatted_word: "like", classification: "verb" } ] }
+{ stemmed_word: "list", classifications: [ { formatted_word: "list", classification: "verb" } ] }
+{ stemmed_word: "listen", classifications: [ { formatted_word: "listen", classification: "verb" } ] }
+{ stemmed_word: "live", classifications: [ { formatted_word: "live", classification: "verb" } ] }
+{ stemmed_word: "load", classifications: [ { formatted_word: "load", classification: "verb" } ] }
+{ stemmed_word: "loan", classifications: [ { formatted_word: "loan", classification: "verb" } ] }
+{ stemmed_word: "lock", classifications: [ { formatted_word: "lock", classification: "verb" } ] }
+{ stemmed_word: "long", classifications: [ { formatted_word: "long", classification: "verb" } ] }
+{ stemmed_word: "look", classifications: [ { formatted_word: "look", classification: "verb" } ] }
+{ stemmed_word: "loosen", classifications: [ { formatted_word: "loosen", classification: "verb" } ] }
+{ stemmed_word: "lose", classifications: [ { formatted_word: "lose", classification: "verb" } ] }
+{ stemmed_word: "love", classifications: [ { formatted_word: "love", classification: "verb" } ] }
+{ stemmed_word: "lower", classifications: [ { formatted_word: "lower", classification: "verb" } ] }
+{ stemmed_word: "mail", classifications: [ { formatted_word: "mail", classification: "verb" } ] }
+{ stemmed_word: "maintain", classifications: [ { formatted_word: "maintain", classification: "verb" } ] }
+{ stemmed_word: "make", classifications: [ { formatted_word: "make", classification: "verb" } ] }
+{ stemmed_word: "man", classifications: [ { formatted_word: "man", classification: "verb" } ] }
+{ stemmed_word: "manag", classifications: [ { formatted_word: "manage", classification: "verb" } ] }
+{ stemmed_word: "mar", classifications: [ { formatted_word: "mar", classification: "verb" } ] }
+{ stemmed_word: "march", classifications: [ { formatted_word: "march", classification: "verb" } ] }
+{ stemmed_word: "mark", classifications: [ { formatted_word: "mark", classification: "verb" } ] }
+{ stemmed_word: "marri", classifications: [ { formatted_word: "marry", classification: "verb" } ] }
+{ stemmed_word: "marvel", classifications: [ { formatted_word: "marvel", classification: "verb" } ] }
+{ stemmed_word: "mate", classifications: [ { formatted_word: "mate", classification: "verb" } ] }
+{ stemmed_word: "matter", classifications: [ { formatted_word: "matter", classification: "verb" } ] }
+{ stemmed_word: "mean", classifications: [ { formatted_word: "mean", classification: "verb" } ] }
+{ stemmed_word: "measur", classifications: [ { formatted_word: "measure", classification: "verb" } ] }
+{ stemmed_word: "meet", classifications: [ { formatted_word: "meet", classification: "verb" } ] }
+{ stemmed_word: "melt", classifications: [ { formatted_word: "melt", classification: "verb" } ] }
+{ stemmed_word: "memor", classifications: [ { formatted_word: "memorize", classification: "verb" } ] }
+{ stemmed_word: "mend", classifications: [ { formatted_word: "mend", classification: "verb" } ] }
+{ stemmed_word: "mention", classifications: [ { formatted_word: "mention", classification: "verb" } ] }
+{ stemmed_word: "merg", classifications: [ { formatted_word: "merge", classification: "verb" } ] }
+{ stemmed_word: "milk", classifications: [ { formatted_word: "milk", classification: "verb" } ] }
+{ stemmed_word: "mine", classifications: [ { formatted_word: "mine", classification: "verb" } ] }
+{ stemmed_word: "miss", classifications: [ { formatted_word: "miss", classification: "verb" } ] }
+{ stemmed_word: "mix", classifications: [ { formatted_word: "mix", classification: "verb" } ] }
+{ stemmed_word: "moan", classifications: [ { formatted_word: "moan", classification: "verb" } ] }
+{ stemmed_word: "moor", classifications: [ { formatted_word: "moor", classification: "verb" } ] }
+{ stemmed_word: "mourn", classifications: [ { formatted_word: "mourn", classification: "verb" } ] }
+{ stemmed_word: "molt", classifications: [ { formatted_word: "molt", classification: "verb" } ] }
+{ stemmed_word: "move", classifications: [ { formatted_word: "move", classification: "verb" } ] }
+{ stemmed_word: "mow", classifications: [ { formatted_word: "mow", classification: "verb" } ] }
+{ stemmed_word: "mug", classifications: [ { formatted_word: "mug", classification: "verb" } ] }
+{ stemmed_word: "multipli", classifications: [ { formatted_word: "multiply", classification: "verb" } ] }
+{ stemmed_word: "mumbl", classifications: [ { formatted_word: "mumble", classification: "verb" } ] }
+{ stemmed_word: "murder", classifications: [ { formatted_word: "murder", classification: "verb" } ] }
+{ stemmed_word: "mutter", classifications: [ { formatted_word: "mutter", classification: "verb" } ] }
+{ stemmed_word: "nag", classifications: [ { formatted_word: "nag", classification: "verb" } ] }
+{ stemmed_word: "nail", classifications: [ { formatted_word: "nail", classification: "verb" } ] }
+{ stemmed_word: "name", classifications: [ { formatted_word: "name", classification: "verb" } ] }
+{ stemmed_word: "nap", classifications: [ { formatted_word: "nap", classification: "verb" } ] }
+{ stemmed_word: "need", classifications: [ { formatted_word: "need", classification: "verb" } ] }
+{ stemmed_word: "nest", classifications: [ { formatted_word: "nest", classification: "verb" } ] }
+{ stemmed_word: "nod", classifications: [ { formatted_word: "nod", classification: "verb" } ] }
+{ stemmed_word: "note", classifications: [ { formatted_word: "note", classification: "verb" } ] }
+{ stemmed_word: "notic", classifications: [ { formatted_word: "notice", classification: "verb" } ] }
+{ stemmed_word: "number", classifications: [ { formatted_word: "number", classification: "verb" } ] }
+{ stemmed_word: "obey", classifications: [ { formatted_word: "obey", classification: "verb" } ] }
+{ stemmed_word: "object", classifications: [ { formatted_word: "object", classification: "verb" } ] }
+{ stemmed_word: "observ", classifications: [ { formatted_word: "observe", classification: "verb" } ] }
+{ stemmed_word: "obtain", classifications: [ { formatted_word: "obtain", classification: "verb" } ] }
+{ stemmed_word: "occur", classifications: [ { formatted_word: "occur", classification: "verb" } ] }
+{ stemmed_word: "offend", classifications: [ { formatted_word: "offend", classification: "verb" } ] }
+{ stemmed_word: "offer", classifications: [ { formatted_word: "offer", classification: "verb" } ] }
+{ stemmed_word: "ogl", classifications: [ { formatted_word: "ogle", classification: "verb" } ] }
+{ stemmed_word: "oil", classifications: [ { formatted_word: "oil", classification: "verb" } ] }
+{ stemmed_word: "omit", classifications: [ { formatted_word: "omit", classification: "verb" } ] }
+{ stemmed_word: "open", classifications: [ { formatted_word: "open", classification: "verb" } ] }
+{ stemmed_word: "oper", classifications: [ { formatted_word: "operate", classification: "verb" } ] }
+{ stemmed_word: "order", classifications: [ { formatted_word: "order", classification: "verb" } ] }
+{ stemmed_word: "overflow", classifications: [ { formatted_word: "overflow", classification: "verb" } ] }
+{ stemmed_word: "overrun", classifications: [ { formatted_word: "overrun", classification: "verb" } ] }
+{ stemmed_word: "owe", classifications: [ { formatted_word: "owe", classification: "verb" } ] }
+{ stemmed_word: "own", classifications: [ { formatted_word: "own", classification: "verb" } ] }
+{ stemmed_word: "pack", classifications: [ { formatted_word: "pack", classification: "verb" } ] }
+{ stemmed_word: "pad", classifications: [ { formatted_word: "pad", classification: "verb" } ] }
+{ stemmed_word: "paddl", classifications: [ { formatted_word: "paddle", classification: "verb" } ] }
+{ stemmed_word: "paint", classifications: [ { formatted_word: "paint", classification: "verb" } ] }
+{ stemmed_word: "pant", classifications: [ { formatted_word: "pant", classification: "verb" } ] }
+{ stemmed_word: "park", classifications: [ { formatted_word: "park", classification: "verb" } ] }
+{ stemmed_word: "part", classifications: [ { formatted_word: "part", classification: "verb" } ] }
+{ stemmed_word: "pass", classifications: [ { formatted_word: "pass", classification: "verb" } ] }
+{ stemmed_word: "past", classifications: [ { formatted_word: "paste", classification: "verb" } ] }
+{ stemmed_word: "pat", classifications: [ { formatted_word: "pat", classification: "verb" } ] }
+{ stemmed_word: "paus", classifications: [ { formatted_word: "pause", classification: "verb" } ] }
+{ stemmed_word: "pay", classifications: [ { formatted_word: "pay", classification: "verb" } ] }
+{ stemmed_word: "peck", classifications: [ { formatted_word: "peck", classification: "verb" } ] }
+{ stemmed_word: "pedal", classifications: [ { formatted_word: "pedal", classification: "verb" } ] }
+{ stemmed_word: "peel", classifications: [ { formatted_word: "peel", classification: "verb" } ] }
+{ stemmed_word: "peep", classifications: [ { formatted_word: "peep", classification: "verb" } ] }
+{ stemmed_word: "peer", classifications: [ { formatted_word: "peer", classification: "verb" } ] }
+{ stemmed_word: "peg", classifications: [ { formatted_word: "peg", classification: "verb" } ] }
+{ stemmed_word: "pelt", classifications: [ { formatted_word: "pelt", classification: "verb" } ] }
+{ stemmed_word: "perform", classifications: [ { formatted_word: "perform", classification: "verb" } ] }
+{ stemmed_word: "permit", classifications: [ { formatted_word: "permit", classification: "verb" } ] }
+{ stemmed_word: "pester", classifications: [ { formatted_word: "pester", classification: "verb" } ] }
+{ stemmed_word: "pet", classifications: [ { formatted_word: "pet", classification: "verb" } ] }
+{ stemmed_word: "phone", classifications: [ { formatted_word: "phone", classification: "verb" } ] }
+{ stemmed_word: "pick", classifications: [ { formatted_word: "pick", classification: "verb" } ] }
+{ stemmed_word: "pinch", classifications: [ { formatted_word: "pinch", classification: "verb" } ] }
+{ stemmed_word: "pine", classifications: [ { formatted_word: "pine", classification: "verb" } ] }
+{ stemmed_word: "place", classifications: [ { formatted_word: "place", classification: "verb" } ] }
+{ stemmed_word: "plan", classifications: [ { formatted_word: "plan", classification: "verb" } ] }
+{ stemmed_word: "plant", classifications: [ { formatted_word: "plant", classification: "verb" } ] }
+{ stemmed_word: "play", classifications: [ { formatted_word: "play", classification: "verb" } ] }
+{ stemmed_word: "plead", classifications: [ { formatted_word: "plead", classification: "verb" } ] }
+{ stemmed_word: "pleas", classifications: [ { formatted_word: "please", classification: "verb" } ] }
+{ stemmed_word: "pledg", classifications: [ { formatted_word: "pledge", classification: "verb" } ] }
+{ stemmed_word: "plow", classifications: [ { formatted_word: "plow", classification: "verb" } ] }
+{ stemmed_word: "plug", classifications: [ { formatted_word: "plug", classification: "verb" } ] }
+{ stemmed_word: "point", classifications: [ { formatted_word: "point", classification: "verb" } ] }
+{ stemmed_word: "poke", classifications: [ { formatted_word: "poke", classification: "verb" } ] }
+{ stemmed_word: "polish", classifications: [ { formatted_word: "polish", classification: "verb" } ] }
+{ stemmed_word: "ponder", classifications: [ { formatted_word: "ponder", classification: "verb" } ] }
+{ stemmed_word: "pop", classifications: [ { formatted_word: "pop", classification: "verb" } ] }
+{ stemmed_word: "possess", classifications: [ { formatted_word: "possess", classification: "verb" } ] }
+{ stemmed_word: "post", classifications: [ { formatted_word: "post", classification: "verb" } ] }
+{ stemmed_word: "postul", classifications: [ { formatted_word: "postulate", classification: "verb" } ] }
+{ stemmed_word: "pour", classifications: [ { formatted_word: "pour", classification: "verb" } ] }
+{ stemmed_word: "practic", classifications: [ { formatted_word: "practice", classification: "verb" } ] }
+{ stemmed_word: "pray", classifications: [ { formatted_word: "pray", classification: "verb" } ] }
+{ stemmed_word: "preach", classifications: [ { formatted_word: "preach", classification: "verb" } ] }
+{ stemmed_word: "preced", classifications: [ { formatted_word: "precede", classification: "verb" } ] }
+{ stemmed_word: "predict", classifications: [ { formatted_word: "predict", classification: "verb" } ] }
+{ stemmed_word: "prefer", classifications: [ { formatted_word: "prefer", classification: "verb" } ] }
+{ stemmed_word: "prepar", classifications: [ { formatted_word: "prepare", classification: "verb" } ] }
+{ stemmed_word: "present", classifications: [ { formatted_word: "present", classification: "verb" } ] }
+{ stemmed_word: "preserv", classifications: [ { formatted_word: "preserve", classification: "verb" } ] }
+{ stemmed_word: "press", classifications: [ { formatted_word: "press", classification: "verb" } ] }
+{ stemmed_word: "pretend", classifications: [ { formatted_word: "pretend", classification: "verb" } ] }
+{ stemmed_word: "prevent", classifications: [ { formatted_word: "prevent", classification: "verb" } ] }
+{ stemmed_word: "prick", classifications: [ { formatted_word: "prick", classification: "verb" } ] }
+{ stemmed_word: "print", classifications: [ { formatted_word: "print", classification: "verb" } ] }
+{ stemmed_word: "proceed", classifications: [ { formatted_word: "proceed", classification: "verb" } ] }
+{ stemmed_word: "proclaim", classifications: [ { formatted_word: "proclaim", classification: "verb" } ] }
+{ stemmed_word: "produc", classifications: [ { formatted_word: "produce", classification: "verb" } ] }
+{ stemmed_word: "profess", classifications: [ { formatted_word: "profess", classification: "verb" } ] }
+{ stemmed_word: "program", classifications: [ { formatted_word: "program", classification: "verb" } ] }
+{ stemmed_word: "promis", classifications: [ { formatted_word: "promise", classification: "verb" } ] }
+{ stemmed_word: "propos", classifications: [ { formatted_word: "propose", classification: "verb" } ] }
+{ stemmed_word: "protect", classifications: [ { formatted_word: "protect", classification: "verb" } ] }
+{ stemmed_word: "protest", classifications: [ { formatted_word: "protest", classification: "verb" } ] }
+{ stemmed_word: "provid", classifications: [ { formatted_word: "provide", classification: "verb" } ] }
+{ stemmed_word: "pri", classifications: [ { formatted_word: "pry", classification: "verb" } ] }
+{ stemmed_word: "pull", classifications: [ { formatted_word: "pull", classification: "verb" } ] }
+{ stemmed_word: "pump", classifications: [ { formatted_word: "pump", classification: "verb" } ] }
+{ stemmed_word: "punch", classifications: [ { formatted_word: "punch", classification: "verb" } ] }
+{ stemmed_word: "punctur", classifications: [ { formatted_word: "puncture", classification: "verb" } ] }
+{ stemmed_word: "punish", classifications: [ { formatted_word: "punish", classification: "verb" } ] }
+{ stemmed_word: "push", classifications: [ { formatted_word: "push", classification: "verb" } ] }
+{ stemmed_word: "put", classifications: [ { formatted_word: "put", classification: "verb" } ] }
+{ stemmed_word: "question", classifications: [ { formatted_word: "question", classification: "verb" } ] }
+{ stemmed_word: "quilt", classifications: [ { formatted_word: "quilt", classification: "verb" } ] }
+{ stemmed_word: "quit", classifications: [ { formatted_word: "quit", classification: "verb" } ] }
+{ stemmed_word: "quiz", classifications: [ { formatted_word: "quiz", classification: "verb" } ] }
+{ stemmed_word: "quot", classifications: [ { formatted_word: "quote", classification: "verb" } ] }
+{ stemmed_word: "race", classifications: [ { formatted_word: "race", classification: "verb" } ] }
+{ stemmed_word: "radiat", classifications: [ { formatted_word: "radiate", classification: "verb" } ] }
+{ stemmed_word: "rain", classifications: [ { formatted_word: "rain", classification: "verb" } ] }
+{ stemmed_word: "rais", classifications: [ { formatted_word: "raise", classification: "verb" } ] }
+{ stemmed_word: "rant", classifications: [ { formatted_word: "rant", classification: "verb" } ] }
+{ stemmed_word: "rain", classifications: [ { formatted_word: "rain", classification: "verb" } ] }
+{ stemmed_word: "rate", classifications: [ { formatted_word: "rate", classification: "verb" } ] }
+{ stemmed_word: "rave", classifications: [ { formatted_word: "rave", classification: "verb" } ] }
+{ stemmed_word: "reach", classifications: [ { formatted_word: "reach", classification: "verb" } ] }
+{ stemmed_word: "realiz", classifications: [ { formatted_word: "realize", classification: "verb" } ] }
+{ stemmed_word: "read", classifications: [ { formatted_word: "read", classification: "verb" } ] }
+{ stemmed_word: "rebuff", classifications: [ { formatted_word: "rebuff", classification: "verb" } ] }
+{ stemmed_word: "recal", classifications: [ { formatted_word: "recall", classification: "verb" } ] }
+{ stemmed_word: "receiv", classifications: [ { formatted_word: "receive", classification: "verb" } ] }
+{ stemmed_word: "recit", classifications: [ { formatted_word: "recite", classification: "verb" } ] }
+{ stemmed_word: "recogn", classifications: [ { formatted_word: "recognize", classification: "verb" } ] }
+{ stemmed_word: "recommend", classifications: [ { formatted_word: "recommend", classification: "verb" } ] }
+{ stemmed_word: "record", classifications: [ { formatted_word: "record", classification: "verb" } ] }
+{ stemmed_word: "reduc", classifications: [ { formatted_word: "reduce", classification: "verb" } ] }
+{ stemmed_word: "reflect", classifications: [ { formatted_word: "reflect", classification: "verb" } ] }
+{ stemmed_word: "refus", classifications: [ { formatted_word: "refuse", classification: "verb" } ] }
+{ stemmed_word: "regret", classifications: [ { formatted_word: "regret", classification: "verb" } ] }
+{ stemmed_word: "reign", classifications: [ { formatted_word: "reign", classification: "verb" } ] }
+{ stemmed_word: "reiter", classifications: [ { formatted_word: "reiterate", classification: "verb" } ] }
+{ stemmed_word: "reject", classifications: [ { formatted_word: "reject", classification: "verb" } ] }
+{ stemmed_word: "rejoic", classifications: [ { formatted_word: "rejoice", classification: "verb" } ] }
+{ stemmed_word: "relat", classifications: [ { formatted_word: "relate", classification: "verb" } ] }
+{ stemmed_word: "relax", classifications: [ { formatted_word: "relax", classification: "verb" } ] }
+{ stemmed_word: "releas", classifications: [ { formatted_word: "release", classification: "verb" } ] }
+{ stemmed_word: "reli", classifications: [ { formatted_word: "rely", classification: "verb" } ] }
+{ stemmed_word: "remain", classifications: [ { formatted_word: "remain", classification: "verb" } ] }
+{ stemmed_word: "rememb", classifications: [ { formatted_word: "remember", classification: "verb" } ] }
+{ stemmed_word: "remind", classifications: [ { formatted_word: "remind", classification: "verb" } ] }
+{ stemmed_word: "remov", classifications: [ { formatted_word: "remove", classification: "verb" } ] }
+{ stemmed_word: "repair", classifications: [ { formatted_word: "repair", classification: "verb" } ] }
+{ stemmed_word: "repeat", classifications: [ { formatted_word: "repeat", classification: "verb" } ] }
+{ stemmed_word: "replac", classifications: [ { formatted_word: "replace", classification: "verb" } ] }
+{ stemmed_word: "repli", classifications: [ { formatted_word: "reply", classification: "verb" } ] }
+{ stemmed_word: "report", classifications: [ { formatted_word: "report", classification: "verb" } ] }
+{ stemmed_word: "reprimand", classifications: [ { formatted_word: "reprimand", classification: "verb" } ] }
+{ stemmed_word: "reproduc", classifications: [ { formatted_word: "reproduce", classification: "verb" } ] }
+{ stemmed_word: "request", classifications: [ { formatted_word: "request", classification: "verb" } ] }
+{ stemmed_word: "rescu", classifications: [ { formatted_word: "rescue", classification: "verb" } ] }
+{ stemmed_word: "retir", classifications: [ { formatted_word: "retire", classification: "verb" } ] }
+{ stemmed_word: "retort", classifications: [ { formatted_word: "retort", classification: "verb" } ] }
+{ stemmed_word: "return", classifications: [ { formatted_word: "return", classification: "verb" } ] }
+{ stemmed_word: "reveal", classifications: [ { formatted_word: "reveal", classification: "verb" } ] }
+{ stemmed_word: "revers", classifications: [ { formatted_word: "reverse", classification: "verb" } ] }
+{ stemmed_word: "rhyme", classifications: [ { formatted_word: "rhyme", classification: "verb" } ] }
+{ stemmed_word: "ride", classifications: [ { formatted_word: "ride", classification: "verb" } ] }
+{ stemmed_word: "ring", classifications: [ { formatted_word: "ring", classification: "verb" } ] }
+{ stemmed_word: "rins", classifications: [ { formatted_word: "rinse", classification: "verb" } ] }
+{ stemmed_word: "rise", classifications: [ { formatted_word: "rise", classification: "verb" } ] }
+{ stemmed_word: "risk", classifications: [ { formatted_word: "risk", classification: "verb" } ] }
+{ stemmed_word: "roar", classifications: [ { formatted_word: "roar", classification: "verb" } ] }
+{ stemmed_word: "rob", classifications: [ { formatted_word: "rob", classification: "verb" } ] }
+{ stemmed_word: "rock", classifications: [ { formatted_word: "rock", classification: "verb" } ] }
+{ stemmed_word: "roll", classifications: [ { formatted_word: "roll", classification: "verb" } ] }
+{ stemmed_word: "rot", classifications: [ { formatted_word: "rot", classification: "verb" } ] }
+{ stemmed_word: "row", classifications: [ { formatted_word: "row", classification: "verb" } ] }
+{ stemmed_word: "rub", classifications: [ { formatted_word: "rub", classification: "verb" } ] }
+{ stemmed_word: "ruin", classifications: [ { formatted_word: "ruin", classification: "verb" } ] }
+{ stemmed_word: "rule", classifications: [ { formatted_word: "rule", classification: "verb" } ] }
+{ stemmed_word: "run", classifications: [ { formatted_word: "run", classification: "verb" } ] }
+{ stemmed_word: "rush", classifications: [ { formatted_word: "rush", classification: "verb" } ] }
+{ stemmed_word: "sack", classifications: [ { formatted_word: "sack", classification: "verb" } ] }
+{ stemmed_word: "sail", classifications: [ { formatted_word: "sail", classification: "verb" } ] }
+{ stemmed_word: "satisfi", classifications: [ { formatted_word: "satisfy", classification: "verb" } ] }
+{ stemmed_word: "save", classifications: [ { formatted_word: "save", classification: "verb" } ] }
+{ stemmed_word: "savor", classifications: [ { formatted_word: "savor", classification: "verb" } ] }
+{ stemmed_word: "saw", classifications: [ { formatted_word: "saw", classification: "verb" } ] }
+{ stemmed_word: "say", classifications: [ { formatted_word: "say", classification: "verb" } ] }
+{ stemmed_word: "scare", classifications: [ { formatted_word: "scare", classification: "verb" } ] }
+{ stemmed_word: "scatter", classifications: [ { formatted_word: "scatter", classification: "verb" } ] }
+{ stemmed_word: "scoff", classifications: [ { formatted_word: "scoff", classification: "verb" } ] }
+{ stemmed_word: "scold", classifications: [ { formatted_word: "scold", classification: "verb" } ] }
+{ stemmed_word: "scoot", classifications: [ { formatted_word: "scoot", classification: "verb" } ] }
+{ stemmed_word: "scorch", classifications: [ { formatted_word: "scorch", classification: "verb" } ] }
+{ stemmed_word: "scrape", classifications: [ { formatted_word: "scrape", classification: "verb" } ] }
+{ stemmed_word: "scratch", classifications: [ { formatted_word: "scratch", classification: "verb" } ] }
+{ stemmed_word: "scream", classifications: [ { formatted_word: "scream", classification: "verb" } ] }
+{ stemmed_word: "screech", classifications: [ { formatted_word: "screech", classification: "verb" } ] }
+{ stemmed_word: "screw", classifications: [ { formatted_word: "screw", classification: "verb" } ] }
+{ stemmed_word: "scribbl", classifications: [ { formatted_word: "scribble", classification: "verb" } ] }
+{ stemmed_word: "seal", classifications: [ { formatted_word: "seal", classification: "verb" } ] }
+{ stemmed_word: "search", classifications: [ { formatted_word: "search", classification: "verb" } ] }
+{ stemmed_word: "see", classifications: [ { formatted_word: "see", classification: "verb" } ] }
+{ stemmed_word: "sell", classifications: [ { formatted_word: "sell", classification: "verb" } ] }
+{ stemmed_word: "send", classifications: [ { formatted_word: "send", classification: "verb" } ] }
+{ stemmed_word: "sens", classifications: [ { formatted_word: "sense", classification: "verb" } ] }
+{ stemmed_word: "separ", classifications: [ { formatted_word: "separate", classification: "verb" } ] }
+{ stemmed_word: "serv", classifications: [ { formatted_word: "serve", classification: "verb" } ] }
+{ stemmed_word: "set", classifications: [ { formatted_word: "set", classification: "verb" } ] }
+{ stemmed_word: "settl", classifications: [ { formatted_word: "settle", classification: "verb" } ] }
+{ stemmed_word: "sever", classifications: [ { formatted_word: "sever", classification: "verb" } ] }
+{ stemmed_word: "sew", classifications: [ { formatted_word: "sew", classification: "verb" } ] }
+{ stemmed_word: "shade", classifications: [ { formatted_word: "shade", classification: "verb" } ] }
+{ stemmed_word: "shampoo", classifications: [ { formatted_word: "shampoo", classification: "verb" } ] }
+{ stemmed_word: "share", classifications: [ { formatted_word: "share", classification: "verb" } ] }
+{ stemmed_word: "shave", classifications: [ { formatted_word: "shave", classification: "verb" } ] }
+{ stemmed_word: "shelter", classifications: [ { formatted_word: "shelter", classification: "verb" } ] }
+{ stemmed_word: "shift", classifications: [ { formatted_word: "shift", classification: "verb" } ] }
+{ stemmed_word: "shiver", classifications: [ { formatted_word: "shiver", classification: "verb" } ] }
+{ stemmed_word: "shock", classifications: [ { formatted_word: "shock", classification: "verb" } ] }
+{ stemmed_word: "shoot", classifications: [ { formatted_word: "shoot", classification: "verb" } ] }
+{ stemmed_word: "shop", classifications: [ { formatted_word: "shop", classification: "verb" } ] }
+{ stemmed_word: "shout", classifications: [ { formatted_word: "shout", classification: "verb" } ] }
+{ stemmed_word: "show", classifications: [ { formatted_word: "show", classification: "verb" } ] }
+{ stemmed_word: "shriek", classifications: [ { formatted_word: "shriek", classification: "verb" } ] }
+{ stemmed_word: "shrug", classifications: [ { formatted_word: "shrug", classification: "verb" } ] }
+{ stemmed_word: "shut", classifications: [ { formatted_word: "shut", classification: "verb" } ] }
+{ stemmed_word: "sigh", classifications: [ { formatted_word: "sigh", classification: "verb" } ] }
+{ stemmed_word: "sign", classifications: [ { formatted_word: "sign", classification: "verb" } ] }
+{ stemmed_word: "signal", classifications: [ { formatted_word: "signal", classification: "verb" } ] }
+{ stemmed_word: "sin", classifications: [ { formatted_word: "sin", classification: "verb" } ] }
+{ stemmed_word: "sing", classifications: [ { formatted_word: "sing", classification: "verb" } ] }
+{ stemmed_word: "sing", classifications: [ { formatted_word: "singe", classification: "verb" } ] }
+{ stemmed_word: "sip", classifications: [ { formatted_word: "sip", classification: "verb" } ] }
+{ stemmed_word: "sit", classifications: [ { formatted_word: "sit", classification: "verb" } ] }
+{ stemmed_word: "skate", classifications: [ { formatted_word: "skate", classification: "verb" } ] }
+{ stemmed_word: "skateboard", classifications: [ { formatted_word: "skateboard", classification: "verb" } ] }
+{ stemmed_word: "sketch", classifications: [ { formatted_word: "sketch", classification: "verb" } ] }
+{ stemmed_word: "ski", classifications: [ { formatted_word: "ski", classification: "verb" } ] }
+{ stemmed_word: "skip", classifications: [ { formatted_word: "skip", classification: "verb" } ] }
+{ stemmed_word: "slap", classifications: [ { formatted_word: "slap", classification: "verb" } ] }
+{ stemmed_word: "sleep", classifications: [ { formatted_word: "sleep", classification: "verb" } ] }
+{ stemmed_word: "slice", classifications: [ { formatted_word: "slice", classification: "verb" } ] }
+{ stemmed_word: "slide", classifications: [ { formatted_word: "slide", classification: "verb" } ] }
+{ stemmed_word: "slip", classifications: [ { formatted_word: "slip", classification: "verb" } ] }
+{ stemmed_word: "slow", classifications: [ { formatted_word: "slow", classification: "verb" } ] }
+{ stemmed_word: "smash", classifications: [ { formatted_word: "smash", classification: "verb" } ] }
+{ stemmed_word: "smell", classifications: [ { formatted_word: "smell", classification: "verb" } ] }
+{ stemmed_word: "smile", classifications: [ { formatted_word: "smile", classification: "verb" } ] }
+{ stemmed_word: "smoke", classifications: [ { formatted_word: "smoke", classification: "verb" } ] }
+{ stemmed_word: "snap", classifications: [ { formatted_word: "snap", classification: "verb" } ] }
+{ stemmed_word: "snarl", classifications: [ { formatted_word: "snarl", classification: "verb" } ] }
+{ stemmed_word: "snatch", classifications: [ { formatted_word: "snatch", classification: "verb" } ] }
+{ stemmed_word: "sneak", classifications: [ { formatted_word: "sneak", classification: "verb" } ] }
+{ stemmed_word: "sneer", classifications: [ { formatted_word: "sneer", classification: "verb" } ] }
+{ stemmed_word: "sneez", classifications: [ { formatted_word: "sneeze", classification: "verb" } ] }
+{ stemmed_word: "snicker", classifications: [ { formatted_word: "snicker", classification: "verb" } ] }
+{ stemmed_word: "sniff", classifications: [ { formatted_word: "sniff", classification: "verb" } ] }
+{ stemmed_word: "snore", classifications: [ { formatted_word: "snore", classification: "verb" } ] }
+{ stemmed_word: "snort", classifications: [ { formatted_word: "snort", classification: "verb" } ] }
+{ stemmed_word: "snoop", classifications: [ { formatted_word: "snoop", classification: "verb" } ] }
+{ stemmed_word: "snooz", classifications: [ { formatted_word: "snooze", classification: "verb" } ] }
+{ stemmed_word: "snow", classifications: [ { formatted_word: "snow", classification: "verb" } ] }
+{ stemmed_word: "soak", classifications: [ { formatted_word: "soak", classification: "verb" } ] }
+{ stemmed_word: "sob", classifications: [ { formatted_word: "sob", classification: "verb" } ] }
+{ stemmed_word: "sooth", classifications: [ { formatted_word: "soothe", classification: "verb" } ] }
+{ stemmed_word: "sound", classifications: [ { formatted_word: "sound", classification: "verb" } ] }
+{ stemmed_word: "sow", classifications: [ { formatted_word: "sow", classification: "verb" } ] }
+{ stemmed_word: "span", classifications: [ { formatted_word: "span", classification: "verb" } ] }
+{ stemmed_word: "spare", classifications: [ { formatted_word: "spare", classification: "verb" } ] }
+{ stemmed_word: "spark", classifications: [ { formatted_word: "spark", classification: "verb" } ] }
+{ stemmed_word: "sparkl", classifications: [ { formatted_word: "sparkle", classification: "verb" } ] }
+{ stemmed_word: "speak", classifications: [ { formatted_word: "speak", classification: "verb" } ] }
+{ stemmed_word: "specul", classifications: [ { formatted_word: "speculate", classification: "verb" } ] }
+{ stemmed_word: "spell", classifications: [ { formatted_word: "spell", classification: "verb" } ] }
+{ stemmed_word: "spend", classifications: [ { formatted_word: "spend", classification: "verb" } ] }
+{ stemmed_word: "spill", classifications: [ { formatted_word: "spill", classification: "verb" } ] }
+{ stemmed_word: "spin", classifications: [ { formatted_word: "spin", classification: "verb" } ] }
+{ stemmed_word: "spoil", classifications: [ { formatted_word: "spoil", classification: "verb" } ] }
+{ stemmed_word: "spot", classifications: [ { formatted_word: "spot", classification: "verb" } ] }
+{ stemmed_word: "spray", classifications: [ { formatted_word: "spray", classification: "verb" } ] }
+{ stemmed_word: "sprout", classifications: [ { formatted_word: "sprout", classification: "verb" } ] }
+{ stemmed_word: "sputter", classifications: [ { formatted_word: "sputter", classification: "verb" } ] }
+{ stemmed_word: "squash", classifications: [ { formatted_word: "squash", classification: "verb" } ] }
+{ stemmed_word: "squeez", classifications: [ { formatted_word: "squeeze", classification: "verb" } ] }
+{ stemmed_word: "stab", classifications: [ { formatted_word: "stab", classification: "verb" } ] }
+{ stemmed_word: "stain", classifications: [ { formatted_word: "stain", classification: "verb" } ] }
+{ stemmed_word: "stammer", classifications: [ { formatted_word: "stammer", classification: "verb" } ] }
+{ stemmed_word: "stamp", classifications: [ { formatted_word: "stamp", classification: "verb" } ] }
+{ stemmed_word: "stand", classifications: [ { formatted_word: "stand", classification: "verb" } ] }
+{ stemmed_word: "star", classifications: [ { formatted_word: "star", classification: "verb" } ] }
+{ stemmed_word: "stare", classifications: [ { formatted_word: "stare", classification: "verb" } ] }
+{ stemmed_word: "start", classifications: [ { formatted_word: "start", classification: "verb" } ] }
+{ stemmed_word: "stash", classifications: [ { formatted_word: "stash", classification: "verb" } ] }
+{ stemmed_word: "state", classifications: [ { formatted_word: "state", classification: "verb" } ] }
+{ stemmed_word: "stay", classifications: [ { formatted_word: "stay", classification: "verb" } ] }
+{ stemmed_word: "steer", classifications: [ { formatted_word: "steer", classification: "verb" } ] }
+{ stemmed_word: "step", classifications: [ { formatted_word: "step", classification: "verb" } ] }
+{ stemmed_word: "stipul", classifications: [ { formatted_word: "stipulate", classification: "verb" } ] }
+{ stemmed_word: "stir", classifications: [ { formatted_word: "stir", classification: "verb" } ] }
+{ stemmed_word: "stitch", classifications: [ { formatted_word: "stitch", classification: "verb" } ] }
+{ stemmed_word: "stop", classifications: [ { formatted_word: "stop", classification: "verb" } ] }
+{ stemmed_word: "store", classifications: [ { formatted_word: "store", classification: "verb" } ] }
+{ stemmed_word: "strap", classifications: [ { formatted_word: "strap", classification: "verb" } ] }
+{ stemmed_word: "storm", classifications: [ { formatted_word: "storm", classification: "verb" } ] }
+{ stemmed_word: "stow", classifications: [ { formatted_word: "stow", classification: "verb" } ] }
+{ stemmed_word: "strengthen", classifications: [ { formatted_word: "strengthen", classification: "verb" } ] }
+{ stemmed_word: "stress", classifications: [ { formatted_word: "stress", classification: "verb" } ] }
+{ stemmed_word: "stretch", classifications: [ { formatted_word: "stretch", classification: "verb" } ] }
+{ stemmed_word: "strip", classifications: [ { formatted_word: "strip", classification: "verb" } ] }
+{ stemmed_word: "stroke", classifications: [ { formatted_word: "stroke", classification: "verb" } ] }
+{ stemmed_word: "stuff", classifications: [ { formatted_word: "stuff", classification: "verb" } ] }
+{ stemmed_word: "stutter", classifications: [ { formatted_word: "stutter", classification: "verb" } ] }
+{ stemmed_word: "stray", classifications: [ { formatted_word: "stray", classification: "verb" } ] }
+{ stemmed_word: "strum", classifications: [ { formatted_word: "strum", classification: "verb" } ] }
+{ stemmed_word: "strut", classifications: [ { formatted_word: "strut", classification: "verb" } ] }
+{ stemmed_word: "stun", classifications: [ { formatted_word: "stun", classification: "verb" } ] }
+{ stemmed_word: "stunt", classifications: [ { formatted_word: "stunt", classification: "verb" } ] }
+{ stemmed_word: "submerg", classifications: [ { formatted_word: "submerge", classification: "verb" } ] }
+{ stemmed_word: "succeed", classifications: [ { formatted_word: "succeed", classification: "verb" } ] }
+{ stemmed_word: "suffer", classifications: [ { formatted_word: "suffer", classification: "verb" } ] }
+{ stemmed_word: "suggest", classifications: [ { formatted_word: "suggest", classification: "verb" } ] }
+{ stemmed_word: "suit", classifications: [ { formatted_word: "suit", classification: "verb" } ] }
+{ stemmed_word: "suppli", classifications: [ { formatted_word: "supply", classification: "verb" } ] }
+{ stemmed_word: "support", classifications: [ { formatted_word: "support", classification: "verb" } ] }
+{ stemmed_word: "suppos", classifications: [ { formatted_word: "suppose", classification: "verb" } ] }
+{ stemmed_word: "surmis", classifications: [ { formatted_word: "surmise", classification: "verb" } ] }
+{ stemmed_word: "surpris", classifications: [ { formatted_word: "surprise", classification: "verb" } ] }
+{ stemmed_word: "surround", classifications: [ { formatted_word: "surround", classification: "verb" } ] }
+{ stemmed_word: "suspect", classifications: [ { formatted_word: "suspect", classification: "verb" } ] }
+{ stemmed_word: "suspend", classifications: [ { formatted_word: "suspend", classification: "verb" } ] }
+{ stemmed_word: "sway", classifications: [ { formatted_word: "sway", classification: "verb" } ] }
+{ stemmed_word: "swear", classifications: [ { formatted_word: "swear", classification: "verb" } ] }
+{ stemmed_word: "swim", classifications: [ { formatted_word: "swim", classification: "verb" } ] }
+{ stemmed_word: "swing", classifications: [ { formatted_word: "swing", classification: "verb" } ] }
+{ stemmed_word: "switch", classifications: [ { formatted_word: "switch", classification: "verb" } ] }
+{ stemmed_word: "swoop", classifications: [ { formatted_word: "swoop", classification: "verb" } ] }
+{ stemmed_word: "sympath", classifications: [ { formatted_word: "sympathize", classification: "verb" } ] }
+{ stemmed_word: "talk", classifications: [ { formatted_word: "talk", classification: "verb" } ] }
+{ stemmed_word: "take", classifications: [ { formatted_word: "take", classification: "verb" } ] }
+{ stemmed_word: "tame", classifications: [ { formatted_word: "tame", classification: "verb" } ] }
+{ stemmed_word: "tap", classifications: [ { formatted_word: "tap", classification: "verb" } ] }
+{ stemmed_word: "tast", classifications: [ { formatted_word: "taste", classification: "verb" } ] }
+{ stemmed_word: "taunt", classifications: [ { formatted_word: "taunt", classification: "verb" } ] }
+{ stemmed_word: "teach", classifications: [ { formatted_word: "teach", classification: "verb" } ] }
+{ stemmed_word: "tear", classifications: [ { formatted_word: "tear", classification: "verb" } ] }
+{ stemmed_word: "teas", classifications: [ { formatted_word: "tease", classification: "verb" } ] }
+{ stemmed_word: "telephon", classifications: [ { formatted_word: "telephone", classification: "verb" } ] }
+{ stemmed_word: "tell", classifications: [ { formatted_word: "tell", classification: "verb" } ] }
+{ stemmed_word: "tempt", classifications: [ { formatted_word: "tempt", classification: "verb" } ] }
+{ stemmed_word: "terrifi", classifications: [ { formatted_word: "terrify", classification: "verb" } ] }
+{ stemmed_word: "test", classifications: [ { formatted_word: "test", classification: "verb" } ] }
+{ stemmed_word: "testifi", classifications: [ { formatted_word: "testify", classification: "verb" } ] }
+{ stemmed_word: "thank", classifications: [ { formatted_word: "thank", classification: "verb" } ] }
+{ stemmed_word: "thaw", classifications: [ { formatted_word: "thaw", classification: "verb" } ] }
+{ stemmed_word: "theoriz", classifications: [ { formatted_word: "theorize", classification: "verb" } ] }
+{ stemmed_word: "think", classifications: [ { formatted_word: "think", classification: "verb" } ] }
+{ stemmed_word: "threaten", classifications: [ { formatted_word: "threaten", classification: "verb" } ] }
+{ stemmed_word: "throw", classifications: [ { formatted_word: "throw", classification: "verb" } ] }
+{ stemmed_word: "thunder", classifications: [ { formatted_word: "thunder", classification: "verb" } ] }
+{ stemmed_word: "tick", classifications: [ { formatted_word: "tick", classification: "verb" } ] }
+{ stemmed_word: "tickl", classifications: [ { formatted_word: "tickle", classification: "verb" } ] }
+{ stemmed_word: "tie", classifications: [ { formatted_word: "tie", classification: "verb" } ] }
+{ stemmed_word: "time", classifications: [ { formatted_word: "time", classification: "verb" } ] }
+{ stemmed_word: "tip", classifications: [ { formatted_word: "tip", classification: "verb" } ] }
+{ stemmed_word: "tire", classifications: [ { formatted_word: "tire", classification: "verb" } ] }
+{ stemmed_word: "toast", classifications: [ { formatted_word: "toast", classification: "verb" } ] }
+{ stemmed_word: "toss", classifications: [ { formatted_word: "toss", classification: "verb" } ] }
+{ stemmed_word: "touch", classifications: [ { formatted_word: "touch", classification: "verb" } ] }
+{ stemmed_word: "tour", classifications: [ { formatted_word: "tour", classification: "verb" } ] }
+{ stemmed_word: "tow", classifications: [ { formatted_word: "tow", classification: "verb" } ] }
+{ stemmed_word: "trace", classifications: [ { formatted_word: "trace", classification: "verb" } ] }
+{ stemmed_word: "track", classifications: [ { formatted_word: "track", classification: "verb" } ] }
+{ stemmed_word: "trade", classifications: [ { formatted_word: "trade", classification: "verb" } ] }
+{ stemmed_word: "train", classifications: [ { formatted_word: "train", classification: "verb" } ] }
+{ stemmed_word: "translat", classifications: [ { formatted_word: "translate", classification: "verb" } ] }
+{ stemmed_word: "transport", classifications: [ { formatted_word: "transport", classification: "verb" } ] }
+{ stemmed_word: "trap", classifications: [ { formatted_word: "trap", classification: "verb" } ] }
+{ stemmed_word: "travel", classifications: [ { formatted_word: "travel", classification: "verb" } ] }
+{ stemmed_word: "treat", classifications: [ { formatted_word: "treat", classification: "verb" } ] }
+{ stemmed_word: "trembl", classifications: [ { formatted_word: "tremble", classification: "verb" } ] }
+{ stemmed_word: "trick", classifications: [ { formatted_word: "trick", classification: "verb" } ] }
+{ stemmed_word: "trickl", classifications: [ { formatted_word: "trickle", classification: "verb" } ] }
+{ stemmed_word: "trim", classifications: [ { formatted_word: "trim", classification: "verb" } ] }
+{ stemmed_word: "trip", classifications: [ { formatted_word: "trip", classification: "verb" } ] }
+{ stemmed_word: "trot", classifications: [ { formatted_word: "trot", classification: "verb" } ] }
+{ stemmed_word: "troubl", classifications: [ { formatted_word: "trouble", classification: "verb" } ] }
+{ stemmed_word: "trust", classifications: [ { formatted_word: "trust", classification: "verb" } ] }
+{ stemmed_word: "trounc", classifications: [ { formatted_word: "trounce", classification: "verb" } ] }
+{ stemmed_word: "tri", classifications: [ { formatted_word: "try", classification: "verb" } ] }
+{ stemmed_word: "tug", classifications: [ { formatted_word: "tug", classification: "verb" } ] }
+{ stemmed_word: "tumbl", classifications: [ { formatted_word: "tumble", classification: "verb" } ] }
+{ stemmed_word: "turn", classifications: [ { formatted_word: "turn", classification: "verb" } ] }
+{ stemmed_word: "twist", classifications: [ { formatted_word: "twist", classification: "verb" } ] }
+{ stemmed_word: "type", classifications: [ { formatted_word: "type", classification: "verb" } ] }
+{ stemmed_word: "understand", classifications: [ { formatted_word: "understand", classification: "verb" } ] }
+{ stemmed_word: "undress", classifications: [ { formatted_word: "undress", classification: "verb" } ] }
+{ stemmed_word: "unfasten", classifications: [ { formatted_word: "unfasten", classification: "verb" } ] }
+{ stemmed_word: "unit", classifications: [ { formatted_word: "unite", classification: "verb" } ] }
+{ stemmed_word: "unlock", classifications: [ { formatted_word: "unlock", classification: "verb" } ] }
+{ stemmed_word: "unpack", classifications: [ { formatted_word: "unpack", classification: "verb" } ] }
+{ stemmed_word: "uphold", classifications: [ { formatted_word: "uphold", classification: "verb" } ] }
+{ stemmed_word: "upset", classifications: [ { formatted_word: "upset", classification: "verb" } ] }
+{ stemmed_word: "upstag", classifications: [ { formatted_word: "upstage", classification: "verb" } ] }
+{ stemmed_word: "urg", classifications: [ { formatted_word: "urge", classification: "verb" } ] }
+{ stemmed_word: "unti", classifications: [ { formatted_word: "untie", classification: "verb" } ] }
+{ stemmed_word: "use", classifications: [ { formatted_word: "use", classification: "verb" } ] }
+{ stemmed_word: "usurp", classifications: [ { formatted_word: "usurp", classification: "verb" } ] }
+{ stemmed_word: "utter", classifications: [ { formatted_word: "utter", classification: "verb" } ] }
+{ stemmed_word: "vacuum", classifications: [ { formatted_word: "vacuum", classification: "verb" } ] }
+{ stemmed_word: "valu", classifications: [ { formatted_word: "value", classification: "verb" } ] }
+{ stemmed_word: "vanish", classifications: [ { formatted_word: "vanish", classification: "verb" } ] }
+{ stemmed_word: "vanquish", classifications: [ { formatted_word: "vanquish", classification: "verb" } ] }
+{ stemmed_word: "ventur", classifications: [ { formatted_word: "venture", classification: "verb" } ] }
+{ stemmed_word: "visit", classifications: [ { formatted_word: "visit", classification: "verb" } ] }
+{ stemmed_word: "voic", classifications: [ { formatted_word: "voice", classification: "verb" } ] }
+{ stemmed_word: "volunt", classifications: [ { formatted_word: "volunteer", classification: "verb" } ] }
+{ stemmed_word: "vote", classifications: [ { formatted_word: "vote", classification: "verb" } ] }
+{ stemmed_word: "vouch", classifications: [ { formatted_word: "vouch", classification: "verb" } ] }
+{ stemmed_word: "wail", classifications: [ { formatted_word: "wail", classification: "verb" } ] }
+{ stemmed_word: "wait", classifications: [ { formatted_word: "wait", classification: "verb" } ] }
+{ stemmed_word: "wake", classifications: [ { formatted_word: "wake", classification: "verb" } ] }
+{ stemmed_word: "walk", classifications: [ { formatted_word: "walk", classification: "verb" } ] }
+{ stemmed_word: "wallow", classifications: [ { formatted_word: "wallow", classification: "verb" } ] }
+{ stemmed_word: "wander", classifications: [ { formatted_word: "wander", classification: "verb" } ] }
+{ stemmed_word: "want", classifications: [ { formatted_word: "want", classification: "verb" } ] }
+{ stemmed_word: "warm", classifications: [ { formatted_word: "warm", classification: "verb" } ] }
+{ stemmed_word: "warn", classifications: [ { formatted_word: "warn", classification: "verb" } ] }
+{ stemmed_word: "wash", classifications: [ { formatted_word: "wash", classification: "verb" } ] }
+{ stemmed_word: "wast", classifications: [ { formatted_word: "waste", classification: "verb" } ] }
+{ stemmed_word: "watch", classifications: [ { formatted_word: "watch", classification: "verb" } ] }
+{ stemmed_word: "water", classifications: [ { formatted_word: "water", classification: "verb" } ] }
+{ stemmed_word: "wave", classifications: [ { formatted_word: "wave", classification: "verb" } ] }
+{ stemmed_word: "waver", classifications: [ { formatted_word: "waver", classification: "verb" } ] }
+{ stemmed_word: "wear", classifications: [ { formatted_word: "wear", classification: "verb" } ] }
+{ stemmed_word: "weav", classifications: [ { formatted_word: "weave", classification: "verb" } ] }
+{ stemmed_word: "wed", classifications: [ { formatted_word: "wed", classification: "verb" } ] }
+{ stemmed_word: "weigh", classifications: [ { formatted_word: "weigh", classification: "verb" } ] }
+{ stemmed_word: "welcom", classifications: [ { formatted_word: "welcome", classification: "verb" } ] }
+{ stemmed_word: "whimper", classifications: [ { formatted_word: "whimper", classification: "verb" } ] }
+{ stemmed_word: "whine", classifications: [ { formatted_word: "whine", classification: "verb" } ] }
+{ stemmed_word: "whip", classifications: [ { formatted_word: "whip", classification: "verb" } ] }
+{ stemmed_word: "whirl", classifications: [ { formatted_word: "whirl", classification: "verb" } ] }
+{ stemmed_word: "whisper", classifications: [ { formatted_word: "whisper", classification: "verb" } ] }
+{ stemmed_word: "whistl", classifications: [ { formatted_word: "whistle", classification: "verb" } ] }
+{ stemmed_word: "win", classifications: [ { formatted_word: "win", classification: "verb" } ] }
+{ stemmed_word: "wink", classifications: [ { formatted_word: "wink", classification: "verb" } ] }
+{ stemmed_word: "will", classifications: [ { formatted_word: "will", classification: "verb" } ] }
+{ stemmed_word: "wipe", classifications: [ { formatted_word: "wipe", classification: "verb" } ] }
+{ stemmed_word: "wish", classifications: [ { formatted_word: "wish", classification: "verb" } ] }
+{ stemmed_word: "wobbl", classifications: [ { formatted_word: "wobble", classification: "verb" } ] }
+{ stemmed_word: "wonder", classifications: [ { formatted_word: "wonder", classification: "verb" } ] }
+{ stemmed_word: "work", classifications: [ { formatted_word: "work", classification: "verb" } ] }
+{ stemmed_word: "worri", classifications: [ { formatted_word: "worry", classification: "verb" } ] }
+{ stemmed_word: "wrap", classifications: [ { formatted_word: "wrap", classification: "verb" } ] }
+{ stemmed_word: "wreck", classifications: [ { formatted_word: "wreck", classification: "verb" } ] }
+{ stemmed_word: "wrestl", classifications: [ { formatted_word: "wrestle", classification: "verb" } ] }
+{ stemmed_word: "wriggl", classifications: [ { formatted_word: "wriggle", classification: "verb" } ] }
+{ stemmed_word: "write", classifications: [ { formatted_word: "write", classification: "verb" } ] }
+{ stemmed_word: "writh", classifications: [ { formatted_word: "writhe", classification: "verb" } ] }
+{ stemmed_word: "x-ray", classifications: [ { formatted_word: "x-ray", classification: "verb" } ] }
+{ stemmed_word: "yawn", classifications: [ { formatted_word: "yawn", classification: "verb" } ] }
+{ stemmed_word: "yell", classifications: [ { formatted_word: "yell", classification: "verb" } ] }
+{ stemmed_word: "yelp", classifications: [ { formatted_word: "yelp", classification: "verb" } ] }
+{ stemmed_word: "yield", classifications: [ { formatted_word: "yield", classification: "verb" } ] }
+{ stemmed_word: "yodel", classifications: [ { formatted_word: "yodel", classification: "verb" } ] }
+{ stemmed_word: "zip", classifications: [ { formatted_word: "zip", classification: "verb" } ] }

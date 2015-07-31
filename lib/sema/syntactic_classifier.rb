@@ -16,23 +16,49 @@ class SyntacticClassifier
 	
 	def classify(word)
 
-		# Format
-		downcase_word = word.downcase
+		begin
+			# Format
+			downcase_word = word.downcase
 
-		# Stemm
-		stemmer= Lingua::Stemmer.new(:language => "en")
-		formatted_word = stemmer.stem(downcase_word)
-		#formatted_word = downcase_word.stem 
+			# Identify Special Classifications
+			if downcase_word.to_i.to_s == downcase_word
+				return "number"
+			end
 
-		# Identify word classification
-		classified_word = Classification.where(formatted_word: formatted_word).first
+			# Identify Classifications
+			basic_word = BasicWord.where(formatted_word: downcase_word).first
 
-		# DEBUG
-		#if not classified_word.nil?
-		#	print "[ original = #{downcase_word} ] => [ stem = #{formatted_word} ] => [ #{classified_word.classification} ]\n"
-		#end
+			if basic_word.nil?
 
-		classified_word.classification unless classified_word.nil?
+				# Stemm
+				stemmer= Lingua::Stemmer.new(:language => "en")
+				stemmed_word = stemmer.stem(downcase_word)
+
+				# Identify stem word
+				stemmed_unclassified_word = StemmedWord.where(stemmed_word: stemmed_word)
+
+				# Return nothing if we do not know the stem word
+				return nil if stemmed_unclassified_word.count == 0
+
+				# Identify Classification
+				for stemmed_word_classification in stemmed_unclassified_word.first.classifications.to_a
+					return stemmed_word_classification.classification if stemmed_word_classification.formatted_word == downcase_word
+				end
+
+				# Can not classify the word
+				return "unclassified" unless stemmed_unclassified_word.count == 0
+			else
+				return basic_word.classification
+			end
+		rescue Exception => e
+
+			puts "\nGuru meditation error: #{downcase_word}"
+			puts e.message  
+  			puts e.backtrace.inspect
+  			exit
+		end
+
+		return nil
 	end
 
 end

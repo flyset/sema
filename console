@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 #
 # This file is part of "sema".
 #
@@ -7,8 +8,6 @@
 # with this source code in the file LICENSE.
 #
 
-require 'pp'
-
 # Load bootstrap
 require "#{Dir.pwd}/lib/sema"
 
@@ -17,7 +16,9 @@ VERSION = "v1.0 pre-alpha"
 def extract(input_text)
 	# Instatiate Semantic Extractor
 	@sema = SemanticExtractor.new
-	@sema.extract(input_text)
+  print "Extracting..."
+  time = Benchmark.realtime { @sema.extract(input_text) }
+  print "DONE! (#{time})\n"
 end
 
 def show_analysis
@@ -87,7 +88,7 @@ def list_learn
 
   puts
   for word in @sema.words
-    puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class.nil?
+    puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class.nil? or word.class == 'unclassified'
   end
   puts
 
@@ -109,7 +110,7 @@ loop do
     when 'help'
 
       puts
-      puts "Commands: help, exit, version, read, load, show, stem, plural, find, list, learn, extract"
+      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, extract"
       puts
 
     when 'exit'
@@ -127,14 +128,22 @@ loop do
     	@input_text = gets.chomp
       puts
 
+      extract(@input_text)
+      puts
+
     when 'load'
 
       @input_text = File.open("#{Dir.pwd}/input.txt").read
       show_input
 
+      extract(@input_text)
+      puts
+
     when 'extract'
 
+      puts
       extract(@input_text)
+      puts
 
     when 'show'
 
@@ -154,12 +163,6 @@ loop do
       puts stemmer.stem(params.first)
       puts
 
-    when 'stemmer'
-
-      puts
-      puts params.first.stem
-      puts
-
     when 'plural'
 
       puts
@@ -175,8 +178,20 @@ loop do
     when 'find'
 
       puts
-    	word = Classification.where(formatted_word: params.first).first
+    	word = BasicWord.where(formatted_word: params.first).first
     	pp word unless word.nil?
+      puts
+
+    when 'sfind'
+
+      puts
+      words = StemmedWord.where(stemmed_word: params.first).to_a
+
+      if words.count != 0
+        for word in words
+          pp word.classifications.to_a
+        end
+      end
       puts
 
     when 'list'

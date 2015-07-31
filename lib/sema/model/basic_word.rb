@@ -7,7 +7,7 @@
 # with this source code in the file LICENSE.
 #
 
-class Classification
+class BasicWord
   include Mongoid::Document
   field :formatted_word
   field :classification
