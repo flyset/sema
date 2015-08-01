@@ -40,7 +40,7 @@ class SyntacticExtractor
 					punctuation = ';'
 				end
 
-				# Process and create last part
+				# Process and Create last word
 				formatted_part = part[0...-1]
 				@words << create_word(formatted_part, sentence_position, parts.index(part), punctuation)
 

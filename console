@@ -120,7 +120,7 @@ loop do
     when 'help'
 
       puts
-      puts "Commands: help, exit, version, read, load, show, stem, plural, find, sfind, list, learn, add, unlearn, extract"
+      puts "Commands: help, exit, version, read, load, show, stem, plural, singular, find, sfind, list, learn, add, unlearn, extract"
       puts
 
     when 'exit'
