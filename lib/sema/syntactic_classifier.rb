@@ -25,7 +25,7 @@ class SyntacticClassifier
 			return special_classification unless special_classification.nil?
 
 			# Identify Classifications
-			return identify_word(formatted_word)
+			return identify_classification(formatted_word)
 
 		rescue Exception => e
 
@@ -53,9 +53,9 @@ class SyntacticClassifier
 		end
 	end
 
-	def identify_word(word)
+	def identify_classification(word)
 		
-		# Identify Classifications
+		# Identify Basic Word Classification
 		basic_word = BasicWord.where(formatted_word: word).first
 
 		if basic_word.nil?

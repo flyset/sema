@@ -15,14 +15,18 @@ class SyntacticExtractor
 	# via a heuristic method
 	def extract(text)
 		
+		# Seperates the text in parts by space
 		parts = text.split(" ")
+		
+		# Set parameters
 		sentence_position = 0
 		@words = Array.new
 		@sentences = Array.new
 
 		for part in parts
 
-			# Pre-process none word parts
+			# Pre-process/idetify none word parts
+			# do something...
 
 			# Process structure
 			if part.reverse[0] == '.' or part.reverse[0] == '?' or part.reverse[0] == '!' or part.reverse[0] == ';'
@@ -66,6 +70,7 @@ class SyntacticExtractor
 		end
 	end
 
+	# Returns sentence by position
 	def get_sentence(position)
 		words = Array.new
 		for word in @words
@@ -76,18 +81,18 @@ class SyntacticExtractor
 
 	private
 
-	# Create word
+	# Create a new word
 	def create_word(text, sentence_position, position, punctuation)
 		word = Word.new
 		word.text = text
 		word.sentence_position = sentence_position
 		word.position = position
 		word.punctuation = punctuation
-		word.classify
+		word.classify # Using the Syntactic Classifier
 		word
 	end
 
-	# Create sentence
+	# Create a new sentence
 	def create_sentence(sentence_position, type)
 		sentence = Sentence.new
 		sentence.position = sentence_position
