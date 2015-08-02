@@ -15,10 +15,10 @@ VERSION = "v1.0 pre-alpha"
 
 def extract(input_text)
 	# Instatiate Semantic Extractor
-	@sema = SemanticExtractor.new
+	@sema = Semantic::Extractor.new
   print "Extracting..."
   time = Benchmark.realtime { @sema.extract(input_text) }
-  print "DONE! (#{time})\n"
+  print "DONE! (#{time}s)\n"
 end
 
 def show_analysis

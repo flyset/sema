@@ -186,5 +186,5 @@ end
 
 # add the stem method to all Strings
 class String
-  include Stemmify
+  include SemanticExtractor
 end

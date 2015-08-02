@@ -7,11 +7,15 @@
 # with this source code in the file LICENSE.
 #
 
-class Word
-	attr_accessor :text, :sentence_position, :position, :class, :punctuation
+module Semantic
 
-	def classify
-		classifier = SyntacticClassifier.new
-		self.class = classifier.classify(@text)
+	class Word
+		attr_accessor :text, :sentence_position, :position, :class, :punctuation
+
+		def classify
+			classifier = Syntactic::Classifier.new
+			self.class = classifier.classify(@text)
+		end
 	end
+
 end

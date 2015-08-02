@@ -19,19 +19,22 @@ require 'benchmark'
 # Local 3rd Party
 #require "#{Dir.pwd}/lib/sema/stemmify"
 
-# Libraries
-require "#{Dir.pwd}/lib/sema/semantic_extractor"
-require "#{Dir.pwd}/lib/sema/syntactic_extractor"
-require "#{Dir.pwd}/lib/sema/syntactic_classifier"
-require "#{Dir.pwd}/lib/sema/learn"
+# Modules & libs
+require "#{Dir.pwd}/lib/sema/semantic"
+require "#{Dir.pwd}/lib/sema/semantic/extractor"
+require "#{Dir.pwd}/lib/sema/semantic/sentence"
+require "#{Dir.pwd}/lib/sema/semantic/word"
 
-# Objects
-require "#{Dir.pwd}/lib/sema/object/sentence"
-require "#{Dir.pwd}/lib/sema/object/word"
+require "#{Dir.pwd}/lib/sema/syntactic"
+require "#{Dir.pwd}/lib/sema/syntactic/extractor"
+require "#{Dir.pwd}/lib/sema/syntactic/classifier"
+
+# Models
+require "#{Dir.pwd}/lib/sema/models/basic_word"
+require "#{Dir.pwd}/lib/sema/models/stemmed_word"
+
+# Libraries
+require "#{Dir.pwd}/lib/sema/learn"
 
 # MongoDB
 Mongoid.load!("#{Dir.pwd}/config/mongoid.yml", :production)
-
-# Models
-require "#{Dir.pwd}/lib/sema/model/basic_word"
-require "#{Dir.pwd}/lib/sema/model/stemmed_word"

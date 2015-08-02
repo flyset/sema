@@ -7,6 +7,10 @@
 # with this source code in the file LICENSE.
 #
 
-class Sentence
-	attr_accessor :position, :type
+module Semantic
+
+	class Sentence
+		attr_accessor :position, :type
+	end
+
 end
