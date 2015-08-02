@@ -33,7 +33,7 @@ require "#{Dir.pwd}/lib/sema/syntactic/classifier"
 require "#{Dir.pwd}/lib/sema/models/basic_word"
 require "#{Dir.pwd}/lib/sema/models/stemmed_word"
 
-# Libraries
+# Ronin Libraries
 require "#{Dir.pwd}/lib/sema/learn"
 
 # MongoDB
