@@ -13,15 +13,16 @@ module Semantic
 
 		attr_accessor :raw_text
 
-		# Semantic Extractor
-		def extract(text)
+		def initialize(text)
+			@raw_text = text and extract
+		end
 
-			# Set default raw text
-			@raw_text = text
+		# Semantic Extractor
+		def extract
 			
 			# Extract syntax
-			@syntax = Syntactic::Extractor.new
-			@syntax.extract(@raw_text)
+			@syntax = Syntactic::Extractor.new(@raw_text)
+
 		end
 
 		# Interface methods for commandline (execute)

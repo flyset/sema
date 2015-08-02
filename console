@@ -14,11 +14,12 @@ require "#{Dir.pwd}/lib/sema"
 VERSION = "v1.0 pre-alpha"
 
 def extract(input_text)
+
 	# Instatiate Semantic Extractor
-	@sema = Semantic::Extractor.new
   print "Extracting..."
-  time = Benchmark.realtime { @sema.extract(input_text) }
+  time = Benchmark.realtime { @sema = Semantic::Extractor.new(input_text) }
   print "DONE! (#{time}s)\n"
+  
 end
 
 def show_analysis
@@ -169,8 +170,7 @@ loop do
     when 'stem'
 
       puts
-      stemmer= Lingua::Stemmer.new(:language => "en")
-      puts stemmer.stem(params.first)
+      puts Syntactic::Stem.word(params.first)
       puts
 
     when 'plural'

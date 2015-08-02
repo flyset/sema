@@ -11,14 +11,18 @@ module Syntactic
 
 	class Extractor
 
-		attr_accessor :sentences, :words
+		attr_accessor :sentences, :words, :text
+
+		def initialize(text)
+			@text = text and extract
+		end
 
 		# Extract words and sentences
 		# via a heuristic method
-		def extract(text)
+		def extract
 			
 			# Seperates the text in parts by space
-			parts = text.split(" ")
+			parts = @text.split(" ")
 			
 			# Set parameters
 			sentence_position = 0
