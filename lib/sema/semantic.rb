@@ -8,5 +8,5 @@
 #
 
 module Semantic
-	
+
 end

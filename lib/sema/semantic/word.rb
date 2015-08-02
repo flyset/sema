@@ -12,10 +12,6 @@ module Semantic
 	class Word
 		attr_accessor :text, :sentence_position, :position, :class, :punctuation
 
-		def classify
-			classifier = Syntactic::Classifier.new
-			self.class = classifier.classify(@text)
-		end
 	end
 
 end

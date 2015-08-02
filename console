@@ -188,14 +188,14 @@ loop do
     when 'find'
 
       puts
-    	word = BasicWord.where(formatted_word: params.first).first
+    	word = Syntactic::Find.basic(params.first).first
     	pp word unless word.nil?
       puts
 
     when 'sfind'
 
       puts
-      found = StemmedWord.where(stemmed_word: params.first)
+      found = Syntactic::Find.stem(params.first)
 
       pp found.first
 
@@ -209,22 +209,15 @@ loop do
 
     when 'learn'
 
-      learn = Learn.new
-      learn.new_word(params.first)
-
-      pp learn.learned_word
+      pp Syntactic::Learn.word(params.first)
 
     when 'add'
 
-      learn = Learn.new
-      learn.new_classification(params[0], params[1], params[2])
-
-      pp learn.learned_word
+      pp Syntactic::Learn.classification(params[0], params[1], params[2])
 
     when 'unlearn'
 
-      learn = Learn.new
-      learn.remove_by_id(params[0])
+      pp Syntactic::Unlearn.by_id(params[0])
 
     when 'list'
 

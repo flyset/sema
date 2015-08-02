@@ -57,17 +57,16 @@ module Syntactic
 
 		def identify_classification(word)
 			
-			# Identify Basic Word Classification
-			basic_word = BasicWord.where(formatted_word: word).first
+			# Find Basic Word Classification
+			basic_word = Find.basic(word).first
 
 			if basic_word.nil?
 
 				# Stemm
-				stemmer= Lingua::Stemmer.new(:language => "en")
-				stemmed_word = stemmer.stem(word)
+				stemmed_word = Stem.word(word)
 
-				# Identify stem word
-				stemmed_unclassified_word = StemmedWord.where(stemmed_word: stemmed_word)
+				# Find stem word
+				stemmed_unclassified_word = Find.stem(stemmed_word)
 
 				# Return nothing if we do not know the stem word
 				return nil if stemmed_unclassified_word.count == 0

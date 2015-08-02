@@ -90,8 +90,12 @@ module Syntactic
 			word.sentence_position = sentence_position
 			word.position = position
 			word.punctuation = punctuation
-			word.classify # Using the Syntactic Classifier
-			word
+
+			# Classify text
+			classifier = Classifier.new
+			word.class = classifier.classify(text)
+
+			return word
 		end
 
 		# Create a new sentence
@@ -99,7 +103,8 @@ module Syntactic
 			sentence = Semantic::Sentence.new
 			sentence.position = sentence_position
 			sentence.type = type
-			sentence
+
+			return sentence
 		end
 
 	end
