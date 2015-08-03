@@ -37,10 +37,14 @@ def show_analysis
       t = 'unknown' if word.class.nil?
       t = word.class if word.class
 
-      if word.punctuation.nil?
+      unless word.front_punctuation.nil?
+        print "[#{word.front_punctuation}]"
+      end
+
+      if word.back_punctuation.nil?
         print "[#{t} => #{word.text}]" + " "
       else
-        print "[#{t} => #{word.text}]" + "[#{word.punctuation}] "
+        print "[#{t} => #{word.text}]" + "[#{word.back_punctuation}] "
       end
     end
     print "\n"
@@ -58,10 +62,14 @@ def show_text
       t = 'unknown' if word.class.nil?
       t = word.class if word.class
 
-      if word.punctuation.nil?
+      unless word.front_punctuation.nil?
+        print "[#{word.front_punctuation}]"
+      end
+
+      if word.back_punctuation.nil?
         print "#{word.text}" + " "
       else
-        print "#{word.text}" + "[#{word.punctuation}] "
+        print "#{word.text}" + "[#{word.back_punctuation}] "
       end
     end
     print "\n"

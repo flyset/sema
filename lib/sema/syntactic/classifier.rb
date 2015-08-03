@@ -15,6 +15,12 @@ module Syntactic
 		# noun, verb, adjective, adverb, 
 		# pronoun, preposition, conjunction,
 		# determiner, exclamation
+
+		attr_accessor :classification
+
+		def initialize(word)
+			classify(word)
+		end
 		
 		def classify(word)
 
@@ -24,10 +30,10 @@ module Syntactic
 
 				# Identify Special Classifications
 				special_classification = special_word(formatted_word)
-				return special_classification unless special_classification.nil?
+				@classification = special_classification and return unless special_classification.nil?
 
 				# Identify Classifications
-				return identify_classification(formatted_word)
+				@classification = identify_classification(formatted_word) and return
 
 			rescue Exception => e
 
@@ -37,7 +43,6 @@ module Syntactic
 	  			exit
 			end
 
-			return nil
 		end
 
 		def format_word(word)
@@ -51,7 +56,12 @@ module Syntactic
 			
 			# Identify Numerical
 			if word.to_i.to_s == word
-				return "number"
+				return "numerical"
+			end
+
+			# Identify Special punctuations
+			if word =~ /\-/
+				return "punctuation"
 			end
 		end
 

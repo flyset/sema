@@ -10,7 +10,7 @@
 module Semantic
 
 	class Word
-		attr_accessor :text, :sentence_position, :position, :class, :punctuation
+		attr_accessor :text, :sentence_position, :position, :class, :front_punctuation, :back_punctuation
 
 	end
 
