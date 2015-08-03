@@ -29,6 +29,8 @@ require "#{Dir.pwd}/lib/sema/syntactic"
 require "#{Dir.pwd}/lib/sema/syntactic/extractor"
 require "#{Dir.pwd}/lib/sema/syntactic/classifier"
 
+require "#{Dir.pwd}/lib/sema/pattern"
+
 # Models
 require "#{Dir.pwd}/lib/sema/models/basic_word"
 require "#{Dir.pwd}/lib/sema/models/stemmed_word"

@@ -171,6 +171,10 @@ loop do
         show_text
       when 'input'
         show_input
+      when 'pattern'
+        puts
+        pp @sema.pattern.pattern_str
+        puts
       else
         show_analysis
       end

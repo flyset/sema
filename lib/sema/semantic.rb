@@ -10,8 +10,7 @@
 module Semantic
 
 	class Interface
-
-		attr_accessor :syntactic
+		attr_accessor :syntactic, :pattern
 
 	end
 

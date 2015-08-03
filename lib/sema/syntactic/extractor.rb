@@ -15,6 +15,8 @@ module Syntactic
 			extract(text)
 		end
 
+		private
+		
 		# Extract words and sentences
 		# via a heuristic method
 		def extract(text)

@@ -9,7 +9,7 @@
 
 module Syntactic
 
-	class Classifier < Interface
+	class Classifier
 
 		# Classify if our word is a
 		# noun, verb, adjective, adverb, 
@@ -22,6 +22,8 @@ module Syntactic
 			classify(word)
 		end
 		
+		private
+
 		def classify(word)
 
 			begin
