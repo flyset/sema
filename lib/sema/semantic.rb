@@ -9,4 +9,10 @@
 
 module Semantic
 
+	class Interface
+
+		attr_accessor :syntactic
+
+	end
+
 end

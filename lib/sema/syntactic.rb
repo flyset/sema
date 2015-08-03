@@ -8,9 +8,23 @@
 #
 
 module Syntactic
+
+	class Interface
+		attr_accessor :sentences, :words
+
+		# Returns sentence by position
+		def words_of_sentence(sentence)
+			words = Array.new
+			for word in @words
+				words << word if word.sentence_position == sentence.position
+			end
+			words
+		end
+
+	end
 	
 	# Find words from the mongodb
-	class Find
+	class Find < Interface
 
 		def self.stem(string)
 			StemmedWord.where(stemmed_word: string)
@@ -22,7 +36,7 @@ module Syntactic
 	end
 
 	# Stem methods
-	class Stem
+	class Stem < Interface
 
 		def self.word(string)
 			s = Lingua::Stemmer.new(:language => "en")
@@ -32,7 +46,7 @@ module Syntactic
 	end
 
 	# Learn methods
-	class Learn
+	class Learn < Interface
 
 		def self.word(word)
 
@@ -69,7 +83,7 @@ module Syntactic
 
 	end
 
-	class Unlearn
+	class Unlearn < Interface
 
 		def self.by_id(id)
 			found = StemmedWord.where( _id: id )

@@ -9,20 +9,18 @@
 
 module Syntactic
 
-	class Extractor
-
-		attr_accessor :sentences, :words, :text
+	class Extractor < Interface
 
 		def initialize(text)
-			@text = text and extract
+			extract(text)
 		end
 
 		# Extract words and sentences
 		# via a heuristic method
-		def extract
+		def extract(text)
 			
 			# Seperates the text in parts by space
-			parts = @text.split(" ")
+			parts = text.split(" ")
 			
 			# Set parameters
 			sentence_position = 0
@@ -121,15 +119,6 @@ module Syntactic
 					)
 				end
 			end
-		end
-
-		# Returns sentence by position
-		def get_sentence(position)
-			words = Array.new
-			for word in @words
-				words << word if word.sentence_position == position
-			end
-			words
 		end
 
 		private

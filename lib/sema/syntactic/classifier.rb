@@ -9,7 +9,7 @@
 
 module Syntactic
 
-	class Classifier
+	class Classifier < Interface
 
 		# Classify if our word is a
 		# noun, verb, adjective, adverb, 

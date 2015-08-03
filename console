@@ -25,14 +25,14 @@ end
 def show_analysis
   puts
   puts "======================="
-  puts "Sentences: " + @sema.sentences.count.to_s
-  puts "Words: " + @sema.words.count.to_s
+  puts "Sentences: " + @sema.syntactic.sentences.count.to_s
+  puts "Words: " + @sema.syntactic.words.count.to_s
   puts "======================="
   puts
 
-  for sentence in @sema.sentences
+  for sentence in @sema.syntactic.sentences
     
-    for word in @sema.sentence(sentence.position)
+    for word in @sema.syntactic.words_of_sentence(sentence)
 
       t = 'unknown' if word.class.nil?
       t = word.class if word.class
@@ -55,9 +55,9 @@ end
 def show_text
 
   puts
-  for sentence in @sema.sentences
+  for sentence in @sema.syntactic.sentences
     
-    for word in @sema.sentence(sentence.position)
+    for word in @sema.syntactic.words_of_sentence(sentence)
 
       t = 'unknown' if word.class.nil?
       t = word.class if word.class
@@ -86,7 +86,7 @@ end
 def list_words
 
   puts
-  for word in @sema.words
+  for word in @sema.syntactic.words
     puts "#{word.position} [#{word.text}], [#{word.class}]"
   end
   puts
@@ -96,7 +96,7 @@ end
 def list_learn
 
   puts
-  for word in @sema.words
+  for word in @sema.syntactic.words
     puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class.nil? or word.class == 'unclassified'
   end
   puts
@@ -106,7 +106,7 @@ end
 def list_class(classification)
 
   puts
-  for word in @sema.words
+  for word in @sema.syntactic.words
     puts "#{word.position} [#{word.text}], [#{word.class}]" if word.class == classification
   end
   puts

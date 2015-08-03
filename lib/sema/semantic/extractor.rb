@@ -9,33 +9,17 @@
 
 module Semantic
 
-	class Extractor
-
-		attr_accessor :raw_text
+	class Extractor < Interface
 
 		def initialize(text)
-			@raw_text = text and extract
+			extract(text)
 		end
 
 		# Semantic Extractor
-		def extract
+		def extract(text)
 			
 			# Extract syntax
-			@syntax = Syntactic::Extractor.new(@raw_text)
-
-		end
-
-		# Interface methods for commandline (execute)
-		def sentences
-			@syntax.sentences
-		end
-
-		def words
-			@syntax.words
-		end
-
-		def sentence(position)
-			@syntax.get_sentence(position)
+			@syntactic = Syntactic::Extractor.new(text)
 		end
 
 	end

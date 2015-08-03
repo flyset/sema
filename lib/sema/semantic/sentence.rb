@@ -9,8 +9,9 @@
 
 module Semantic
 
-	class Sentence
+	class Sentence < Interface
 		attr_accessor :position, :type
+
 	end
 
 end
